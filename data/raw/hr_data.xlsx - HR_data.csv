@@ -1,0 +1,1001 @@
+Employee ID,Name,Last Name,Age,Birth Year,Salary,Gender,Department,Position,Joining Date,Performance Score,Performance Score Numeric,Email,Phone Number,Employment Status,Manager ID,Years of Service,Sick Days Taken,Vacation Days Remaining,Last Promotion Date,Training Hours,Benefits Enrolled,job_satisfaction,attrition
+EMP-2018-0001,Grace,Hansen,25,1999,50000,Male,HR,Manager,4/5/2018,D,64,grace.hansen@saltcorp.com,,contract,,4,,0,,,YES,4,No
+EMP-2020-0002,David,Cohen,,1983,65000,Female,finance,Director,2/20/2020,F,5,david.cohen@saltcorp.com,123-456-7890,Full-Time,,8,3,15,,14,N,1,Yes
+EMP-2020-0003,Hannah,Matthews,35,1989,SIXTY THOUSAND,Female,sales,Director,01/15/2020,C,70,hannah.matthews@saltcorp.com,098-765-4321,Full-Time,,6,15,,2024.08.12,,YES,5,No
+EMP-2018-0004,Eve,Parker,,1976,50000,Female,it,Manager,4/5/2018,A,93,eve.parker@saltcorp.com, ,contract,,5,12,11,2024.08.12,,Yes,2,Yes
+EMP-2020-0005,Grace,Liu,,1973,59500,Female,Finance,Manager,01/15/2020,F,14,grace.liu@saltcorp.com,098-765-4321,Contract,,3,4,,1/15/2023,47,,1,No
+EMP-2019-0006,Jack,Evans,,1971,65000,Male,Marketing,Director,3/25/2019,F,48,jack.evans@saltcorp.com,,Part-Time,,3,,,6/20/2022,,no,5,No
+EMP-2019-0007,Charlie,Moore,,1991,50000,Male,Marketing,Clerk,12/1/2019,B,86,,123-456-7890,Part-Time,,5,N/A,0,2024.08.12,,Yes,4,Yes
+EMP-2019-0008,Grace,Wang,40,1984,50000,Female,hr,Director,3/25/2019,C,71,, ,Part-Time,,2,,,,,no,3,No
+EMP-2020-0009,Hannah,McCoy,40,1984,SIXTY THOUSAND,Female,Marketing,Manager,01/15/2020,C,75,hannah.mccoy@saltcorp.com,123-456-7890,contract,,8,,,,,,2,No
+EMP-2020-0010,Eve,Stevens,thirty,1994,58500,Female,finance,Assistant,2/20/2020,A,90,, ,Full-Time,EMP-2020-0025,3,,4,8/12/2024,65,no,5,No
+EMP-2019-0011,David,West,25,1999,70000,Male,marketing,Analyst,12/1/2019,B,81,,123-456-7890,contract,,5,N/A,,8/12/2024,,N,1,No
+EMP-2019-0012,Hannah,Brooks,,1987,70000,Female,Finance,Assistant,3/25/2019,A,100,hannah.brooks@saltcorp.com,,contract,,3,1,15,,,Yes,3,Yes
+EMP-2018-0013,Hannah,Gomez,thirty,1994,50000,Male,it,Assistant,4/5/2018,D,64,, ,part-time,EMP-2019-0003,6,,,10/1/2021,,N,2,No
+EMP-2020-0014,Charlie,Martin,25,1999,55000,Male,hr,Manager,2/20/2020,F,29,,555-555-5555,Full-Time,EMP-2019-0089,2,3,18,,,Yes,2,No
+EMP-2019-0015,Frank,Young,50,1974,60500,Male,Marketing,Director,03-25-2019,A,100,,123-456-7890,part-time,,4,7,20,,23,No,4,No
+EMP-2018-0016,Eve,Pearson,35,1989,65000,Male,Finance,Clerk,4/5/2018,F,40,eve.pearson@saltcorp.com,123-456-7890,full-time,,6,N/A,,3/5/2023,71,YES,2,No
+EMP-2020-0017,Bob,Garcia,40,1984,55000,Female,sales,Assistant,01/15/2020,B,88,,098-765-4321,Full-Time,,4,9,,6/20/2022,,,2,No
+EMP-2018-0018,Hannah,Weber,50,1974,55000,Male,HR,Director,4/5/2018,D,63,hannah.weber@saltcorp.com, ,Full-Time,EMP-2019-0030,5,,,1/15/2023,,,1,Yes
+EMP-2019-0019,Frank,Flores,25,1999,58600,Female,IT,Clerk,03-25-2019,B,80,frank.flores@saltcorp.com,555-555-5555,Full-Time,,7,N/A,15,,26,N,4,No
+EMP-2019-0020,Bob,Miller,50,1974,50000,Female,finance,Assistant,03-25-2019,D,61,bob.miller@saltcorp.com,,Part-Time,EMP-2020-0024,6,,1,,53,Yes,3,No
+EMP-2020-0021,Eve,Stevens,35,1989,50000,Female,IT,Clerk,01/15/2020,D,67,eve.stevens@saltcorp.com,098-765-4321,Part-Time,,6,N/A,10,6/20/2022,,,1,Yes
+EMP-2018-0022,Alice,Dixon,25,1999,50000,Female,IT,Director,4/5/2018,F,8,alice.dixon@saltcorp.com,555-555-5555,part-time,,5,1,13,,,YES,3,No
+EMP-2018-0023,Jack,Barnett,50,1974,50000,Male,Marketing,Analyst,4/5/2018,B,88,jack.barnett@saltcorp.com, ,part-time,,5,,,,,Yes,2,Yes
+EMP-2020-0024,Frank,Oliver,40,1984,70000,Male,marketing,Director,01/15/2020,B,86,frank.oliver@saltcorp.com,555-555-5555,Full-Time,,8,N/A,,10/1/2021,,,2,No
+EMP-2018-0025,Ivy,Olson,40,1984,50000,Female,Finance,Manager,4/5/2018,A,93,ivy.olson@saltcorp.com,123-456-7890,part-time,,2,3,,,9,no,1,No
+EMP-2020-0026,Alice,Martinez,thirty,1994,70000,Male,Sales,Clerk,01/15/2020,B,81,alice.martinez@saltcorp.com,123-456-7890,Part-Time,,8,N/A,,,,,5,No
+EMP-2020-0027,Jack,Sims,50,1974,70000,Male,finance,Analyst,2/20/2020,A,100,jack.sims@saltcorp.com,098-765-4321,contract,,1,,,3/5/2023,39,,2,Yes
+EMP-2019-0028,Charlie,Harris,,1999,50000,Male,sales,Clerk,03-25-2019,C,77,charlie.harris@saltcorp.com, ,contract,,2,2,,,,YES,2,No
+EMP-2020-0029,Grace,Hudson,50,1974,SIXTY THOUSAND,Male,IT,Clerk,2/20/2020,C,71,, ,contract,EMP-2019-0044,8,,,8/12/2024,,No,1,Yes
+EMP-2019-0030,David,Kim,25,1999,65000,Male,HR,Assistant,12/1/2019,C,71,,555-555-5555,part-time,,4,N/A,,8/12/2024,,no,3,No
+EMP-2019-0031,Ivy,Williamson,25,1999,55000,Female,Finance,Manager,12/1/2019,B,87,ivy.williamson@saltcorp.com,098-765-4321,full-time,EMP-2019-0015,2,5,,N/A,,N,2,Yes
+EMP-2019-0032,Charlie,Medina,50,1974,70000,Female,Finance,Clerk,12/1/2019,B,88,charlie.medina@saltcorp.com, ,Part-Time,,7,,,,,,1,No
+EMP-2020-0033,Eve,Cooper,35,1989,63000,Female,Sales,Director,01/15/2020,A,100,eve.cooper@saltcorp.com,123-456-7890,full-time,,5,,,,,Yes,5,No
+EMP-2018-0034,Charlie,Hanson,40,1984,60100,Female,IT,Director,4/5/2018,D,68,charlie.hanson@saltcorp.com,555-555-5555,part-time,,7,,2,,,yes,1,Yes
+EMP-2020-0035,Grace,Yang,25,1999,65000,Male,IT,Assistant,2/20/2020,A,90,grace.yang@saltcorp.com,,Contract,,1,N/A,5,N/A,66,,2,Yes
+EMP-2020-0036,Eve,Stevens,40,1984,61500,Female,Sales,Manager,2/20/2020,C,74,eve.stevens@saltcorp.com,123-456-7890,FULL-TIME,,3,,,,11,no,3,No
+EMP-2020-0037,Ivy,Lucas,25,1999,SIXTY THOUSAND,Male,IT,Manager,2/20/2020,A,93,ivy.lucas@saltcorp.com,098-765-4321,FULL-TIME,,3,4,17,,19,Yes,5,No
+EMP-2020-0038,Grace,Schmidt,thirty,1994,60500,Male,Marketing,Director,2/20/2020,D,62,grace.schmidt@saltcorp.com, ,Full-Time,,4,N/A,,,,No,4,No
+EMP-2019-0039,Bob,Garcia,,1985,55000,Male,HR,Analyst,12/1/2019,B,87,bob.garcia@saltcorp.com,123-456-7890,FULL-TIME,,6,6,16,,43,No,1,Yes
+EMP-2020-0040,David,Kim,25,1999,55000,Female,Finance,Assistant,2/20/2020,A,98,david.kim@saltcorp.com,,FULL-TIME,,7,,,1/15/2023,,Yes,1,No
+EMP-2018-0041,Ivy,Dixon,40,1984,70000,Female,HR,Assistant,4/5/2018,C,74,ivy.dixon@saltcorp.com,,Part-Time,EMP-2018-0081,8,4,,,,no,5,No
+EMP-2019-0042,Bob,Dominguez,thirty,1994,50000,Female,finance,Director,12/1/2019,C,77,bob.dominguez@saltcorp.com,098-765-4321,contract,EMP-2018-0021,3,12,,10/1/2021,,,4,Yes
+EMP-2020-0043,Jack,O'Connor,25,1999,SIXTY THOUSAND,Male,marketing,Director,2/20/2020,B,83,jack.o'connor@saltcorp.com,123-456-7890,full-time,EMP-2018-0021,6,,,,,Yes,1,Yes
+EMP-2020-0044,Ivy,Shah,35,1989,70000,Male,it,Analyst,1/15/2020,A,90,ivy.shah@saltcorp.com,555-555-5555,Contract,,3,,,3/5/2023,,No,2,No
+EMP-2019-0045,Jack,Byrd,,1996,SIXTY THOUSAND,Male,sales,Analyst,3/25/2019,D,60,jack.byrd@saltcorp.com,123-456-7890,Contract,,2,12,,,,yes,2,No
+EMP-2019-0046,Eve,Parker,25,1999,50000,Female,marketing,Manager,3/25/2019,B,80,eve.parker@saltcorp.com,,Part-Time,,8,N/A,4,8/12/2024,,YES,1,No
+EMP-2019-0047,Bob,Le,thirty,1994,61500,Male,hr,Assistant,3/25/2019,A,93,bob.le@saltcorp.com,098-765-4321,Part-Time,,6,,14,,28,yes,3,No
+EMP-2019-0048,David,Kim,35,1989,58300,Male,sales,Assistant,12/1/2019,F,15,david.kim@saltcorp.com,098-765-4321,FULL-TIME,EMP-2018-0055,3,,,1/15/2023,65,YES,3,Yes
+EMP-2020-0049,Grace,Liu,50,1974,50000,Male,IT,Director,2/20/2020,C,73,grace.liu@saltcorp.com,555-555-5555,Contract,,6,,,N/A,,YES,2,Yes
+EMP-2019-0050,Hannah,Armstrong,thirty,1994,70000,Female,Marketing,Manager,12/1/2019,D,66,hannah.armstrong@saltcorp.com,098-765-4321,Full-Time,EMP-2018-0008,1,,3,,,No,1,No
+EMP-2018-0051,Charlie,Clark,thirty,1994,50000,Female,Sales,Assistant,4/5/2018,D,60,charlie.clark@saltcorp.com,098-765-4321,Full-Time,,1,1,5,8/12/2024,,yes,1,No
+EMP-2020-0052,Alice,Chen,35,1989,65000,Female,marketing,Manager,1/15/2020,D,63,alice.chen@saltcorp.com,098-765-4321,full-time,,8,,,,45,No,3,No
+EMP-2020-0053,David,Ross,thirty,1994,55000,Female,marketing,Manager,1/15/2020,C,72,david.ross@saltcorp.com,098-765-4321,Full-Time,,5,,,,,no,1,No
+EMP-2019-0054,Bob,Wilson,35,1989,70000,Female,IT,Director,3/25/2019,A,94,bob.wilson@saltcorp.com,098-765-4321,Contract,,4,,14,6/20/2022,,yes,2,Yes
+EMP-2019-0055,Hannah,Gray,25,1999,SIXTY THOUSAND,Male,Finance,Manager,03-25-2019,B,81,hannah.gray@saltcorp.com,,FULL-TIME,EMP-2018-0077,3,,,,,Yes,1,Yes
+EMP-2019-0056,David,Gibson,35,1989,65000,Female,Sales,Analyst,03-25-2019,A,90,david.gibson@saltcorp.com,123-456-7890,Contract,,3,8,,,46,No,1,Yes
+EMP-2020-0057,Bob,Wilson,35,1989,70000,Female,it,Analyst,2/20/2020,B,87,bob.wilson@saltcorp.com, ,part-time,EMP-2020-0033,8,7,,,,YES,2,No
+EMP-2018-0058,Frank,Hansen,,1991,50000,Male,Marketing,Clerk,4/5/2018,D,60,frank.hansen@saltcorp.com,098-765-4321,Contract,,2,,,1/15/2023,,YES,2,Yes
+EMP-2018-0059,Frank,Dominguez,35,1989,50000,Male,it,Director,4/5/2018,A,94,frank.dominguez@saltcorp.com, ,FULL-TIME,,3,,,,,,4,No
+EMP-2018-0060,Jack,Riley,35,1989,50000,Male,Finance,Clerk,4/5/2018,D,63,jack.riley@saltcorp.com, ,Full-Time,,7,,,N/A,,,2,Yes
+EMP-2018-0061,David,Patel,50,1974,50000,Female,Sales,Analyst,4/5/2018,F,3,david.patel@saltcorp.com,,contract,EMP-2019-0074,7,,4,10/1/2021,,No,2,Yes
+EMP-2019-0062,Frank,Perez,25,1999,SIXTY THOUSAND,Male,Finance,Clerk,03-25-2019,D,69,frank.perez@saltcorp.com,098-765-4321,full-time,,7,,,8/12/2024,,No,1,Yes
+EMP-2020-0063,Bob,Hoffman,,1979,65000,Male,HR,Director,1/15/2020,D,60,bob.hoffman@saltcorp.com, ,part-time,,7,,13,,59,yes,1,Yes
+EMP-2019-0064,Jack,O'Neill,50,1974,63000,Male,Sales,Director,03-25-2019,B,82,jack.o'neill@saltcorp.com,098-765-4321,Full-Time,,8,,,,,No,2,Yes
+EMP-2018-0065,Bob,Powers,40,1984,55000,Female,Finance,Manager,"April 5, 2018",F,56,bob.powers@saltcorp.com,555-555-5555,full-time,,7,,,,12,Yes,2,Yes
+EMP-2019-0066,Jack,Sullivan,25,1999,SIXTY THOUSAND,Female,Marketing,Assistant,3/25/2019,D,69,jack.sullivan@saltcorp.com,555-555-5555,Full-Time,,1,,0,,,no,5,No
+EMP-2018-0067,David,Garrett,25,1999,SIXTY THOUSAND,Male,sales,Manager,"April 5, 2018",D,69,david.garrett@saltcorp.com,555-555-5555,part-time,,1,,0,6/20/2022,,No,1,Yes
+EMP-2019-0068,Hannah,Powell,40,1984,63000,Male,sales,Director,12/1/2019,F,42,hannah.powell@saltcorp.com, ,Contract,,4,6,,6/20/2022,,YES,1,No
+EMP-2020-0069,Grace,Zhang,35,1989,59300,Female,IT,Analyst,1/15/2020,F,8,grace.zhang@saltcorp.com,555-555-5555,FULL-TIME,EMP-2019-0042,6,,,3/5/2023,,yes,5,No
+EMP-2019-0070,Ivy,Kumar,50,1974,55000,Female,marketing,Analyst,12/1/2019,A,100,ivy.kumar@saltcorp.com,,contract,,1,N/A,,N/A,,No,3,No
+EMP-2020-0071,Hannah,Bennett,thirty,1994,55000,Male,hr,Manager,2/20/2020,B,80,hannah.bennett@saltcorp.com,,part-time,,6,,,N/A,61,,4,No
+EMP-2019-0072,Eve,Cooper,,1980,60300,Male,Finance,Director,3/25/2019,F,32,eve.cooper@saltcorp.com, ,FULL-TIME,,4,,,6/20/2022,46,Yes,2,Yes
+EMP-2020-0073,Bob,Garcia,thirty,1994,50000,Male,IT,Analyst,2/20/2020,F,56,bob.garcia@saltcorp.com,098-765-4321,Contract,,1,,,N/A,,No,1,Yes
+EMP-2019-0074,Eve,McCoy,40,1984,SIXTY THOUSAND,Female,Finance,Director,3/25/2019,C,74,eve.mccoy@saltcorp.com,123-456-7890,part-time,,1,,,,54,,3,No
+EMP-2019-0075,Hannah,Davidson,25,1999,70000,Female,HR,Analyst,2019.12.01,F,0,hannah.davidson@saltcorp.com,098-765-4321,Part-Time,,4,5,,,80,,1,Yes
+EMP-2018-0076,Jack,O'Connor,25,1999,55000,Male,HR,Director,"April 5, 2018",B,88,jack.o'connor@saltcorp.com,098-765-4321,contract,,4,,,,,,1,No
+EMP-2018-0077,Ivy,Sharma,,1999,55000,Female,Sales,Clerk,"April 5, 2018",D,61,ivy.sharma@saltcorp.com,098-765-4321,Full-Time,,6,,20,N/A,19,,5,Yes
+EMP-2019-0078,Ivy,Kumar,25,1999,60900,Male,HR,Director,3/25/2019,D,64,ivy.kumar@saltcorp.com,098-765-4321,Full-Time,,5,14,,,46,No,1,No
+EMP-2018-0079,Alice,Lee,25,1999,65000,Male,finance,Director,"April 5, 2018",D,64,alice.lee@saltcorp.com,123-456-7890,contract,EMP-2020-0053,3,,,,,,3,Yes
+EMP-2019-0080,Ivy,Gibson,,1986,70000,Female,marketing,Manager,2019.12.01,D,61,ivy.gibson@saltcorp.com,555-555-5555,Part-Time,EMP-2018-0060,2,5,10,1/15/2023,,YES,2,No
+EMP-2018-0081,Grace,Zhou,50,1974,70000,Female,Marketing,Clerk,"April 5, 2018",C,70,grace.zhou@saltcorp.com,098-765-4321,FULL-TIME,,7,,,3/5/2023,78,No,5,Yes
+EMP-2019-0082,Ivy,Reddy,50,1974,55000,Female,sales,Assistant,2019.12.01,F,35,ivy.reddy@saltcorp.com,,Contract,,5,N/A,,3/5/2023,,Yes,2,Yes
+EMP-2020-0083,Hannah,Jordan,,1980,50000,Female,Finance,Manager,2/20/2020,D,61,hannah.jordan@saltcorp.com, ,Full-Time,,3,5,20,8/12/2024,,No,1,No
+EMP-2019-0084,Alice,Martinez,40,1984,65000,Female,Finance,Assistant,2019.12.01,A,92,alice.martinez@saltcorp.com, ,FULL-TIME,,2,N/A,,6/20/2022,,Yes,4,No
+EMP-2020-0085,Hannah,Knight,25,1999,70000,Female,HR,Analyst,1/15/2020,D,62,hannah.knight@saltcorp.com,,Part-Time,,1,3,9,,51,yes,2,No
+EMP-2020-0086,Hannah,Pearson,25,1999,55000,Male,finance,Assistant,1/15/2020,F,13,hannah.pearson@saltcorp.com,098-765-4321,FULL-TIME,,5,2,,8/12/2024,,No,2,No
+EMP-2020-0087,Charlie,Clark,40,1984,70000,Male,IT,Director,1/15/2020,D,65,charlie.clark@saltcorp.com,123-456-7890,Full-Time,,5,,3,6/20/2022,,no,2,Yes
+EMP-2019-0088,Alice,Rivera,50,1974,65000,Female,HR,Assistant,3/25/2019,C,79,alice.rivera@saltcorp.com,555-555-5555,full-time,,8,,,,,,2,No
+EMP-2019-0089,Hannah,Powell,35,1989,65000,Female,it,Manager,3/25/2019,B,82,hannah.powell@saltcorp.com, ,Contract,,6,6,,8/12/2024,7,YES,3,No
+EMP-2019-0090,Charlie,Martin,35,1989,SIXTY THOUSAND,Male,sales,Manager,3/25/2019,B,85,charlie.martin@saltcorp.com,555-555-5555,full-time,,7,N/A,,,55,Yes,5,Yes
+EMP-2019-0091,Charlie,Jackson,35,1989,61600,Male,marketing,Assistant,2019.12.01,F,54,charlie.jackson@saltcorp.com,123-456-7890,contract,,3,8,,8/12/2024,,No,2,No
+EMP-2019-0092,Alice,Lucas,50,1974,61500,Female,Sales,Manager,3/25/2019,B,83,alice.lucas@saltcorp.com, ,FULL-TIME,,6,2,,N/A,,No,4,No
+EMP-2020-0093,Eve,Gutierrez,50,1974,55000,Male,Marketing,Manager,2/20/2020,B,83,eve.gutierrez@saltcorp.com,555-555-5555,Contract,,8,,,,70,yes,5,No
+EMP-2020-0094,Jack,Murphy,40,1984,65000,Male,Sales,Assistant,1/15/2020,A,93,jack.murphy@saltcorp.com,123-456-7890,Part-Time,,6,15,16,,,yes,1,Yes
+EMP-2019-0095,Grace,Weber,25,1999,SIXTY THOUSAND,Female,finance,Clerk,2019.12.01,F,25,grace.weber@saltcorp.com,555-555-5555,Contract,EMP-2020-0084,4,,,N/A,,Yes,1,Yes
+EMP-2020-0096,Jack,Ryan,40,1984,SIXTY THOUSAND,Male,IT,Clerk,1/15/2020,F,7,jack.ryan@saltcorp.com,098-765-4321,Contract,,3,,13,10/1/2021,78,yes,3,No
+EMP-2019-0097,Ivy,Reddy,40,1984,70000,Female,Marketing,Analyst,3/25/2019,B,82,ivy.reddy@saltcorp.com,123-456-7890,Part-Time,,7,,,3/5/2023,,,5,Yes
+EMP-2019-0098,Grace,Wu,50,1974,70000,Male,HR,Manager,12/1/2019,B,89,grace.wu@saltcorp.com,555-555-5555,contract,EMP-2018-0057,1,8,,,,,4,No
+EMP-2018-0099,Ivy,Hoffman,35,1989,SIXTY THOUSAND,Female,IT,Assistant,"April 5, 2018",B,86,ivy.hoffman@saltcorp.com,098-765-4321,Contract,,4,4,18,10/1/2021,,no,1,No
+EMP-2020-0100,Hannah,Perry,thirty,1994,70000,Male,HR,Manager,2/20/2020,C,73,hannah.perry@saltcorp.com,098-765-4321,contract,EMP-2020-0020,4,,,,,,4,Yes
+EMP-2019-0101,Bob,Aguilar,25,1999,65000,Male,it,Director,3/25/2019,D,68,bob.aguilar@saltcorp.com,123-456-7890,contract,,3,6,13,,64,Yes,1,Yes
+EMP-2019-0102,Alice,Byrd,50,1974,50000,Male,IT,Manager,3/25/2019,C,75,alice.byrd@saltcorp.com,,contract,,4,N/A,,10/1/2021,,Yes,3,No
+EMP-2020-0103,Grace,Walker,35,1989,65000,Female,Sales,Manager,2/20/2020,F,42,grace.walker@saltcorp.com, ,Full-Time,,1,,15,8/12/2024,64,Yes,2,No
+EMP-2020-0104,Grace,Gibson,thirty,1994,SIXTY THOUSAND,Female,Marketing,Clerk,2/20/2020,A,91,grace.gibson@saltcorp.com,123-456-7890,part-time,,3,13,16,,,No,2,Yes
+EMP-2018-0105,Hannah,West,thirty,1994,SIXTY THOUSAND,Male,marketing,Assistant,4/5/2018,D,64,hannah.west@saltcorp.com,098-765-4321,contract,,2,2,14,N/A,,No,1,No
+EMP-2019-0106,Eve,Walker,50,1974,65000,Female,IT,Manager,3/25/2019,A,92,eve.walker@saltcorp.com,098-765-4321,Part-Time,,6,N/A,17,N/A,,No,4,No
+EMP-2019-0107,Charlie,Pearson,,2000,70000,Male,finance,Clerk,3/25/2019,F,25,charlie.pearson@saltcorp.com,123-456-7890,part-time,,1,,13,,63,,2,No
+EMP-2020-0108,Hannah,Brooks,25,1999,70000,Female,Finance,Analyst,1/15/2020,F,13,hannah.brooks@saltcorp.com,,contract,,7,N/A,,8/12/2024,,No,3,No
+EMP-2019-0109,Frank,Sanchez,thirty,1994,58800,Male,HR,Clerk,12/1/2019,A,96,frank.sanchez@saltcorp.com, ,Part-Time,,5,N/A,,,5,no,1,No
+EMP-2019-0110,Charlie,Clark,50,1974,SIXTY THOUSAND,Male,HR,Clerk,12/1/2019,A,97,charlie.clark@saltcorp.com,555-555-5555,Part-Time,,1,,,,46,yes,1,No
+EMP-2020-0111,Alice,Wallace,50,1974,55000,Female,Sales,Clerk,1/15/2020,A,92,alice.wallace@saltcorp.com,123-456-7890,full-time,EMP-2018-0057,1,,,,,no,3,No
+EMP-2019-0112,Charlie,Lewis,35,1989,60900,Male,it,Manager,12/1/2019,F,52,charlie.lewis@saltcorp.com, ,full-time,,2,,,1/15/2023,,,4,Yes
+EMP-2020-0113,Eve,Hudson,,1978,70000,Male,HR,Manager,2/20/2020,B,84,eve.hudson@saltcorp.com, ,Contract,,1,,15,,,No,3,No
+EMP-2019-0114,Charlie,Harrison,25,1999,65000,Female,hr,Analyst,12/1/2019,A,90,charlie.harrison@saltcorp.com,098-765-4321,contract,,1,14,1,6/20/2022,,no,1,No
+EMP-2019-0115,Alice,Martinez,40,1984,70000,Female,IT,Director,12/1/2019,D,69,alice.martinez@saltcorp.com,555-555-5555,contract,EMP-2018-0022,2,,18,,,,4,No
+EMP-2020-0116,Eve,Williamson,35,1989,65000,Female,Sales,Director,1/15/2020,F,9,eve.williamson@saltcorp.com,123-456-7890,part-time,,7,,,N/A,17,,2,Yes
+EMP-2018-0117,Jack,Powers,thirty,1994,60900,Male,hr,Director,4/5/2018,C,71,jack.powers@saltcorp.com,098-765-4321,Part-Time,EMP-2020-0019,8,N/A,,3/5/2023,,,4,No
+EMP-2019-0118,Grace,Liu,thirty,1994,SIXTY THOUSAND,Female,Sales,Analyst,12/1/2019,C,77,grace.liu@saltcorp.com,098-765-4321,contract,,7,,,,,No,4,Yes
+EMP-2019-0119,Grace,Li,35,1989,70000,Female,Marketing,Director,12/1/2019,D,62,grace.li@saltcorp.com,,Contract,,2,,14,,,Yes,1,No
+EMP-2018-0120,Ivy,Figueroa,50,1974,65000,Female,sales,Director,4/5/2018,B,88,ivy.figueroa@saltcorp.com, ,FULL-TIME,,5,,2,,,Yes,4,Yes
+EMP-2020-0121,Jack,Ryan,thirty,1994,SIXTY THOUSAND,Female,Finance,Clerk,1/15/2020,A,97,jack.ryan@saltcorp.com,123-456-7890,FULL-TIME,,8,,12,10/1/2021,,no,3,No
+EMP-2018-0122,Jack,Murphy,,1977,55000,Female,Finance,Manager,4/5/2018,F,28,jack.murphy@saltcorp.com,123-456-7890,FULL-TIME,,3,,,,32,Yes,2,Yes
+EMP-2020-0123,Charlie,Harris,25,1999,65000,Female,Sales,Manager,1/15/2020,A,94,charlie.harris@saltcorp.com,123-456-7890,Full-Time,,4,,,,20,Yes,4,No
+EMP-2020-0124,Grace,Zhou,,1991,61300,Male,Finance,Clerk,2/20/2020,F,4,grace.zhou@saltcorp.com,098-765-4321,Part-Time,,1,,,,31,,1,Yes
+EMP-2020-0125,Alice,Williamson,thirty,1994,55000,Female,marketing,Clerk,1/15/2020,C,74,alice.williamson@saltcorp.com,,FULL-TIME,,5,,,8/12/2024,,no,1,Yes
+EMP-2020-0126,David,Kim,40,1984,55000,Male,IT,Clerk,2/20/2020,A,98,david.kim@saltcorp.com,555-555-5555,Full-Time,EMP-2020-0038,7,,3,6/20/2022,,Yes,3,No
+EMP-2020-0127,David,Weber,25,1999,50000,Male,finance,Manager,2/20/2020,D,61,david.weber@saltcorp.com,098-765-4321,FULL-TIME,,2,,19,,,Yes,3,No
+EMP-2020-0128,Eve,Bennett,25,1999,70000,Female,Finance,Director,1/15/2020,B,85,eve.bennett@saltcorp.com,555-555-5555,Contract,,5,,,,79,Yes,4,No
+EMP-2019-0129,Grace,Liu,35,1989,65000,Female,Sales,Clerk,3/25/2019,D,66,grace.liu@saltcorp.com,,full-time,,3,,15,,20,Yes,5,No
+EMP-2020-0130,Grace,Rogers,35,1989,55000,Female,Marketing,Analyst,1/15/2020,B,80,grace.rogers@saltcorp.com, ,Contract,,7,,17,,,Yes,2,Yes
+EMP-2019-0131,David,Dominguez,40,1984,50000,Male,IT,Clerk,12/1/2019,A,90,david.dominguez@saltcorp.com,123-456-7890,Full-Time,EMP-2019-0100,2,,7,N/A,,No,3,No
+EMP-2019-0132,Grace,Wang,50,1974,58300,Male,sales,Assistant,12/1/2019,A,96,grace.wang@saltcorp.com,555-555-5555,Part-Time,,2,,,3/5/2023,,Yes,4,Yes
+EMP-2019-0133,Charlie,Mason,25,1999,SIXTY THOUSAND,Male,Sales,Clerk,3/25/2019,B,87,charlie.mason@saltcorp.com,098-765-4321,part-time,,5,12,1,N/A,19,Yes,5,No
+EMP-2020-0134,Frank,Wallace,40,1984,65000,Female,Marketing,Manager,2/20/2020,C,76,frank.wallace@saltcorp.com,555-555-5555,contract,,2,,5,8/12/2024,58,,4,Yes
+EMP-2019-0135,Bob,Dixon,35,1989,55000,Female,it,Clerk,3/25/2019,F,58,bob.dixon@saltcorp.com, ,Contract,EMP-2020-0083,2,,,10/1/2021,,No,2,No
+EMP-2019-0136,Jack,Ryan,35,1989,70000,Female,Marketing,Assistant,12/1/2019,D,60,jack.ryan@saltcorp.com,123-456-7890,Part-Time,,8,N/A,8,3/5/2023,51,yes,1,No
+EMP-2019-0137,Ivy,Barnett,25,1999,50000,Female,it,Analyst,3/25/2019,D,60,ivy.barnett@saltcorp.com,555-555-5555,contract,,4,,,1/15/2023,43,No,2,Yes
+EMP-2020-0138,Eve,Bell,,1973,55000,Female,Marketing,Director,1/15/2020,D,67,eve.bell@saltcorp.com, ,full-time,EMP-2019-0023,4,7,,,,,5,No
+EMP-2019-0139,Frank,Bell,thirty,1994,70000,Male,Sales,Clerk,3/25/2019,A,90,frank.bell@saltcorp.com,098-765-4321,full-time,,5,12,,,,,2,No
+EMP-2020-0140,David,Murphy,35,1989,55000,Male,sales,Assistant,2/20/2020,D,66,david.murphy@saltcorp.com,,contract,,4,,,10/1/2021,,No,4,No
+EMP-2020-0141,Jack,McCarthy,50,1974,65000,Female,HR,Assistant,1/15/2020,F,1,jack.mccarthy@saltcorp.com,098-765-4321,full-time,,6,,,,40,yes,2,Yes
+EMP-2018-0142,Grace,Liu,50,1974,65000,Female,Finance,Analyst,4/5/2018,F,41,grace.liu@saltcorp.com,123-456-7890,Part-Time,,7,,9,,36,,1,No
+EMP-2019-0143,Ivy,Gomez,35,1989,65000,Female,marketing,Manager,12/1/2019,B,80,ivy.gomez@saltcorp.com,098-765-4321,Contract,,5,N/A,,6/20/2022,22,,4,Yes
+EMP-2019-0144,Grace,Ross,,1989,58800,Female,HR,Clerk,12/1/2019,A,90,grace.ross@saltcorp.com,098-765-4321,Part-Time,,3,,,N/A,,,5,No
+EMP-2019-0145,Alice,Evans,,1995,58500,Female,Finance,Assistant,3/25/2019,F,29,alice.evans@saltcorp.com,098-765-4321,Part-Time,,1,,,3/5/2023,,,1,No
+EMP-2020-0146,Alice,Morris,40,1984,50000,Male,marketing,Analyst,1/15/2020,C,72,alice.morris@saltcorp.com,098-765-4321,contract,,8,,16,N/A,,Yes,2,Yes
+EMP-2018-0147,Ivy,Harrison,50,1974,65000,Male,IT,Director,4/5/2018,A,91,ivy.harrison@saltcorp.com,123-456-7890,part-time,,4,N/A,14,,,No,5,No
+EMP-2020-0148,Ivy,Desai,40,1984,70000,Female,Finance,Assistant,1/15/2020,A,90,ivy.desai@saltcorp.com, ,part-time,,8,N/A,,,19,Yes,5,No
+EMP-2019-0149,David,Pearson,50,1974,55000,Female,sales,Analyst,12/1/2019,F,6,david.pearson@saltcorp.com,555-555-5555,Contract,,6,N/A,,10/1/2021,,Yes,1,Yes
+EMP-2020-0150,Ivy,Weber,thirty,1994,SIXTY THOUSAND,Female,HR,Manager,1/15/2020,C,71,ivy.weber@saltcorp.com,,contract,,4,,17,,,no,2,No
+EMP-2018-0151,Charlie,Williamson,thirty,1994,70000,Male,Finance,Manager,4/5/2018,B,85,charlie.williamson@saltcorp.com,555-555-5555,part-time,,1,N/A,,,46,YES,5,No
+EMP-2019-0152,Grace,Wang,25,1999,58500,Female,Finance,Assistant,3/25/2019,F,0,grace.wang@saltcorp.com,555-555-5555,full-time,,1,N/A,13,,,,4,No
+EMP-2020-0153,Frank,Ramirez,40,1984,58300,Male,Sales,Assistant,2/20/2020,C,71,frank.ramirez@saltcorp.com,,part-time,,2,,,10/1/2021,,No,2,No
+EMP-2020-0154,Hannah,Evans,35,1989,70000,Male,Marketing,Clerk,1/15/2020,A,100,hannah.evans@saltcorp.com,123-456-7890,full-time,,2,N/A,,,,YES,1,No
+EMP-2020-0155,Ivy,Kumar,40,1984,59300,Female,it,Analyst,2/20/2020,C,79,ivy.kumar@saltcorp.com,,Contract,EMP-2018-0018,8,2,,6/20/2022,,Yes,3,No
+EMP-2019-0156,Eve,Parker,35,1989,65000,Female,sales,Assistant,12/1/2019,A,97,eve.parker@saltcorp.com,123-456-7890,Part-Time,,3,,17,1/15/2023,19,No,1,No
+EMP-2019-0157,Alice,Oliver,,1993,50000,Female,IT,Clerk,3/25/2019,F,56,alice.oliver@saltcorp.com,555-555-5555,Part-Time,EMP-2019-0015,2,,,,73,Yes,3,No
+EMP-2019-0158,Charlie,Dixon,40,1984,55000,Female,Marketing,Clerk,3/25/2019,F,39,charlie.dixon@saltcorp.com,123-456-7890,part-time,,2,,5,3/5/2023,44,YES,1,No
+EMP-2020-0159,Jack,Lucas,,1991,50000,Male,finance,Assistant,1/15/2020,D,60,jack.lucas@saltcorp.com, ,full-time,,2,N/A,,,,yes,2,No
+EMP-2019-0160,Hannah,Foster,thirty,1994,55000,Male,it,Manager,3/25/2019,D,63,hannah.foster@saltcorp.com,,Full-Time,,5,14,8,8/12/2024,,YES,5,No
+EMP-2020-0161,Frank,Vega,thirty,1994,55000,Male,hr,Analyst,1/15/2020,D,69,frank.vega@saltcorp.com, ,FULL-TIME,EMP-2020-0094,4,,,,66,No,1,Yes
+EMP-2020-0162,Hannah,Johnston,25,1999,50000,Female,HR,Analyst,1/15/2020,F,12,hannah.johnston@saltcorp.com,555-555-5555,Full-Time,,8,,,10/1/2021,,yes,1,Yes
+EMP-2020-0163,Ivy,Armstrong,40,1984,70000,Male,sales,Manager,2/20/2020,B,83,ivy.armstrong@saltcorp.com,,FULL-TIME,,5,,16,,,YES,5,No
+EMP-2019-0164,David,Matthews,,1986,55000,Male,Marketing,Assistant,3/25/2019,F,50,david.matthews@saltcorp.com,555-555-5555,Full-Time,,5,,17,3/5/2023,,Yes,1,Yes
+EMP-2020-0165,Alice,Williams,35,1989,50000,Male,Sales,Analyst,1/15/2020,C,74,alice.williams@saltcorp.com, ,Part-Time,EMP-2020-0048,8,,,,,No,4,Yes
+EMP-2020-0166,Alice,Chen,thirty,1994,55000,Female,sales,Assistant,2/20/2020,F,30,alice.chen@saltcorp.com,555-555-5555,contract,EMP-2018-0047,1,,,,17,No,1,Yes
+EMP-2018-0167,Jack,O'Neill,thirty,1994,SIXTY THOUSAND,Male,sales,Assistant,4/5/2018,F,47,jack.o'neill@saltcorp.com,,Part-Time,,2,,,,,,5,No
+EMP-2020-0168,David,Walsh,35,1989,70000,Male,HR,Clerk,2/20/2020,A,98,david.walsh@saltcorp.com,,FULL-TIME,EMP-2020-0046,3,,,,47,Y,1,Yes
+EMP-2020-0169,Grace,Barnett,,1982,65000,Female,hr,Manager,2/20/2020,A,94,grace.barnett@saltcorp.com,555-555-5555,contract,,1,,,6/20/2022,,No,4,No
+EMP-2020-0170,Bob,Figueroa,,1994,55000,Male,sales,Assistant,1/15/2020,A,93,bob.figueroa@saltcorp.com,,full-time,,5,,,8/12/2024,,,1,No
+EMP-2019-0171,Charlie,Martin,40,1984,SIXTY THOUSAND,Male,HR,Director,12/1/2019,F,17,charlie.martin@saltcorp.com,,part-time,,6,,4,,52,YES,5,No
+EMP-2019-0172,Alice,Hansen,40,1984,65000,Female,Marketing,Manager,12/1/2019,B,88,alice.hansen@saltcorp.com,555-555-5555,Full-Time,EMP-2018-0073,6,,,,,YES,5,No
+EMP-2019-0173,Eve,Johnston,50,1974,65000,Female,Sales,Analyst,12/1/2019,C,73,eve.johnston@saltcorp.com, ,full-time,,7,N/A,15,,,No,1,Yes
+EMP-2020-0174,Alice,Williams,50,1974,55000,Male,HR,Clerk,2/20/2020,C,78,alice.williams@saltcorp.com,,full-time,EMP-2018-0043,2,4,,,30,Yes,1,No
+EMP-2020-0175,Hannah,Ward,25,1999,50000,Female,IT,Analyst,1/15/2020,B,80,hannah.ward@saltcorp.com,,part-time,,2,,2,"March 5, 2023",,Yes,1,Yes
+EMP-2019-0176,Alice,Andrews,thirty,1994,55000,Female,sales,Analyst,3/25/2019,B,87,alice.andrews@saltcorp.com,,full-time,,1,,,,78,YES,2,Yes
+EMP-2020-0177,Alice,Rivera,40,1984,SIXTY THOUSAND,Male,sales,Manager,2/20/2020,C,77,alice.rivera@saltcorp.com,,part-time,,1,,,,29,Y,1,No
+EMP-2020-0178,Bob,Wilson,,1985,65000,Male,Marketing,Analyst,2/20/2020,D,67,bob.wilson@saltcorp.com,555-555-5555,Contract,EMP-2018-0085,3,N/A,11,,,yes,4,No
+EMP-2020-0179,Bob,Garcia,35,1989,55000,Female,Finance,Assistant,1/15/2020,A,91,bob.garcia@saltcorp.com, ,part-time,,3,0,,,,No,5,No
+EMP-2018-0180,Frank,West,,1984,50000,Female,Finance,Analyst,4/5/2018,A,100,frank.west@saltcorp.com, ,FULL-TIME,EMP-2018-0034,6,,5,6/20/2022,,yes,3,Yes
+EMP-2020-0181,Grace,Zhou,thirty,1994,55000,Male,Marketing,Clerk,2/20/2020,C,71,grace.zhou@saltcorp.com,123-456-7890,Full-Time,EMP-2019-0068,6,,6,,,,4,Yes
+EMP-2018-0182,Eve,Stevens,50,1974,70000,Female,Marketing,Clerk,4/5/2018,B,86,eve.stevens@saltcorp.com,,contract,,8,,,1/15/2023,75,No,5,No
+EMP-2018-0183,Alice,Walker,,1970,50000,Female,Marketing,Director,4/5/2018,D,66,alice.walker@saltcorp.com,,contract,,5,,,6/20/2022,,Y,1,Yes
+EMP-2019-0184,Alice,West,25,1999,SIXTY THOUSAND,Female,finance,Clerk,12/1/2019,C,79,alice.west@saltcorp.com,123-456-7890,Full-Time,,2,,,,71,No,4,No
+EMP-2020-0185,Charlie,Clark,thirty,1994,65000,Male,Marketing,Analyst,1/15/2020,A,99,charlie.clark@saltcorp.com, ,contract,,6,,15,6/20/2022,,No,3,No
+EMP-2018-0186,Bob,Wilson,50,1974,55000,Female,HR,Clerk,4/5/2018,F,42,bob.wilson@saltcorp.com,098-765-4321,part-time,,6,14,19,,,YES,5,No
+EMP-2020-0187,Eve,Oliver,35,1989,50000,Male,Sales,Manager,1/15/2020,B,82,eve.oliver@saltcorp.com,098-765-4321,FULL-TIME,EMP-2019-0088,3,,20,10/1/2021,63,Y,5,No
+EMP-2019-0188,Jack,Matthews,50,1974,70000,Female,sales,Clerk,12/1/2019,F,28,jack.matthews@saltcorp.com, ,Contract,EMP-2019-0010,2,5,,1/15/2023,,Y,4,No
+EMP-2020-0189,Frank,Sims,25,1999,50000,Male,it,Assistant,1/15/2020,C,74,frank.sims@saltcorp.com,,FULL-TIME,EMP-2018-0009,7,,,N/A,60,No,2,No
+EMP-2020-0190,Grace,Thomas,thirty,1994,60900,Female,IT,Manager,2/20/2020,A,94,grace.thomas@saltcorp.com,098-765-4321,contract,,7,,,,,yes,5,No
+EMP-2018-0191,David,Mason,35,1989,70000,Female,Sales,Director,4/5/2018,D,63,david.mason@saltcorp.com,555-555-5555,Contract,,8,,,8/12/2024,,no,2,No
+EMP-2020-0192,Grace,Li,25,1999,SIXTY THOUSAND,Female,hr,Assistant,1/15/2020,F,58,grace.li@saltcorp.com,555-555-5555,Full-Time,,5,12,,,,No,4,No
+EMP-2019-0193,Hannah,Perry,50,1974,65000,Male,finance,Analyst,3/25/2019,D,60,hannah.perry@saltcorp.com,123-456-7890,Contract,,7,,,,,no,1,Yes
+EMP-2020-0194,Alice,Martinez,25,1999,SIXTY THOUSAND,Female,Finance,Analyst,1/15/2020,A,94,alice.martinez@saltcorp.com, ,full-time,EMP-2020-0093,8,,0,1/15/2023,,Yes,2,Yes
+EMP-2018-0195,Frank,Byrd,thirty,1994,55000,Male,HR,Analyst,4/5/2018,F,17,frank.byrd@saltcorp.com, ,Part-Time,,7,N/A,,"March 5, 2023",24,YES,5,No
+EMP-2019-0196,Hannah,Long,40,1984,50000,Male,Finance,Assistant,12/1/2019,D,67,hannah.long@saltcorp.com,098-765-4321,full-time,,3,N/A,13,,,YES,1,Yes
+EMP-2019-0197,Eve,Le,25,1999,61600,Male,Marketing,Assistant,12/1/2019,D,65,eve.le@saltcorp.com,,Full-Time,,2,N/A,,,,,4,No
+EMP-2018-0198,David,Kim,25,1999,70000,Male,sales,Assistant,4/5/2018,F,43,david.kim@saltcorp.com, ,contract,,3,N/A,1,,,,1,Yes
+EMP-2020-0199,Bob,Rodriguez,50,1974,70000,Male,Sales,Manager,2/20/2020,A,99,bob.rodriguez@saltcorp.com,098-765-4321,contract,,1,,17,1/15/2023,,No,4,No
+EMP-2020-0200,Frank,Lopez,50,1974,50000,Male,HR,Manager,2/20/2020,D,68,frank.lopez@saltcorp.com,098-765-4321,Contract,EMP-2020-0048,3,,,,,,5,No
+EMP-2019-0201,Frank,Santos,35,1989,60800,Male,Finance,Analyst,12/1/2019,C,72,frank.santos@saltcorp.com, ,part-time,,2,,,,,,3,No
+EMP-2019-0202,Alice,Armstrong,50,1974,50000,Male,IT,Clerk,12/1/2019,F,22,alice.armstrong@saltcorp.com,098-765-4321,FULL-TIME,,7,,,,42,YES,1,No
+EMP-2018-0203,Ivy,Walker,,1986,55000,Male,IT,Analyst,4/5/2018,B,85,ivy.walker@saltcorp.com,123-456-7890,Part-Time,,8,N/A,,6/20/2022,,,4,Yes
+EMP-2020-0204,Frank,Knight,thirty,1994,SIXTY THOUSAND,Male,finance,Director,2/20/2020,B,85,frank.knight@saltcorp.com,123-456-7890,part-time,,8,,9,,,YES,1,Yes
+EMP-2019-0205,Charlie,Jackson,thirty,1994,70000,Male,IT,Manager,12/1/2019,A,100,charlie.jackson@saltcorp.com, ,Full-Time,,3,,,,,No,2,Yes
+EMP-2020-0206,David,O'Brien,40,1984,55000,Male,hr,Assistant,2/20/2020,C,74,david.o'brien@saltcorp.com,,FULL-TIME,,7,,,1/15/2023,22,No,4,No
+EMP-2019-0207,David,Vega,40,1984,SIXTY THOUSAND,Female,HR,Manager,12/1/2019,D,68,david.vega@saltcorp.com,123-456-7890,contract,,6,,,6/20/2022,,Yes,3,No
+EMP-2020-0208,Charlie,Riley,thirty,1994,55000,Male,finance,Assistant,1/15/2020,B,80,charlie.riley@saltcorp.com,123-456-7890,Contract,,1,4,,"March 5, 2023",,YES,3,No
+EMP-2019-0209,Jack,O'Connor,40,1984,60100,Male,IT,Director,3/25/2019,A,99,jack.o'connor@saltcorp.com, ,FULL-TIME,EMP-2019-0074,3,,,1/15/2023,12,No,1,No
+EMP-2020-0210,Charlie,Powers,35,1989,70000,Male,HR,Director,1/15/2020,C,72,charlie.powers@saltcorp.com,555-555-5555,contract,,8,,2,,,No,5,No
+EMP-2019-0211,Charlie,Johnston,50,1974,50000,Male,hr,Manager,12/1/2019,C,70,charlie.johnston@saltcorp.com,098-765-4321,part-time,EMP-2020-0072,8,,,"March 5, 2023",58,Y,1,No
+EMP-2019-0212,David,Patel,thirty,1994,50000,Female,Marketing,Assistant,3/25/2019,A,93,david.patel@saltcorp.com,123-456-7890,part-time,,2,,18,,36,YES,4,No
+EMP-2019-0213,Grace,Wu,40,1984,SIXTY THOUSAND,Female,Marketing,Director,3/25/2019,A,98,grace.wu@saltcorp.com,555-555-5555,Part-Time,,7,,,10/1/2021,22,Yes,1,No
+EMP-2019-0214,David,Santos,thirty,1994,65000,Male,HR,Analyst,12/1/2019,D,62,david.santos@saltcorp.com,,Part-Time,,8,5,,8/12/2024,,yes,1,No
+EMP-2019-0215,Ivy,Gutierrez,,1994,60800,Female,Finance,Analyst,12/1/2019,A,94,ivy.gutierrez@saltcorp.com,555-555-5555,Contract,,1,,2,,40,No,2,No
+EMP-2020-0216,Alice,Jordan,25,1999,SIXTY THOUSAND,Male,Sales,Assistant,2/20/2020,D,67,alice.jordan@saltcorp.com, ,FULL-TIME,,2,,,,71,No,4,No
+EMP-2019-0217,Hannah,Oliver,50,1974,65000,Female,Sales,Manager,12/1/2019,D,69,hannah.oliver@saltcorp.com,,Part-Time,,5,7,19,,,Yes,4,No
+EMP-2018-0218,Grace,Yang,thirty,1994,55000,Female,HR,Director,4/5/2018,F,21,grace.yang@saltcorp.com,,part-time,,6,,1,,,No,4,No
+EMP-2019-0219,Bob,Rivera,25,1999,59000,Male,hr,Manager,12/1/2019,C,70,bob.rivera@saltcorp.com,555-555-5555,FULL-TIME,,1,,12,,,,5,Yes
+EMP-2018-0220,Hannah,Long,40,1984,55000,Female,hr,Analyst,4/5/2018,C,79,hannah.long@saltcorp.com, ,part-time,EMP-2020-0077,4,N/A,13,6/20/2022,63,Yes,1,Yes
+EMP-2019-0221,Alice,Vega,25,1999,70000,Male,Finance,Director,12/1/2019,C,78,alice.vega@saltcorp.com,123-456-7890,Full-Time,,6,,14,,,,4,No
+EMP-2020-0222,Ivy,Rivera,50,1974,60000,Female,Marketing,Manager,2/20/2020,F,29,ivy.rivera@saltcorp.com,555-555-5555,part-time,,2,13,,"March 5, 2023",,Y,5,Yes
+EMP-2018-0223,Ivy,Singh,thirty,1994,65000,Female,HR,Clerk,4/5/2018,D,69,ivy.singh@saltcorp.com,123-456-7890,Contract,,7,,3,,,No,5,No
+EMP-2020-0224,Bob,Davis,,1991,70000,Male,HR,Assistant,1/15/2020,D,65,bob.davis@saltcorp.com,555-555-5555,full-time,,4,,,,,,2,Yes
+EMP-2018-0225,Grace,Zhang,40,1984,50000,Male,it,Assistant,4/5/2018,A,97,grace.zhang@saltcorp.com,123-456-7890,Full-Time,,8,,,,,No,5,No
+EMP-2020-0226,Jack,Murphy,thirty,1994,65000,Male,Finance,Clerk,2/20/2020,F,21,jack.murphy@saltcorp.com,555-555-5555,Full-Time,,6,N/A,,8/12/2024,19,YES,1,Yes
+EMP-2018-0227,Charlie,Sims,50,1974,SIXTY THOUSAND,Male,HR,Analyst,4/5/2018,A,91,charlie.sims@saltcorp.com,,Contract,,7,,,,,yes,5,No
+EMP-2019-0228,Grace,Zhang,40,1984,50000,Female,IT,Director,12/1/2019,F,55,grace.zhang@saltcorp.com,098-765-4321,FULL-TIME,EMP-2019-0077,3,N/A,,,,,2,No
+EMP-2019-0229,Jack,Murphy,35,1989,50000,Female,sales,Assistant,12/1/2019,A,100,jack.murphy@saltcorp.com,,FULL-TIME,EMP-2019-0028,1,,,"March 5, 2023",60,no,5,No
+EMP-2020-0230,Ivy,Desai,25,1999,SIXTY THOUSAND,Male,HR,Clerk,2/20/2020,B,85,ivy.desai@saltcorp.com,123-456-7890,Contract,EMP-2019-0042,1,1,,8/12/2024,,No,5,No
+EMP-2019-0231,David,Sims,50,1974,58800,Male,hr,Clerk,3/25/2019,C,78,david.sims@saltcorp.com, ,Part-Time,EMP-2020-0056,3,,,6/20/2022,,Y,5,No
+EMP-2019-0232,Alice,Figueroa,35,1989,50000,Female,it,Analyst,12/1/2019,C,78,alice.figueroa@saltcorp.com,,Full-Time,EMP-2020-0091,8,12,,,,yes,2,Yes
+EMP-2020-0233,Bob,Smith,thirty,1994,65000,Female,Finance,Analyst,1/15/2020,D,63,bob.smith@saltcorp.com,098-765-4321,Part-Time,EMP-2020-0046,8,,16,,,yes,1,Yes
+EMP-2020-0234,Alice,Martinez,,1978,70000,Female,HR,Manager,2/20/2020,B,86,alice.martinez@saltcorp.com,123-456-7890,part-time,,3,,,,,No,2,Yes
+EMP-2018-0235,Eve,Carter,40,1984,50000,Female,sales,Assistant,4/5/2018,C,70,eve.carter@saltcorp.com,,Full-Time,,2,,,"March 5, 2023",80,Yes,3,No
+EMP-2018-0236,Eve,Wallace,25,1999,65000,Female,hr,Manager,4/5/2018,D,65,eve.wallace@saltcorp.com,555-555-5555,Full-Time,,8,N/A,,,,,5,No
+EMP-2020-0237,Grace,McCoy,40,1984,55000,Male,Sales,Clerk,1/15/2020,B,83,grace.mccoy@saltcorp.com, ,contract,EMP-2018-0052,6,,,,76,no,1,Yes
+EMP-2019-0238,Ivy,Gupta,thirty,1994,65000,Male,marketing,Director,12/1/2019,C,72,ivy.gupta@saltcorp.com,123-456-7890,full-time,,4,14,,8/12/2024,53,yes,5,No
+EMP-2020-0239,Ivy,Shah,40,1984,70000,Female,Marketing,Director,2/20/2020,A,99,ivy.shah@saltcorp.com,,FULL-TIME,,6,,3,,17,yes,4,No
+EMP-2020-0240,Charlie,Martin,25,1999,65000,Female,Sales,Analyst,1/15/2020,F,40,charlie.martin@saltcorp.com,123-456-7890,Full-Time,,5,N/A,,,51,,4,No
+EMP-2019-0241,Charlie,Taylor,thirty,1994,SIXTY THOUSAND,Female,Finance,Director,12/1/2019,B,87,charlie.taylor@saltcorp.com,555-555-5555,FULL-TIME,,1,14,,,,no,5,No
+EMP-2020-0242,Charlie,Olson,40,1984,70000,Female,HR,Director,2/20/2020,D,62,charlie.olson@saltcorp.com,098-765-4321,part-time,,4,N/A,,,,No,3,Yes
+EMP-2018-0243,David,O'Brien,,1968,60900,Male,HR,Director,4/5/2018,B,85,david.o'brien@saltcorp.com,,FULL-TIME,,7,,,3/5/2023,61,Yes,4,No
+EMP-2020-0244,Hannah,Dominguez,50,1974,55000,Female,Marketing,Clerk,2/20/2020,D,64,hannah.dominguez@saltcorp.com,123-456-7890,Part-Time,EMP-2018-0043,7,,,,,,1,Yes
+EMP-2019-0245,Frank,Sanchez,thirty,1994,SIXTY THOUSAND,Male,sales,Director,3/25/2019,B,87,frank.sanchez@saltcorp.com,123-456-7890,Part-Time,,4,N/A,0,,,YES,1,No
+EMP-2020-0246,Hannah,Foster,50,1974,60900,Male,HR,Director,2/20/2020,D,64,hannah.foster@saltcorp.com,123-456-7890,contract,,2,N/A,0,6/20/2022,,no,1,No
+EMP-2019-0247,Alice,Baker,thirty,1994,65000,Female,hr,Director,3/25/2019,C,76,alice.baker@saltcorp.com,098-765-4321,full-time,,8,,,1/15/2023,8,,4,No
+EMP-2020-0248,Hannah,Foster,,1981,70000,Female,Finance,Manager,2/20/2020,A,99,hannah.foster@saltcorp.com,123-456-7890,part-time,EMP-2018-0031,8,,,,8,,5,Yes
+EMP-2019-0249,David,Murphy,50,1974,55000,Male,IT,Clerk,3/25/2019,C,79,david.murphy@saltcorp.com, ,Part-Time,,8,N/A,,6/20/2022,,no,2,Yes
+EMP-2018-0250,Alice,Rivera,35,1989,SIXTY THOUSAND,Female,marketing,Analyst,4/5/2018,A,100,alice.rivera@saltcorp.com, ,Contract,EMP-2020-0010,2,,,,,Yes,2,Yes
+EMP-2019-0251,Hannah,Gray,25,1999,60000,Female,Marketing,Manager,12/1/2019,C,71,hannah.gray@saltcorp.com,123-456-7890,part-time,,8,,5,,46,No,3,No
+EMP-2019-0252,David,Schmidt,35,1989,59800,Male,IT,Assistant,3/25/2019,C,79,david.schmidt@saltcorp.com, ,FULL-TIME,,8,,4,1/15/2023,,no,2,No
+EMP-2019-0253,Frank,Flores,40,1984,55000,Male,hr,Clerk,3/25/2019,B,81,frank.flores@saltcorp.com,,part-time,,6,,9,,,No,4,Yes
+EMP-2018-0254,Hannah,Schmidt,,1998,65000,Male,Finance,Clerk,4/5/2018,F,50,hannah.schmidt@saltcorp.com, ,full-time,,2,N/A,5,,,no,3,Yes
+EMP-2019-0255,David,Thomas,35,1989,55000,Male,Finance,Assistant,3/25/2019,D,68,david.thomas@saltcorp.com,123-456-7890,Part-Time,,8,,,8/12/2024,,,3,No
+EMP-2020-0256,Charlie,Taylor,thirty,1994,61600,Male,Marketing,Assistant,1/15/2020,D,67,charlie.taylor@saltcorp.com,555-555-5555,part-time,,1,,,,,YES,3,Yes
+EMP-2018-0257,Ivy,Pearson,40,1984,50000,Female,finance,Assistant,4/5/2018,D,67,ivy.pearson@saltcorp.com,,FULL-TIME,,2,,,,,Y,2,Yes
+EMP-2020-0258,Charlie,Moore,40,1984,SIXTY THOUSAND,Female,it,Analyst,1/15/2020,A,92,charlie.moore@saltcorp.com,098-765-4321,contract,,7,8,20,,,yes,1,No
+EMP-2018-0259,Ivy,Sims,35,1989,55000,Female,hr,Director,4/5/2018,D,64,ivy.sims@saltcorp.com,123-456-7890,contract,EMP-2018-0083,7,15,,,,No,2,Yes
+EMP-2019-0260,Bob,Mason,35,1989,58600,Male,IT,Clerk,3/25/2019,D,64,bob.mason@saltcorp.com,098-765-4321,Part-Time,,1,,,8/12/2024,,No,4,No
+EMP-2020-0261,Bob,Thomas,,1973,65000,Male,Sales,Director,1/15/2020,B,85,bob.thomas@saltcorp.com,555-555-5555,contract,,1,N/A,,,,YES,3,No
+EMP-2019-0262,Bob,Brown,25,1999,60500,Male,Marketing,Director,3/25/2019,C,78,bob.brown@saltcorp.com,098-765-4321,Contract,,2,2,,1/15/2023,,YES,2,Yes
+EMP-2018-0263,Frank,Williamson,35,1989,65000,Male,Finance,Assistant,4/5/2018,D,67,frank.williamson@saltcorp.com,123-456-7890,full-time,,5,,,,,no,1,No
+EMP-2019-0264,Charlie,Moore,35,1989,55000,Female,sales,Analyst,3/25/2019,F,2,charlie.moore@saltcorp.com,123-456-7890,contract,,4,4,,,,No,2,No
+EMP-2020-0265,Ivy,Kumar,50,1974,65000,Male,Finance,Manager,1/15/2020,D,61,ivy.kumar@saltcorp.com,555-555-5555,contract,EMP-2019-0092,8,,,,,No,4,No
+EMP-2020-0266,David,Sullivan,thirty,1994,70000,Female,HR,Analyst,1/15/2020,A,93,david.sullivan@saltcorp.com,123-456-7890,Contract,EMP-2018-0006,6,,2,,,YES,2,Yes
+EMP-2019-0267,Alice,Garrett,50,1974,70000,Male,HR,Director,3/25/2019,A,95,alice.garrett@saltcorp.com,555-555-5555,full-time,,6,,,,,,1,Yes
+EMP-2020-0268,David,Patel,50,1974,70000,Female,HR,Analyst,2/20/2020,A,92,david.patel@saltcorp.com,555-555-5555,part-time,,1,,,,,Yes,4,No
+EMP-2018-0269,Alice,Lee,40,1984,50000,Female,Finance,Assistant,4/5/2018,D,65,alice.lee@saltcorp.com,123-456-7890,full-time,,4,,15,8/12/2024,,No,2,Yes
+EMP-2018-0270,Eve,Turner,25,1999,55000,Male,sales,Manager,4/5/2018,B,87,eve.turner@saltcorp.com, ,Full-Time,,8,,18,,,No,1,Yes
+EMP-2019-0271,David,Barnett,thirty,1994,61500,Female,HR,Assistant,3/25/2019,F,3,david.barnett@saltcorp.com,555-555-5555,Part-Time,,6,,,,14,no,3,Yes
+EMP-2020-0272,Hannah,Hughes,,1974,61500,Female,sales,Manager,2/20/2020,D,61,hannah.hughes@saltcorp.com,123-456-7890,Part-Time,,8,,13,8/12/2024,,YES,2,No
+EMP-2020-0273,Hannah,Barnett,,1973,50000,Male,Finance,Director,1/15/2020,B,81,hannah.barnett@saltcorp.com, ,Full-Time,,6,1,11,,,yes,4,No
+EMP-2019-0274,Grace,Li,35,1989,65000,Male,Sales,Manager,12/1/2019,B,85,grace.li@saltcorp.com,555-555-5555,Contract,EMP-2018-0043,8,,9,3/5/2023,22,yes,2,Yes
+EMP-2019-0275,Charlie,Hoffman,35,1989,50000,Male,finance,Manager,12/1/2019,D,68,charlie.hoffman@saltcorp.com, ,Full-Time,,2,12,7,1/15/2023,42,No,3,No
+EMP-2019-0276,Alice,Welch,,1985,65000,Female,finance,Manager,3/25/2019,D,65,alice.welch@saltcorp.com,,part-time,,2,,10,8/12/2024,33,no,3,No
+EMP-2020-0277,Alice,Thompson,35,1989,65000,Female,marketing,Analyst,2/20/2020,B,89,alice.thompson@saltcorp.com,,part-time,,4,,,3/5/2023,24,yes,1,Yes
+EMP-2020-0278,Charlie,Jackson,25,1999,SIXTY THOUSAND,Male,Finance,Analyst,2/20/2020,B,82,charlie.jackson@saltcorp.com, ,Part-Time,,1,,,,,Yes,4,No
+EMP-2018-0279,Frank,Sanchez,50,1974,60300,Female,finance,Director,4/5/2018,B,81,frank.sanchez@saltcorp.com,555-555-5555,part-time,,6,,,,32,no,1,Yes
+EMP-2020-0280,Grace,Yang,35,1989,70000,Female,IT,Manager,1/15/2020,D,65,grace.yang@saltcorp.com,123-456-7890,Part-Time,,6,,8,8/12/2024,66,no,2,Yes
+EMP-2020-0281,Frank,Gomez,40,1984,65000,Male,HR,Clerk,2/20/2020,B,84,frank.gomez@saltcorp.com,098-765-4321,Full-Time,,5,3,2,8/12/2024,,Yes,2,Yes
+EMP-2019-0282,Frank,Gutierrez,35,1989,SIXTY THOUSAND,Male,marketing,Director,12/1/2019,A,96,frank.gutierrez@saltcorp.com,123-456-7890,Full-Time,EMP-2019-0040,6,N/A,,,79,No,3,No
+EMP-2020-0283,Frank,Perez,thirty,1994,60000,Male,Marketing,Manager,1/15/2020,D,69,frank.perez@saltcorp.com,098-765-4321,contract,,2,,,,,No,5,No
+EMP-2020-0284,Charlie,Thomas,25,1999,70000,Male,marketing,Manager,1/15/2020,A,97,charlie.thomas@saltcorp.com,098-765-4321,contract,EMP-2019-0025,1,,2,,,yes,5,Yes
+EMP-2019-0285,Frank,Rogers,thirty,1994,65000,Male,IT,Analyst,3/25/2019,C,74,frank.rogers@saltcorp.com,555-555-5555,Full-Time,,3,N/A,,,,no,1,No
+EMP-2020-0286,Hannah,Hughes,thirty,1994,65000,Male,Finance,Director,2/20/2020,D,66,hannah.hughes@saltcorp.com, ,Part-Time,,8,,,,,YES,3,No
+EMP-2019-0287,Bob,Johnson,40,1984,50000,Male,HR,Manager,3/25/2019,C,77,bob.johnson@saltcorp.com,123-456-7890,Full-Time,EMP-2020-0068,3,,,,,No,1,Yes
+EMP-2020-0288,Eve,Figueroa,25,1999,50000,Female,sales,Manager,2/20/2020,B,85,eve.figueroa@saltcorp.com, ,Full-Time,,7,,,1/15/2023,,Yes,1,Yes
+EMP-2018-0289,Alice,Rivera,25,1999,60300,Female,Finance,Director,4/5/2018,B,84,alice.rivera@saltcorp.com,,FULL-TIME,,2,N/A,,N/A,,no,4,No
+EMP-2019-0290,Alice,Chen,25,1999,70000,Female,it,Clerk,3/25/2019,F,18,alice.chen@saltcorp.com,555-555-5555,Contract,,5,,12,,11,No,5,Yes
+EMP-2019-0291,Eve,Powers,25,1999,65000,Female,finance,Director,3/25/2019,B,88,eve.powers@saltcorp.com,555-555-5555,Full-Time,,4,,,3/5/2023,80,Yes,3,No
+EMP-2019-0292,Charlie,Evans,25,1999,60300,Male,Finance,Director,12/1/2019,C,73,charlie.evans@saltcorp.com,,part-time,,4,,,6/20/2022,7,No,3,No
+EMP-2019-0293,David,Hansen,40,1984,58600,Male,IT,Clerk,3/25/2019,B,86,david.hansen@saltcorp.com,123-456-7890,Part-Time,,2,,,,49,No,5,No
+EMP-2020-0294,Charlie,Jackson,35,1989,55000,Male,marketing,Director,2/20/2020,D,66,charlie.jackson@saltcorp.com,,Contract,,7,6,,,,Y,5,No
+EMP-2019-0295,Alice,Chen,thirty,1994,50000,Female,Marketing,Manager,12/1/2019,B,84,alice.chen@saltcorp.com,123-456-7890,contract,,4,,,8/12/2024,,no,5,Yes
+EMP-2019-0296,Alice,Martinez,25,1999,70000,Female,HR,Director,3/25/2019,F,5,alice.martinez@saltcorp.com,098-765-4321,full-time,,8,,14,,67,,3,No
+EMP-2019-0297,Eve,Dixon,35,1989,65000,Female,HR,Clerk,3/25/2019,B,81,eve.dixon@saltcorp.com,555-555-5555,Part-Time,,4,10,,N/A,,yes,5,No
+EMP-2018-0298,Frank,Torres,35,1989,61600,Male,marketing,Assistant,4/5/2018,C,78,frank.torres@saltcorp.com,123-456-7890,part-time,,6,,6,10/1/2021,,yes,3,No
+EMP-2019-0299,Charlie,Wells,thirty,1994,65000,Male,sales,Director,3/25/2019,C,76,charlie.wells@saltcorp.com, ,Part-Time,EMP-2019-0071,2,,,1/15/2023,,No,1,Yes
+EMP-2020-0300,Ivy,Andrews,40,1984,55000,Female,Finance,Analyst,1/15/2020,B,86,ivy.andrews@saltcorp.com, ,contract,,7,N/A,4,1/15/2023,,Y,4,No
+EMP-2019-0301,Eve,Carter,,1988,70000,Female,Sales,Manager,12/1/2019,C,71,eve.carter@saltcorp.com,555-555-5555,part-time,,1,,,N/A,70,Y,3,Yes
+EMP-2020-0302,Hannah,Gray,,1985,59500,Male,Finance,Manager,1/15/2020,C,77,hannah.gray@saltcorp.com,,part-time,,2,,,1/15/2023,,No,4,No
+EMP-2019-0303,Alice,Anderson,35,1989,65000,Male,Marketing,Analyst,12/1/2019,F,7,alice.anderson@saltcorp.com,,full-time,EMP-2019-0012,8,,0,3/5/2023,,No,1,Yes
+EMP-2018-0304,Eve,Santos,50,1974,50000,Female,HR,Analyst,4/5/2018,D,66,eve.santos@saltcorp.com,123-456-7890,Part-Time,,8,N/A,,8/12/2024,,,4,No
+EMP-2019-0305,Charlie,Young,50,1974,55000,Male,hr,Director,3/25/2019,F,1,charlie.young@saltcorp.com,,FULL-TIME,EMP-2020-0048,3,5,18,,50,YES,3,No
+EMP-2019-0306,Alice,Graham,thirty,1994,70000,Male,sales,Analyst,3/25/2019,A,99,alice.graham@saltcorp.com,555-555-5555,full-time,EMP-2018-0048,8,,,,,,4,No
+EMP-2019-0307,David,Patel,,1987,55000,Male,HR,Assistant,3/25/2019,F,11,david.patel@saltcorp.com,123-456-7890,FULL-TIME,,1,10,2,1/15/2023,72,no,4,No
+EMP-2019-0308,Eve,Rivera,35,1989,50000,Male,Marketing,Clerk,12/1/2019,B,89,eve.rivera@saltcorp.com,098-765-4321,full-time,EMP-2018-0018,1,3,10,,,yes,4,No
+EMP-2019-0309,Grace,Bennett,40,1984,70000,Male,Sales,Analyst,3/25/2019,D,68,grace.bennett@saltcorp.com,,Part-Time,EMP-2019-0090,7,,,6/20/2022,,no,3,No
+EMP-2020-0310,Alice,Garza,,1991,55000,Male,Finance,Analyst,1/15/2020,B,86,alice.garza@saltcorp.com,,Full-Time,,8,,17,6/20/2022,27,No,3,Yes
+EMP-2019-0311,Charlie,Taylor,35,1989,SIXTY THOUSAND,Female,HR,Assistant,3/25/2019,A,95,charlie.taylor@saltcorp.com,123-456-7890,Full-Time,,3,,,3/5/2023,,Y,2,Yes
+EMP-2018-0312,Bob,Wilson,35,1989,50000,Male,it,Manager,4/5/2018,D,62,bob.wilson@saltcorp.com, ,contract,,3,,,,78,no,4,Yes
+EMP-2020-0313,Ivy,Kumar,25,1999,50000,Female,hr,Manager,1/15/2020,C,71,ivy.kumar@saltcorp.com,,full-time,,3,,,,,no,3,Yes
+EMP-2019-0314,Jack,Thomas,40,1984,50000,Male,finance,Director,3/25/2019,F,28,jack.thomas@saltcorp.com,555-555-5555,Contract,EMP-2018-0007,2,,2,,,,5,No
+EMP-2019-0315,Frank,Walker,25,1999,SIXTY THOUSAND,Male,Sales,Assistant,3/25/2019,B,84,frank.walker@saltcorp.com,,full-time,EMP-2020-0059,7,N/A,,,,,5,No
+EMP-2020-0316,Jack,Walsh,thirty,1994,SIXTY THOUSAND,Male,Finance,Clerk,2/20/2020,A,95,jack.walsh@saltcorp.com,098-765-4321,full-time,,6,,,,,YES,1,No
+EMP-2019-0317,Charlie,Clark,25,1999,65000,Female,IT,Clerk,12/1/2019,C,77,charlie.clark@saltcorp.com,,full-time,EMP-2020-0074,7,,,,,No,1,Yes
+EMP-2020-0318,Hannah,Vega,25,1999,61600,Female,Marketing,Assistant,1/15/2020,F,38,hannah.vega@saltcorp.com, ,FULL-TIME,EMP-2019-0055,7,5,13,,38,Yes,3,No
+EMP-2020-0319,Hannah,Foster,,1991,55000,Female,hr,Clerk,2/20/2020,C,73,hannah.foster@saltcorp.com,,contract,,4,,,,,YES,1,Yes
+EMP-2018-0320,Bob,Ross,50,1974,65000,Male,Sales,Manager,4/5/2018,F,7,bob.ross@saltcorp.com,123-456-7890,Full-Time,,5,,,,,Yes,5,No
+EMP-2019-0321,Frank,Gonzalez,35,1989,55000,Male,Marketing,Clerk,12/1/2019,D,62,frank.gonzalez@saltcorp.com,,contract,,7,N/A,,8/12/2024,12,No,3,Yes
+EMP-2020-0322,Grace,Jordan,40,1984,61300,Female,Finance,Clerk,1/15/2020,C,73,grace.jordan@saltcorp.com, ,contract,,6,,4,,,,1,No
+EMP-2019-0323,Bob,Johnson,25,1999,SIXTY THOUSAND,Male,Sales,Assistant,3/25/2019,C,71,bob.johnson@saltcorp.com,123-456-7890,contract,EMP-2020-0071,5,N/A,,1/15/2023,5,yes,1,Yes
+EMP-2020-0324,Jack,Castillo,40,1984,61600,Male,Marketing,Assistant,1/15/2020,C,70,jack.castillo@saltcorp.com,555-555-5555,Full-Time,,8,,,10/1/2021,54,Yes,2,Yes
+EMP-2019-0325,Bob,Schmidt,50,1974,SIXTY THOUSAND,Female,sales,Clerk,3/25/2019,D,66,bob.schmidt@saltcorp.com,123-456-7890,Full-Time,,3,,,,,Yes,4,No
+EMP-2019-0326,Jack,McCarthy,50,1974,59300,Female,IT,Analyst,12/1/2019,A,96,jack.mccarthy@saltcorp.com,098-765-4321,full-time,EMP-2018-0045,3,,,3/5/2023,,,4,No
+EMP-2019-0327,Alice,Williams,25,1999,65000,Female,IT,Assistant,3/25/2019,F,29,alice.williams@saltcorp.com,123-456-7890,contract,,7,3,18,,,,2,Yes
+EMP-2018-0328,Hannah,Hughes,thirty,1994,70000,Female,HR,Director,4/5/2018,C,76,hannah.hughes@saltcorp.com,555-555-5555,Contract,EMP-2019-0018,5,,,,,YES,5,No
+EMP-2019-0329,Alice,Martinez,25,1999,65000,Male,HR,Director,3/25/2019,D,68,alice.martinez@saltcorp.com,,FULL-TIME,EMP-2019-0083,6,3,,,,no,5,Yes
+EMP-2018-0330,Ivy,Shah,,1981,55000,Female,IT,Manager,4/5/2018,A,96,ivy.shah@saltcorp.com,123-456-7890,FULL-TIME,,4,1,13,1/15/2023,,No,3,No
+EMP-2019-0331,Frank,Davidson,35,1989,65000,Female,Sales,Clerk,12/1/2019,F,33,frank.davidson@saltcorp.com,123-456-7890,Full-Time,EMP-2018-0018,4,1,5,,,No,3,No
+EMP-2019-0332,Grace,Dixon,thirty,1994,50000,Male,it,Analyst,12/1/2019,D,65,grace.dixon@saltcorp.com,123-456-7890,Part-Time,,4,9,,6/20/2022,,YES,3,Yes
+EMP-2020-0333,Jack,Vega,25,1999,55000,Male,HR,Manager,1/15/2020,F,9,jack.vega@saltcorp.com,123-456-7890,Part-Time,,5,,,,24,yes,5,Yes
+EMP-2018-0334,Grace,Matthews,40,1984,58600,Female,it,Clerk,4/5/2018,C,72,grace.matthews@saltcorp.com,555-555-5555,Part-Time,,6,,6,,,YES,5,No
+EMP-2018-0335,Jack,O'Connor,thirty,1994,55000,Male,IT,Assistant,4/5/2018,A,100,jack.o'connor@saltcorp.com, ,part-time,,3,N/A,,,,YES,5,Yes
+EMP-2020-0336,Charlie,Lewis,thirty,1994,70000,Male,Sales,Director,2/20/2020,D,69,charlie.lewis@saltcorp.com, ,full-time,,3,,,,,yes,4,No
+EMP-2020-0337,Bob,Wilson,25,1999,SIXTY THOUSAND,Female,marketing,Analyst,2/20/2020,A,100,bob.wilson@saltcorp.com,123-456-7890,Part-Time,,6,3,,6/20/2022,,No,5,No
+EMP-2020-0338,Ivy,Medina,thirty,1994,60900,Female,HR,Director,2/20/2020,C,77,ivy.medina@saltcorp.com,555-555-5555,full-time,,2,,14,,48,Yes,3,Yes
+EMP-2019-0339,Hannah,Foster,40,1984,55000,Female,Sales,Assistant,3/25/2019,A,94,hannah.foster@saltcorp.com,555-555-5555,Part-Time,EMP-2019-0044,6,,,1/15/2023,,,2,No
+EMP-2020-0340,Jack,O'Connor,50,1974,58600,Male,IT,Clerk,2/20/2020,A,98,jack.o'connor@saltcorp.com,123-456-7890,Contract,,8,7,6,,54,,4,Yes
+EMP-2018-0341,Grace,Medina,thirty,1994,59800,Female,IT,Assistant,4/5/2018,B,80,grace.medina@saltcorp.com,098-765-4321,full-time,,7,,,,,No,3,No
+EMP-2019-0342,Ivy,Kumar,50,1974,61600,Female,marketing,Assistant,3/25/2019,A,100,ivy.kumar@saltcorp.com,123-456-7890,Part-Time,,5,,15,,,,2,Yes
+EMP-2019-0343,David,Wallace,40,1984,SIXTY THOUSAND,Male,hr,Director,12/1/2019,F,50,david.wallace@saltcorp.com,098-765-4321,FULL-TIME,,7,,7,8/12/2024,29,Y,2,No
+EMP-2020-0344,David,Sullivan,25,1999,65000,Male,hr,Analyst,1/15/2020,D,63,david.sullivan@saltcorp.com,123-456-7890,Full-Time,,1,1,,,12,YES,3,No
+EMP-2020-0345,Alice,Chen,35,1989,58500,Male,Finance,Assistant,2/20/2020,B,87,alice.chen@saltcorp.com,098-765-4321,full-time,,2,N/A,,,,no,1,No
+EMP-2019-0346,Hannah,Brooks,thirty,1994,50000,Female,HR,Director,12/1/2019,D,61,hannah.brooks@saltcorp.com,098-765-4321,FULL-TIME,,1,,5,,72,,1,Yes
+EMP-2018-0347,Charlie,White,35,1989,70000,Female,Marketing,Analyst,4/5/2018,D,63,charlie.white@saltcorp.com,123-456-7890,FULL-TIME,,7,6,12,,,no,1,Yes
+EMP-2020-0348,Grace,Santos,40,1984,SIXTY THOUSAND,Female,finance,Clerk,1/15/2020,C,78,grace.santos@saltcorp.com,098-765-4321,FULL-TIME,,3,,,3/5/2023,,YES,2,Yes
+EMP-2019-0349,Bob,Weber,thirty,1994,55000,Male,Finance,Clerk,12/1/2019,C,75,bob.weber@saltcorp.com,,part-time,,1,,5,,42,,3,Yes
+EMP-2020-0350,Bob,Hudson,50,1974,SIXTY THOUSAND,Male,IT,Manager,1/15/2020,B,85,bob.hudson@saltcorp.com, ,Full-Time,,1,4,,,15,No,2,Yes
+EMP-2020-0351,Grace,Zhang,,1965,55000,Female,IT,Director,2/20/2020,C,71,grace.zhang@saltcorp.com,555-555-5555,Full-Time,EMP-2020-0087,4,,14,6/20/2022,46,YES,4,No
+EMP-2018-0352,Frank,Lopez,35,1989,SIXTY THOUSAND,Female,HR,Analyst,4/5/2018,C,74,frank.lopez@saltcorp.com,098-765-4321,contract,,5,,9,,,yes,3,No
+EMP-2020-0353,Charlie,Le,thirty,1994,55000,Female,Finance,Assistant,1/15/2020,C,72,charlie.le@saltcorp.com,098-765-4321,part-time,,3,,,,,,1,No
+EMP-2019-0354,Ivy,West,35,1989,58600,Female,it,Clerk,12/1/2019,D,64,ivy.west@saltcorp.com,555-555-5555,FULL-TIME,,5,N/A,,,,no,1,No
+EMP-2020-0355,Jack,Gomez,thirty,1994,65000,Female,Marketing,Analyst,2/20/2020,B,86,jack.gomez@saltcorp.com,098-765-4321,Full-Time,EMP-2019-0073,5,,7,,10,,3,Yes
+EMP-2020-0356,Frank,Hernandez,25,1999,55000,Male,it,Director,2/20/2020,D,66,frank.hernandez@saltcorp.com,555-555-5555,Full-Time,,3,,,10/1/2021,,yes,4,No
+EMP-2019-0357,Jack,Bishop,50,1974,55000,Male,IT,Manager,12/1/2019,F,41,jack.bishop@saltcorp.com,123-456-7890,FULL-TIME,EMP-2018-0074,1,N/A,,,11,Yes,4,No
+EMP-2019-0358,Jack,Davidson,35,1989,50000,Male,finance,Clerk,12/1/2019,D,65,jack.davidson@saltcorp.com,,FULL-TIME,,5,,2,,,no,4,No
+EMP-2020-0359,Frank,Ramirez,,1987,55000,Male,finance,Analyst,1/15/2020,F,21,frank.ramirez@saltcorp.com,,Part-Time,,4,0,,,11,,3,No
+EMP-2019-0360,Alice,Baker,,1988,50000,Female,Sales,Analyst,3/25/2019,A,97,alice.baker@saltcorp.com, ,Part-Time,,1,N/A,,,,N,1,Yes
+EMP-2020-0361,David,O'Brien,40,1984,70000,Male,Marketing,Analyst,2/20/2020,A,91,david.o'brien@saltcorp.com,098-765-4321,full-time,,6,,1,,,no,1,No
+EMP-2020-0362,Jack,Kelly,thirty,1994,60300,Male,Finance,Director,1/15/2020,F,56,jack.kelly@saltcorp.com, ,full-time,,8,,,,,,3,Yes
+EMP-2019-0363,Frank,Armstrong,35,1989,50000,Female,HR,Director,12/1/2019,F,9,frank.armstrong@saltcorp.com,123-456-7890,full-time,,2,4,12,6/20/2022,17,,1,Yes
+EMP-2020-0364,Frank,Perez,40,1984,65000,Male,Marketing,Director,1/15/2020,D,62,frank.perez@saltcorp.com,,Part-Time,EMP-2018-0018,4,,,,,yes,4,Yes
+EMP-2019-0365,Eve,Turner,35,1989,61600,Female,Marketing,Assistant,12/1/2019,F,43,eve.turner@saltcorp.com,123-456-7890,FULL-TIME,EMP-2020-0057,7,,,10/1/2021,,No,2,Yes
+EMP-2018-0366,Alice,Anderson,thirty,1994,50000,Female,Finance,Analyst,4/5/2018,B,87,alice.anderson@saltcorp.com,123-456-7890,full-time,,4,N/A,,3/5/2023,,YES,2,No
+EMP-2019-0367,Hannah,Perry,,1994,58600,Female,marketing,Clerk,12/1/2019,A,97,hannah.perry@saltcorp.com,098-765-4321,Full-Time,,5,,,,,Y,1,Yes
+EMP-2019-0368,Eve,Stevens,25,1999,60300,Female,Finance,Director,12/1/2019,A,97,eve.stevens@saltcorp.com,123-456-7890,Part-Time,,1,,,,10,,1,Yes
+EMP-2019-0369,Eve,Harrison,,1975, NAN ,Male,it,Director,12/1/2019,F,33,eve.harrison@saltcorp.com,,full-time,,7,,,6/20/2022,19,YES,5,No
+EMP-2019-0370,Grace,Young,40,1984,70000,Male,Sales,Analyst,3/25/2019,C,73,grace.young@saltcorp.com, ,Full-Time,EMP-2020-0082,7,,,N/A,,No,4,No
+EMP-2019-0371,David,O'Brien,50,1974,65000,Female,IT,Director,12/1/2019,C,77,david.o'brien@saltcorp.com,,full-time,EMP-2020-0029,7,,,,,YES,5,No
+EMP-2020-0372,Frank,Lopez,25,1999,SIXTY THOUSAND,Male,Finance,Assistant,2/20/2020,F,5,frank.lopez@saltcorp.com,098-765-4321,Contract,,6,,,1/15/2023,,,2,Yes
+EMP-2020-0373,David,Sullivan,40,1984,SIXTY THOUSAND,Male,Finance,Assistant,2/20/2020,B,84,david.sullivan@saltcorp.com,,FULL-TIME,EMP-2018-0064,1,N/A,,,,YES,1,Yes
+EMP-2020-0374,Charlie,Harris,thirty,1994,50000,Male,IT,Director,1/15/2020,C,73,charlie.harris@saltcorp.com,555-555-5555,FULL-TIME,,1,2,10,10/1/2021,,N,2,No
+EMP-2019-0375,Grace,Wang,25,1999, NAN ,Female,HR,Analyst,3/25/2019,F,25,grace.wang@saltcorp.com, ,full-time,,5,,18,,38,Yes,1,Yes
+EMP-2020-0376,Hannah,Hughes,40,1984,50000,Male,hr,Analyst,1/15/2020,B,85,hannah.hughes@saltcorp.com,555-555-5555,Contract,,4,12,20,,,No,5,No
+EMP-2020-0377,David,Murphy,thirty,1994,70000,Male,HR,Analyst,2/20/2020,B,83,david.murphy@saltcorp.com,555-555-5555,full-time,,8,,,,,No,4,Yes
+EMP-2020-0378,Bob,Gomez,,1981,70000,Female,Finance,Manager,2/20/2020,D,62,bob.gomez@saltcorp.com,098-765-4321,contract,,4,1,13,,,no,4,No
+EMP-2018-0379,Jack,Williamson,50,1974,55000,Male,Marketing,Director,4/5/2018,B,87,jack.williamson@saltcorp.com,123-456-7890,contract,,6,4,,,39,YES,1,Yes
+EMP-2019-0380,Charlie,Weber,thirty,1994,70000,Male,Finance,Analyst,12/1/2019,C,71,charlie.weber@saltcorp.com,555-555-5555,FULL-TIME,,4,,12,8/12/2024,,YES,1,No
+EMP-2020-0381,Alice,Chen,35,1989,55000,Female,Marketing,Assistant,2/20/2020,C,78,alice.chen@saltcorp.com,,part-time,,4,,,,,no,5,No
+EMP-2020-0382,Hannah,Gray,thirty,1994,65000,Male,IT,Clerk,1/15/2020,F,19,hannah.gray@saltcorp.com,123-456-7890,contract,EMP-2018-0099,5,,10,6/20/2022,67,,3,No
+EMP-2020-0383,Charlie,Martin,thirty,1994,50000,Male,Sales,Clerk,1/15/2020,F,40,charlie.martin@saltcorp.com,,contract,,8,,,,10,,3,No
+EMP-2019-0384,Jack,Ward,50,1974,65000,Male,Marketing,Analyst,12/1/2019,B,87,jack.ward@saltcorp.com,,full-time,,3,N/A,,,33,yes,5,Yes
+EMP-2019-0385,Grace,Garrett,35,1989,70000,Male,HR,Clerk,12/1/2019,A,97,,123-456-7890,Part-Time,,2,,,,,,2,No
+EMP-2018-0386,Jack,Graham,40,1984,65000,Male,finance,Clerk,4/5/2018,D,62,,123-456-7890,Part-Time,EMP-2020-0037,3,,,,37,,1,No
+EMP-2019-0387,Eve,Matthews,40,1984,65000,Male,it,Manager,3/25/2019,A,96,eve.matthews@saltcorp.com,,Contract,,3,,,,,Yes,5,No
+EMP-2020-0388,Jack,McCarthy,thirty,1994,65000,Female,HR,Assistant,1/15/2020,B,86,jack.mccarthy@saltcorp.com,098-765-4321,Part-Time,,2,,20,,,yes,3,No
+EMP-2019-0389,Eve,Byrd,35,1989,70000,Male,IT,Assistant,12/1/2019,B,81,eve.byrd@saltcorp.com, ,Full-Time,,7,,,N/A,,Yes,2,Yes
+EMP-2020-0390,Grace,Yang,35,1989, NAN ,Female,Sales,Manager,1/15/2020,A,98,, ,part-time,,1,1,,,,Y,4,Yes
+EMP-2019-0391,Ivy,Mason,50,1974,65000,Female,Finance,Manager,12/1/2019,D,65,ivy.mason@saltcorp.com,098-765-4321,contract,,7,,,,65,,3,No
+EMP-2020-0392,Eve,Jordan,,1998,55000,Female,Finance,Clerk,2/20/2020,A,90,eve.jordan@saltcorp.com,123-456-7890,part-time,,5,,,,9,N,3,No
+EMP-2020-0393,Alice,Young,40,1984,70000,Female,Sales,Director,1/15/2020,F,8,alice.young@saltcorp.com,,Full-Time,EMP-2020-0006,5,9,13,6/20/2022,35,Y,3,Yes
+EMP-2020-0394,Jack,Rogers,50,1974,65000,Male,Finance,Clerk,2/20/2020,C,78,jack.rogers@saltcorp.com, ,contract,,3,,7,1/15/2023,23,Yes,4,Yes
+EMP-2020-0395,Jack,Hoffman,25,1999, NAN ,Male,marketing,Manager,1/15/2020,F,40,jack.hoffman@saltcorp.com,,Contract,,3,,,,,,1,No
+EMP-2019-0396,Alice,Lee,40,1984,70000,Male,it,Assistant,3/25/2019,C,71,,098-765-4321,Full-Time,,5,,,,,no,2,No
+EMP-2018-0397,Bob,Rodriguez,50,1974,SIXTY THOUSAND,Male,HR,Clerk,4/5/2018,B,83,bob.rodriguez@saltcorp.com,,Full-Time,,1,,,,,yes,2,Yes
+EMP-2020-0398,Frank,Aguilar,40,1984, NAN ,Female,Sales,Director,2/20/2020,D,68,,098-765-4321,part-time,,6,,12,8/12/2024,,No,4,No
+EMP-2019-0399,Ivy,Desai,,1996,55000,Female,Marketing,Clerk,12/1/2019,A,98,ivy.desai@saltcorp.com,123-456-7890,full-time,,8,3,13,,,YES,4,No
+EMP-2019-0400,Hannah,Olson,25,1999,65000,Female,HR,Analyst,3/25/2019,D,65,,098-765-4321,part-time,EMP-2020-0008,3,,,8/12/2024,49,N,2,Yes
+EMP-2020-0401,Eve,Ward,,2000,SIXTY THOUSAND,Female,HR,Clerk,1/15/2020,A,90,eve.ward@saltcorp.com,098-765-4321,FULL-TIME,EMP-2019-0060,1,,,1/15/2023,55,YES,5,No
+EMP-2020-0402,Alice,Matthews,25,1999,SIXTY THOUSAND,Female,sales,Manager,2/20/2020,F,57,alice.matthews@saltcorp.com, ,part-time,,3,,,,42,YES,4,No
+EMP-2020-0403,Grace,Huang,thirty,1994,70000,Female,Marketing,Assistant,1/15/2020,F,44,grace.huang@saltcorp.com,,Part-Time,EMP-2019-0052,6,,12,,47,no,5,Yes
+EMP-2020-0404,Eve,Carter,50,1974,SIXTY THOUSAND,Female,HR,Assistant,1/15/2020,A,97,, ,Full-Time,EMP-2020-0072,1,N/A,,10/1/2021,,N,4,No
+EMP-2020-0405,Frank,Perez,25,1999,55000,Male,HR,Manager,1/15/2020,D,66,frank.perez@saltcorp.com,555-555-5555,part-time,,5,,,,,Y,1,No
+EMP-2018-0406,Grace,Yang,,1993,55000,Female,marketing,Analyst,4/5/2018,A,92,grace.yang@saltcorp.com,098-765-4321,Full-Time,EMP-2018-0013,8,,,3/5/2023,45,No,2,Yes
+EMP-2018-0407,Charlie,Oliver,40,1984,50000,Male,finance,Manager,4/5/2018,B,85,,555-555-5555,FULL-TIME,,6,N/A,9,8/12/2024,,N,3,No
+EMP-2019-0408,Jack,Bell,25,1999,55000,Male,HR,Clerk,12/1/2019,F,22,jack.bell@saltcorp.com, ,Part-Time,,2,,19,,,,4,No
+EMP-2020-0409,Charlie,West,50,1974,60900,Female,IT,Manager,2/20/2020,B,80,,,Full-Time,EMP-2018-0098,6,N/A,,8/12/2024,,no,3,No
+EMP-2019-0410,Eve,Stevens,25,1999,SIXTY THOUSAND,Female,Marketing,Manager,3/25/2019,F,23,, ,part-time,,4,1,6,8/12/2024,9,no,5,No
+EMP-2019-0411,Frank,Hernandez,35,1989,55000,Male,HR,Analyst,3/25/2019,F,54,,,Full-Time,,3,N/A,,N/A,,Yes,5,No
+EMP-2019-0412,Ivy,Hansen,40,1984,70000,Female,Sales,Clerk,3/25/2019,C,70,ivy.hansen@saltcorp.com,,contract,,2,,15,10/1/2021,5,Yes,5,Yes
+EMP-2020-0413,Eve,Bell,50,1974,50000,Male,IT,Director,1/15/2020,B,85,,123-456-7890,FULL-TIME,,3,1,,8/12/2024,,Yes,3,No
+EMP-2018-0414,Alice,Thompson,50,1974,SIXTY THOUSAND,Female,hr,Director,4/5/2018,B,89,alice.thompson@saltcorp.com,098-765-4321,Part-Time,,7,11,,,,Yes,5,No
+EMP-2020-0415,David,Rogers,thirty,1994,50000,Female,it,Assistant,2/20/2020,C,71,david.rogers@saltcorp.com, ,full-time,,7,,,,33,,3,Yes
+EMP-2020-0416,Eve,Evans,,1982,SIXTY THOUSAND,Male,it,Manager,1/15/2020,D,65,eve.evans@saltcorp.com,,Full-Time,,2,,15,,78,no,2,Yes
+EMP-2018-0417,Jack,Hanson,thirty,1994,70000,Male,finance,Assistant,4/5/2018,B,83,jack.hanson@saltcorp.com, ,part-time,,6,N/A,3,,,,3,No
+EMP-2018-0418,Jack,McCarthy,50,1974,50000,Male,IT,Analyst,4/5/2018,A,92,jack.mccarthy@saltcorp.com, ,Part-Time,,4,,,3/5/2023,,Yes,4,No
+EMP-2020-0419,Eve,Bell,40,1984,65000,Male,Finance,Director,2/20/2020,C,74,eve.bell@saltcorp.com,,part-time,,4,,,10/1/2021,63,,2,Yes
+EMP-2020-0420,Grace,Harrison,25,1999,60000,Male,marketing,Manager,2/20/2020,B,83,grace.harrison@saltcorp.com,555-555-5555,part-time,,6,10,,1/15/2023,,no,4,No
+EMP-2020-0421,David,Walsh,25,1999,60800,Male,Finance,Analyst,2/20/2020,D,62,david.walsh@saltcorp.com,098-765-4321,Full-Time,,6,,12,,,N,2,Yes
+EMP-2020-0422,Alice,Mason,40,1984,SIXTY THOUSAND,Female,Sales,Analyst,1/15/2020,B,87,alice.mason@saltcorp.com,098-765-4321,part-time,EMP-2018-0017,6,,7,3/5/2023,,,3,No
+EMP-2019-0423,Eve,Stevens,50,1974,65000,Male,hr,Manager,12/1/2019,F,35,eve.stevens@saltcorp.com,123-456-7890,Full-Time,,5,,,1/15/2023,,Yes,2,Yes
+EMP-2020-0424,Grace,Wang,25,1999,50000,Female,Marketing,Analyst,2/20/2020,A,98,grace.wang@saltcorp.com,123-456-7890,full-time,,4,,,8/12/2024,,No,4,No
+EMP-2019-0425,Jack,McCarthy,25,1999,65000,Female,Marketing,Manager,12/1/2019,C,75,jack.mccarthy@saltcorp.com,123-456-7890,contract,EMP-2018-0006,8,9,,,,No,1,No
+EMP-2020-0426,Jack,O'Connor,25,1999,65000,Male,sales,Manager,1/15/2020,F,50,jack.o'connor@saltcorp.com,098-765-4321,part-time,,1,,18,N/A,,yes,2,No
+EMP-2019-0427,Frank,Gonzalez,,1990,50000,Male,Finance,Clerk,12/1/2019,D,68,frank.gonzalez@saltcorp.com,555-555-5555,part-time,EMP-2020-0066,2,,20,N/A,31,no,2,No
+EMP-2019-0428,Eve,Vega,,1997,70000,Female,hr,Assistant,3/25/2019,F,39,eve.vega@saltcorp.com,098-765-4321,part-time,EMP-2020-0041,6,,,6/20/2022,63,N,1,Yes
+EMP-2019-0429,David,Cohen,35,1989,65000,Male,Finance,Analyst,12/1/2019,F,45,david.cohen@saltcorp.com,098-765-4321,Contract,,8,,,,,Yes,2,Yes
+EMP-2020-0430,Bob,Wallace,thirty,1994,65000,Male,IT,Analyst,2/20/2020,D,66,bob.wallace@saltcorp.com,098-765-4321,Contract,,4,,,,,no,2,No
+EMP-2020-0431,David,Le,40,1984,70000,Female,finance,Clerk,1/15/2020,F,41,david.le@saltcorp.com,098-765-4321,Part-Time,,4,,,,,,1,No
+EMP-2020-0432,Jack,Olson,40,1984,65000,Male,Marketing,Clerk,2/20/2020,C,77,jack.olson@saltcorp.com,555-555-5555,contract,,1,,,6/20/2022,,No,2,Yes
+EMP-2019-0433,Jack,Johnston,40,1984,65000,Male,hr,Clerk,3/25/2019,B,88,jack.johnston@saltcorp.com,123-456-7890,contract,,6,,,,,,3,No
+EMP-2020-0434,Charlie,Lewis,35,1989,65000,Male,Finance,Director,2/20/2020,F,53,charlie.lewis@saltcorp.com, ,Contract,,7,N/A,,,,No,3,Yes
+EMP-2020-0435,Jack,Wallace,,1971,60900,Female,HR,Director,2/20/2020,C,72,jack.wallace@saltcorp.com,123-456-7890,Part-Time,,2,,5,,75,No,3,Yes
+EMP-2020-0436,Alice,Knight,50,1974,55000,Male,hr,Director,2/20/2020,B,85,alice.knight@saltcorp.com,123-456-7890,Contract,EMP-2020-0074,7,,16,,32,,4,No
+EMP-2018-0437,Hannah,Sims,50,1974,70000,Female,it,Manager,4/5/2018,B,81,hannah.sims@saltcorp.com, ,full-time,EMP-2020-0062,5,,,,74,,4,No
+EMP-2019-0438,Eve,Medina,35,1989,65000,Female,IT,Analyst,3/25/2019,F,39,eve.medina@saltcorp.com,098-765-4321,Part-Time,,5,N/A,6,,,yes,1,Yes
+EMP-2020-0439,David,Andrews,50,1974,61600,Male,Marketing,Assistant,2/20/2020,C,78,david.andrews@saltcorp.com,555-555-5555,contract,EMP-2020-0032,1,,,6/20/2022,25,no,1,Yes
+EMP-2020-0440,Hannah,Gutierrez,40,1984,70000,Female,Sales,Manager,2/20/2020,F,46,hannah.gutierrez@saltcorp.com,555-555-5555,contract,EMP-2020-0015,6,,,,,no,3,No
+EMP-2020-0441,Grace,Wallace,thirty,1994,SIXTY THOUSAND,Male,HR,Analyst,2/20/2020,D,60,grace.wallace@saltcorp.com,123-456-7890,Contract,EMP-2019-0054,8,,13,6/20/2022,,no,5,No
+EMP-2020-0442,Bob,Jordan,25,1999,SIXTY THOUSAND,Male,Sales,Analyst,1/15/2020,B,81,bob.jordan@saltcorp.com, ,full-time,,8,11,,,,Yes,4,No
+EMP-2018-0443,Alice,Burns,,1996,65000,Female,Marketing,Clerk,4/5/2018,F,39,alice.burns@saltcorp.com,,Contract,,1,3,2,1/15/2023,,No,5,No
+EMP-2020-0444,David,Lucas,,1989,58800,Male,HR,Clerk,1/15/2020,B,80,david.lucas@saltcorp.com,098-765-4321,FULL-TIME,EMP-2018-0067,5,N/A,2,,,Yes,5,No
+EMP-2018-0445,Hannah,Long,35,1989,59000,Female,HR,Manager,4/5/2018,C,77,hannah.long@saltcorp.com,123-456-7890,Full-Time,,4,N/A,15,1/15/2023,,YES,5,Yes
+EMP-2020-0446,Bob,Davis,,1998,70000,Male,Sales,Clerk,2/20/2020,A,100,bob.davis@saltcorp.com,555-555-5555,Full-Time,,6,N/A,8,,72,Yes,1,No
+EMP-2019-0447,Charlie,Garrett,40,1984,70000,Male,Finance,Analyst,3/25/2019,F,30,charlie.garrett@saltcorp.com, ,full-time,,2,13,0,,,No,1,Yes
+EMP-2019-0448,Alice,Gomez,50,1974,58600,Female,IT,Clerk,12/1/2019,F,9,alice.gomez@saltcorp.com, ,part-time,,2,N/A,15,,,No,4,No
+EMP-2019-0449,Alice,Thompson,40,1984,70000,Male,Finance,Director,12/1/2019,B,85,alice.thompson@saltcorp.com,123-456-7890,part-time,,3,1,,,,YES,2,Yes
+EMP-2020-0450,Charlie,Dominguez,35,1989,63000,Female,Sales,Clerk,2/20/2020,C,78,charlie.dominguez@saltcorp.com,,Full-Time,,1,,,3/5/2023,,,5,No
+EMP-2020-0451,Eve,Parker,40,1984,55000,Female,IT,Analyst,1/15/2020,D,64,eve.parker@saltcorp.com,555-555-5555,Full-Time,,2,,,10/1/2021,,no,3,Yes
+EMP-2019-0452,Charlie,White,50,1974,59500,Female,Finance,Manager,3/25/2019,C,71,charlie.white@saltcorp.com,123-456-7890,part-time,,4,8,,10/1/2021,,No,3,No
+EMP-2018-0453,Alice,Baker,thirty,1994,SIXTY THOUSAND,Female,IT,Assistant,4/5/2018,F,55,alice.baker@saltcorp.com,,Part-Time,,4,N/A,,,,Yes,4,No
+EMP-2020-0454,Alice,Fisher,35,1989,70000,Female,hr,Clerk,2/20/2020,D,65,alice.fisher@saltcorp.com, ,part-time,EMP-2019-0045,7,,12,3/5/2023,,no,3,Yes
+EMP-2019-0455,Hannah,Brooks,thirty,1994,60800,Female,finance,Analyst,3/25/2019,C,78,hannah.brooks@saltcorp.com,098-765-4321,Contract,EMP-2019-0092,2,,,,,No,4,No
+EMP-2019-0456,Jack,Ryan,25,1999,59800,Female,IT,Assistant,3/25/2019,A,94,jack.ryan@saltcorp.com,555-555-5555,Part-Time,,4,,,3/5/2023,,No,3,No
+EMP-2018-0457,Bob,Brown,thirty,1994,70000,Male,IT,Assistant,4/5/2018,B,87,bob.brown@saltcorp.com,555-555-5555,Contract,,7,,,6/20/2022,20,YES,1,Yes
+EMP-2019-0458,Charlie,Wallace,25,1999,55000,Female,IT,Director,3/25/2019,C,70,charlie.wallace@saltcorp.com,,Full-Time,,2,,12,"March 5, 2023",,,2,No
+EMP-2020-0459,Bob,Garcia,25,1999,55000,Female,Finance,Assistant,1/15/2020,C,74,bob.garcia@saltcorp.com,123-456-7890,Part-Time,,3,0,,,,no,4,No
+EMP-2020-0460,Charlie,Davidson,thirty,1994,70000,Male,marketing,Analyst,1/15/2020,A,91,charlie.davidson@saltcorp.com, ,Contract,,1,3,15,8/12/2024,,Yes,1,Yes
+EMP-2020-0461,Grace,Liu,35,1989,50000,Male,finance,Analyst,1/15/2020,F,25,grace.liu@saltcorp.com,,Contract,EMP-2018-0007,8,,,,,,5,No
+EMP-2019-0462,Alice,McCoy,50,1974,70000,Female,sales,Clerk,3/25/2019,B,89,alice.mccoy@saltcorp.com,098-765-4321,Part-Time,EMP-2020-0061,6,,,,,YES,5,Yes
+EMP-2020-0463,Jack,Armstrong,40,1984,70000,Male,finance,Clerk,1/15/2020,C,71,jack.armstrong@saltcorp.com,098-765-4321,full-time,,1,1,19,,61,,5,No
+EMP-2018-0464,Hannah,Perry,40,1984,55000,Female,IT,Clerk,4/5/2018,D,69,hannah.perry@saltcorp.com,098-765-4321,FULL-TIME,,2,,,10/1/2021,65,yes,4,Yes
+EMP-2019-0465,Jack,Walsh,50,1974,55000,Female,HR,Assistant,3/25/2019,C,72,jack.walsh@saltcorp.com,,part-time,,2,8,3,,,Yes,3,Yes
+EMP-2019-0466,Jack,O'Neill,25,1999,70000,Male,finance,Assistant,12/1/2019,B,85,jack.o'neill@saltcorp.com, ,contract,,1,3,6,,,,1,Yes
+EMP-2019-0467,Jack,McCarthy,25,1999,70000,Female,finance,Director,3/25/2019,C,79,jack.mccarthy@saltcorp.com,555-555-5555,Contract,,3,,9,,28,no,3,No
+EMP-2018-0468,Bob,Pearson,35,1989,70000,Male,IT,Clerk,4/5/2018,A,98,bob.pearson@saltcorp.com,123-456-7890,part-time,EMP-2020-0093,5,5,3,,,No,5,Yes
+EMP-2019-0469,Charlie,Gutierrez,,1978,55000,Male,HR,Manager,12/1/2019,C,78,charlie.gutierrez@saltcorp.com,555-555-5555,FULL-TIME,,2,,,,,Yes,2,No
+EMP-2019-0470,Ivy,Rogers,thirty,1994,70000,Female,hr,Director,3/25/2019,C,72,ivy.rogers@saltcorp.com, ,contract,,4,N/A,3,N/A,,No,1,Yes
+EMP-2020-0471,Grace,Dominguez,25,1999,70000,Male,Sales,Manager,1/15/2020,D,66,grace.dominguez@saltcorp.com,555-555-5555,part-time,,5,,,"March 5, 2023",43,No,2,Yes
+EMP-2020-0472,David,Cohen,40,1984,65000,Male,Finance,Assistant,2/20/2020,A,94,david.cohen@saltcorp.com,,Full-Time,,7,,,8/12/2024,,,5,No
+EMP-2020-0473,Jack,Santos,35,1989,50000,Male,HR,Director,2/20/2020,A,98,jack.santos@saltcorp.com,098-765-4321,contract,EMP-2020-0078,7,,8,N/A,,no,2,No
+EMP-2020-0474,Eve,Bell,thirty,1994,SIXTY THOUSAND,Female,hr,Director,1/15/2020,C,75,eve.bell@saltcorp.com, ,FULL-TIME,,8,,20,,,YES,2,No
+EMP-2020-0475,Bob,Andrews,35,1989,50000,Female,Marketing,Analyst,2/20/2020,D,64,bob.andrews@saltcorp.com, ,part-time,,7,10,10,N/A,,Yes,5,No
+EMP-2020-0476,Hannah,Byrd,thirty,1994,65000,Male,Marketing,Assistant,2/20/2020,C,79,hannah.byrd@saltcorp.com,555-555-5555,Contract,,7,,12,,7,No,2,Yes
+EMP-2020-0477,David,Hudson,thirty,1994,SIXTY THOUSAND,Male,HR,Assistant,1/15/2020,C,79,david.hudson@saltcorp.com,,contract,EMP-2018-0043,6,,,,,Yes,3,No
+EMP-2020-0478,Ivy,Wallace,50,1974,70000,Male,Sales,Director,1/15/2020,B,89,ivy.wallace@saltcorp.com,555-555-5555,Full-Time,,1,N/A,3,,,Yes,4,No
+EMP-2019-0479,Eve,Reed,25,1999,65000,Male,HR,Assistant,3/25/2019,B,89,eve.reed@saltcorp.com,555-555-5555,Part-Time,,7,,,,,,5,No
+EMP-2019-0480,Ivy,Kumar,35,1989,70000,Female,IT,Director,3/25/2019,D,69,ivy.kumar@saltcorp.com, ,Contract,,2,N/A,,,,,4,Yes
+EMP-2020-0481,David,Ross,35,1989,55000,Male,Finance,Analyst,1/15/2020,F,20,david.ross@saltcorp.com,555-555-5555,Full-Time,,1,,10,N/A,45,yes,4,Yes
+EMP-2018-0482,Jack,O'Connor,50,1974,63000,Female,sales,Director,4/5/2018,B,82,jack.o'connor@saltcorp.com,098-765-4321,Full-Time,,2,2,,,38,Yes,2,No
+EMP-2020-0483,Eve,Turner,40,1984,65000,Male,IT,Assistant,2/20/2020,F,45,eve.turner@saltcorp.com,555-555-5555,contract,EMP-2020-0042,1,N/A,,,,No,4,Yes
+EMP-2019-0484,Ivy,Gupta,40,1984,55000,Male,Sales,Assistant,3/25/2019,A,92,ivy.gupta@saltcorp.com,098-765-4321,part-time,EMP-2018-0024,2,,,8/12/2024,39,Yes,4,No
+EMP-2020-0485,Hannah,Wallace,25,1999,65000,Female,IT,Director,2/20/2020,B,87,hannah.wallace@saltcorp.com, ,Part-Time,,6,0,,,9,YES,1,Yes
+EMP-2019-0486,Charlie,Castillo,25,1999,65000,Male,Finance,Director,12/1/2019,B,87,charlie.castillo@saltcorp.com,,Contract,,2,,17,,,no,3,Yes
+EMP-2020-0487,Alice,Barnett,,1978,55000,Male,Finance,Director,1/15/2020,D,67,alice.barnett@saltcorp.com,098-765-4321,Contract,,5,,7,,30,yes,1,No
+EMP-2018-0488,Charlie,Harris,50,1974,SIXTY THOUSAND,Male,Marketing,Clerk,4/5/2018,F,14,charlie.harris@saltcorp.com,,part-time,EMP-2020-0074,5,,,N/A,39,yes,1,Yes
+EMP-2019-0489,David,Figueroa,40,1984,50000,Male,IT,Assistant,12/1/2019,B,84,david.figueroa@saltcorp.com,,Part-Time,EMP-2019-0089,2,N/A,,8/12/2024,59,no,2,No
+EMP-2019-0490,Bob,Sims,thirty,1994,70000,Male,Marketing,Assistant,12/1/2019,B,85,bob.sims@saltcorp.com,098-765-4321,contract,,5,,8,,,Yes,5,Yes
+EMP-2019-0491,Alice,Lee,35,1989,65000,Female,it,Clerk,12/1/2019,D,66,alice.lee@saltcorp.com, ,Contract,,8,15,,"March 5, 2023",,yes,1,No
+EMP-2020-0492,Grace,Li,25,1999,70000,Male,marketing,Director,1/15/2020,D,64,grace.li@saltcorp.com,123-456-7890,Part-Time,,7,,,1/15/2023,15,no,2,No
+EMP-2019-0493,Hannah,Bennett,35,1989,60800,Female,Finance,Analyst,3/25/2019,F,41,hannah.bennett@saltcorp.com,,contract,,7,12,6,,,no,1,Yes
+EMP-2020-0494,Grace,Lucas,35,1989,55000,Male,sales,Director,1/15/2020,A,94,grace.lucas@saltcorp.com,,contract,EMP-2020-0029,1,,,10/1/2021,45,no,5,No
+EMP-2019-0495,Eve,Stevens,,1966,70000,Female,Marketing,Director,3/25/2019,A,98,eve.stevens@saltcorp.com, ,FULL-TIME,,8,10,,6/20/2022,,yes,1,No
+EMP-2019-0496,Alice,Thompson,40,1984,55000,Female,IT,Clerk,12/1/2019,C,79,alice.thompson@saltcorp.com, ,Contract,,3,,,,,YES,1,Yes
+EMP-2019-0497,Grace,Wu,25,1999,70000,Female,IT,Assistant,12/1/2019,B,88,grace.wu@saltcorp.com,555-555-5555,part-time,,4,7,9,,35,,2,No
+EMP-2018-0498,Grace,Li,35,1989,50000,Female,finance,Director,4/5/2018,F,6,grace.li@saltcorp.com, ,full-time,EMP-2020-0028,3,,13,1/15/2023,6,Yes,1,Yes
+EMP-2019-0499,Ivy,Le,25,1999,50000,Female,IT,Assistant,3/25/2019,B,82,ivy.le@saltcorp.com,,Contract,,7,,,,63,,1,No
+EMP-2019-0500,Charlie,Jackson,thirty,1994,50000,Female,hr,Manager,12/1/2019,F,41,charlie.jackson@saltcorp.com,098-765-4321,FULL-TIME,EMP-2020-0047,5,12,,,,no,4,No
+EMP-2020-0501,Ivy,Patel,,1992,50000,Male,Sales,Assistant,2/20/2020,F,41,ivy.patel@saltcorp.com,123-456-7890,Full-Time,,3,N/A,,,,yes,5,Yes
+EMP-2018-0502,Alice,Thomas,thirty,1994,50000,Female,marketing,Analyst,4/5/2018,F,34,alice.thomas@saltcorp.com,555-555-5555,Full-Time,EMP-2020-0065,5,,17,,,Yes,2,Yes
+EMP-2020-0503,Alice,Rivera,25,1999,50000,Female,Sales,Analyst,1/15/2020,B,82,alice.rivera@saltcorp.com,098-765-4321,contract,,6,6,10,,5,No,4,No
+EMP-2018-0504,David,Sullivan,25,1999,55000,Male,Finance,Director,4/5/2018,D,62,david.sullivan@saltcorp.com,123-456-7890,full-time,,1,,,1/15/2023,,no,1,Yes
+EMP-2020-0505,Ivy,Schmidt,40,1984,65000,Male,marketing,Assistant,2/20/2020,B,80,ivy.schmidt@saltcorp.com,123-456-7890,FULL-TIME,,3,N/A,,,15,Yes,3,No
+EMP-2019-0506,Frank,Gibson,35,1989,70000,Female,Marketing,Director,3/25/2019,F,29,frank.gibson@saltcorp.com,123-456-7890,Contract,,2,N/A,,10/1/2021,29,YES,4,No
+EMP-2020-0507,Charlie,Harris,35,1989,50000,Male,hr,Clerk,1/15/2020,C,78,charlie.harris@saltcorp.com,098-765-4321,Full-Time,,1,14,,,,No,1,Yes
+EMP-2020-0508,Alice,Campos,thirty,1994,55000,Male,Finance,Analyst,1/15/2020,A,92,alice.campos@saltcorp.com,555-555-5555,Full-Time,,1,,6,"March 5, 2023",,yes,2,Yes
+EMP-2019-0509,David,O'Brien,,1970,55000,Male,it,Director,3/25/2019,F,41,david.o'brien@saltcorp.com,555-555-5555,Contract,EMP-2019-0093,7,,,10/1/2021,,No,3,No
+EMP-2018-0510,Ivy,Vega,50,1974,55000,Female,HR,Clerk,4/5/2018,C,70,ivy.vega@saltcorp.com,123-456-7890,FULL-TIME,EMP-2018-0096,2,,13,,,yes,3,No
+EMP-2019-0511,Charlie,Rivera,35,1989,65000,Male,hr,Director,12/1/2019,D,62,charlie.rivera@saltcorp.com,098-765-4321,Part-Time,,5,,15,"March 5, 2023",,,1,Yes
+EMP-2018-0512,Ivy,Singh,40,1984,70000,Male,Sales,Assistant,4/5/2018,F,20,ivy.singh@saltcorp.com,123-456-7890,contract,EMP-2020-0008,4,,,3/5/2023,,No,5,No
+EMP-2020-0513,Grace,Wang,thirty,1994,65000,Female,Sales,Assistant,2/20/2020,C,71,grace.wang@saltcorp.com, ,Contract,,6,,20,,,Yes,5,No
+EMP-2019-0514,David,Hoffman,thirty,1994,SIXTY THOUSAND,Male,Sales,Assistant,12/1/2019,F,16,david.hoffman@saltcorp.com,555-555-5555,Part-Time,EMP-2019-0053,4,2,7,1/15/2023,,yes,1,No
+EMP-2018-0515,Charlie,Taylor,50,1974,55000,Male,HR,Assistant,4/5/2018,B,83,charlie.taylor@saltcorp.com,,contract,,7,,5,,,Yes,5,Yes
+EMP-2019-0516,Jack,Murphy,40,1984,SIXTY THOUSAND,Male,IT,Manager,3/25/2019,C,79,jack.murphy@saltcorp.com,123-456-7890,full-time,,3,N/A,,,,Yes,4,Yes
+EMP-2020-0517,Eve,Armstrong,,1999,58600,Female,marketing,Clerk,2/20/2020,B,85,eve.armstrong@saltcorp.com, ,part-time,,3,,,,42,,5,No
+EMP-2020-0518,Eve,Garrett,40,1984,50000,Female,sales,Clerk,2/20/2020,B,87,eve.garrett@saltcorp.com,555-555-5555,contract,,3,,14,8/12/2024,32,yes,4,No
+EMP-2020-0519,Charlie,Moore,,1998,50000,Male,it,Assistant,2/20/2020,C,74,charlie.moore@saltcorp.com,098-765-4321,full-time,EMP-2019-0016,4,,,3/5/2023,49,No,2,No
+EMP-2019-0520,Ivy,Matthews,40,1984,65000,Female,Finance,Manager,12/1/2019,A,94,ivy.matthews@saltcorp.com,555-555-5555,part-time,,5,7,3,,,No,1,Yes
+EMP-2020-0521,David,Cohen,40,1984,70000,Male,Sales,Assistant,1/15/2020,C,72,david.cohen@saltcorp.com,098-765-4321,Full-Time,EMP-2018-0094,4,5,16,,,No,3,No
+EMP-2019-0522,Eve,Parker,25,1999,SIXTY THOUSAND,Male,Marketing,Manager,12/1/2019,A,99,eve.parker@saltcorp.com,098-765-4321,Full-Time,,2,,,6/20/2022,25,yes,5,No
+EMP-2018-0523,David,Walsh,thirty,1994,70000,Male,Finance,Assistant,4/5/2018,F,43,david.walsh@saltcorp.com,123-456-7890,Full-Time,,3,,,,12,no,3,Yes
+EMP-2020-0524,Eve,Hansen,40,1984,65000,Female,Finance,Analyst,1/15/2020,F,33,eve.hansen@saltcorp.com,123-456-7890,contract,,1,N/A,,,62,No,2,No
+EMP-2018-0525,Grace,Davidson,50,1974,50000,Female,Marketing,Analyst,4/5/2018,C,79,grace.davidson@saltcorp.com,555-555-5555,Part-Time,,8,,3,8/12/2024,,yes,1,Yes
+EMP-2020-0526,Ivy,Hudson,40,1984,70000,Male,Sales,Director,1/15/2020,F,34,ivy.hudson@saltcorp.com, ,part-time,,2,,5,,,No,4,No
+EMP-2019-0527,Grace,Armstrong,35,1989,70000,Female,HR,Assistant,12/1/2019,D,68,grace.armstrong@saltcorp.com,555-555-5555,Full-Time,EMP-2018-0031,5,,,,,No,3,No
+EMP-2020-0528,Eve,Bell,thirty,1994,50000,Female,marketing,Clerk,2/20/2020,B,83,eve.bell@saltcorp.com,,FULL-TIME,,2,,17,10/1/2021,,No,2,Yes
+EMP-2019-0529,Jack,Kelly,35,1989,SIXTY THOUSAND,Male,marketing,Director,3/25/2019,B,87,jack.kelly@saltcorp.com,098-765-4321,Contract,EMP-2020-0007,5,5,18,,,no,4,No
+EMP-2020-0530,Jack,O'Connor,thirty,1994,50000,Male,marketing,Analyst,2/20/2020,A,98,jack.o'connor@saltcorp.com,098-765-4321,part-time,EMP-2019-0057,2,10,,8/12/2024,46,yes,4,No
+EMP-2019-0531,Grace,Oliver,35,1989,70000,Male,finance,Assistant,12/1/2019,F,25,grace.oliver@saltcorp.com,123-456-7890,part-time,,4,N/A,,,,YES,5,Yes
+EMP-2020-0532,Jack,Weber,40,1984,SIXTY THOUSAND,Male,IT,Director,1/15/2020,A,94,jack.weber@saltcorp.com, ,Part-Time,,8,,14,1/15/2023,54,,5,No
+EMP-2020-0533,Eve,West,40,1984,SIXTY THOUSAND,Male,HR,Assistant,2/20/2020,B,86,eve.west@saltcorp.com,123-456-7890,full-time,,6,,,N/A,,,3,No
+EMP-2019-0534,Charlie,Barnett,25,1999,50000,Male,sales,Analyst,12/1/2019,B,81,charlie.barnett@saltcorp.com,,Part-Time,EMP-2020-0042,6,,8,8/12/2024,,,4,No
+EMP-2018-0535,Grace,Wang,50,1974,70000,Female,Sales,Director,4/5/2018,F,23,grace.wang@saltcorp.com,555-555-5555,Full-Time,,3,15,,,,Yes,2,Yes
+EMP-2019-0536,Bob,Oliver,35,1989,65000,Male,IT,Analyst,3/25/2019,D,66,bob.oliver@saltcorp.com,555-555-5555,Contract,EMP-2019-0036,4,5,,,,,5,Yes
+EMP-2020-0537,Ivy,Singh,,1977,70000,Female,marketing,Manager,2/20/2020,D,65,ivy.singh@saltcorp.com, ,Contract,EMP-2020-0095,2,,,6/20/2022,55,yes,5,Yes
+EMP-2020-0538,Jack,Kelly,25,1999,55000,Male,HR,Analyst,1/15/2020,F,8,jack.kelly@saltcorp.com,123-456-7890,FULL-TIME,,5,N/A,9,,48,,4,Yes
+EMP-2018-0539,Jack,Garrett,35,1989,58300,Male,Sales,Assistant,4/5/2018,F,29,jack.garrett@saltcorp.com,123-456-7890,FULL-TIME,,2,,,N/A,,no,5,Yes
+EMP-2019-0540,Alice,Gutierrez,35,1989,65000,Female,sales,Clerk,12/1/2019,A,100,alice.gutierrez@saltcorp.com,,Full-Time,,4,N/A,16,3/5/2023,68,,1,No
+EMP-2019-0541,Frank,Torres,25,1999,SIXTY THOUSAND,Male,Marketing,Analyst,3/25/2019,F,9,frank.torres@saltcorp.com,555-555-5555,Contract,,6,5,1,N/A,25,No,1,Yes
+EMP-2020-0542,Grace,Byrd,40,1984,65000,Female,IT,Clerk,1/15/2020,D,60,grace.byrd@saltcorp.com,123-456-7890,Part-Time,EMP-2020-0061,8,15,,,,yes,3,No
+EMP-2019-0543,Hannah,Powers,35,1989,SIXTY THOUSAND,Male,hr,Manager,12/1/2019,F,15,hannah.powers@saltcorp.com, ,contract,EMP-2019-0091,8,,,,,,5,No
+EMP-2019-0544,Jack,Kelly,40,1984,SIXTY THOUSAND,Male,it,Director,12/1/2019,A,93,jack.kelly@saltcorp.com,555-555-5555,Part-Time,,6,,19,,35,YES,2,Yes
+EMP-2020-0545,Ivy,Knight,25,1999,65000,Female,IT,Director,2/20/2020,A,97,ivy.knight@saltcorp.com,,contract,,5,,,,,Yes,2,Yes
+EMP-2020-0546,Bob,Smith,40,1984,SIXTY THOUSAND,Male,HR,Clerk,2/20/2020,A,90,bob.smith@saltcorp.com, ,Full-Time,EMP-2018-0050,3,,8,1/15/2023,,YES,2,Yes
+EMP-2020-0547,Jack,Hudson,thirty,1994,SIXTY THOUSAND,Female,HR,Director,1/15/2020,A,93,jack.hudson@saltcorp.com,098-765-4321,Contract,EMP-2019-0083,6,,,3/5/2023,44,no,2,No
+EMP-2019-0548,Bob,Vega,,1988,55000,Male,Sales,Analyst,12/1/2019,C,75,bob.vega@saltcorp.com,,FULL-TIME,,6,,,N/A,,Yes,4,No
+EMP-2020-0549,Eve,Stevens,35,1989,70000,Female,Sales,Clerk,2/20/2020,F,56,eve.stevens@saltcorp.com, ,part-time,,7,6,,8/12/2024,,no,4,No
+EMP-2019-0550,Eve,Cooper,50,1974,70000,Male,hr,Assistant,3/25/2019,B,88,eve.cooper@saltcorp.com,123-456-7890,FULL-TIME,,3,,,6/20/2022,,No,5,Yes
+EMP-2019-0551,Frank,Torres,,1991,60800,Male,Finance,Analyst,3/25/2019,F,56,frank.torres@saltcorp.com,098-765-4321,full-time,EMP-2020-0006,1,N/A,10,10/1/2021,,YES,5,No
+EMP-2019-0552,Charlie,Harris,40,1984,60000,Male,Sales,Analyst,12/1/2019,C,78,charlie.harris@saltcorp.com,,part-time,,6,1,19,N/A,65,No,1,Yes
+EMP-2020-0553,Hannah,Brooks,35,1989,55000,Female,finance,Analyst,2/20/2020,A,95,hannah.brooks@saltcorp.com,123-456-7890,contract,,4,,3,6/20/2022,,,4,No
+EMP-2020-0554,Alice,Baker,40,1984,61500,Female,HR,Assistant,1/15/2020,C,72,alice.baker@saltcorp.com,098-765-4321,Part-Time,EMP-2018-0028,4,N/A,,N/A,,,5,No
+EMP-2020-0555,Frank,Hernandez,thirty,1994,65000,Female,Sales,Manager,1/15/2020,D,63,frank.hernandez@saltcorp.com,555-555-5555,Part-Time,,7,,,3/5/2023,,No,2,No
+EMP-2020-0556,David,Gutierrez,25,1999,50000,Male,IT,Director,1/15/2020,D,67,david.gutierrez@saltcorp.com,123-456-7890,FULL-TIME,,5,N/A,,N/A,,No,4,No
+EMP-2019-0557,Alice,Lee,35,1989,50000,Female,hr,Clerk,3/25/2019,F,35,alice.lee@saltcorp.com, ,Part-Time,EMP-2018-0051,6,,7,8/12/2024,,yes,4,Yes
+EMP-2020-0558,Grace,Wang,thirty,1994,50000,Female,Marketing,Manager,2/20/2020,F,16,grace.wang@saltcorp.com,,FULL-TIME,,3,,7,,,Yes,2,Yes
+EMP-2020-0559,Ivy,Gupta,thirty,1994,55000,Female,Finance,Clerk,2/20/2020,B,85,ivy.gupta@saltcorp.com,098-765-4321,FULL-TIME,,6,N/A,,,,no,4,No
+EMP-2019-0560,David,Sullivan,35,1989,55000,Female,HR,Director,3/25/2019,B,81,david.sullivan@saltcorp.com,123-456-7890,Part-Time,EMP-2019-0060,8,,9,,,,2,No
+EMP-2020-0561,David,Olson,40,1984,SIXTY THOUSAND,Male,HR,Assistant,1/15/2020,D,69,david.olson@saltcorp.com,555-555-5555,full-time,,8,,,,,No,5,No
+EMP-2020-0562,Frank,Pearson,50,1974,50000,Male,Sales,Analyst,1/15/2020,A,91,frank.pearson@saltcorp.com,,Full-Time,,8,,19,3/5/2023,,,1,No
+EMP-2019-0563,Charlie,Clark,thirty,1994,65000,Female,Sales,Analyst,12/1/2019,C,75,charlie.clark@saltcorp.com,,Part-Time,,6,,,,,,3,Yes
+EMP-2018-0564,Frank,Hanson,,1992,58300,Female,Sales,Assistant,4/5/2018,B,83,frank.hanson@saltcorp.com,123-456-7890,contract,,5,,,,77,No,1,Yes
+EMP-2020-0565,Grace,Sims,thirty,1994,65000,Female,Marketing,Manager,2/20/2020,B,83,grace.sims@saltcorp.com,555-555-5555,Contract,,8,7,17,,,yes,5,Yes
+EMP-2020-0566,Jack,O'Neill,50,1974,61500,Male,Sales,Manager,2/20/2020,A,93,jack.o'neill@saltcorp.com,098-765-4321,FULL-TIME,,2,15,4,,72,Yes,5,No
+EMP-2020-0567,Jack,Walker,40,1984,50000,Female,hr,Clerk,2/20/2020,A,97,jack.walker@saltcorp.com,123-456-7890,full-time,EMP-2019-0038,3,,,N/A,13,,5,No
+EMP-2018-0568,Charlie,Hansen,40,1984,50000,Male,Sales,Assistant,4/5/2018,F,6,charlie.hansen@saltcorp.com,098-765-4321,FULL-TIME,,2,,,,,yes,1,Yes
+EMP-2019-0569,Grace,Hoffman,,1984,50000,Female,IT,Manager,12/1/2019,C,73,grace.hoffman@saltcorp.com,,contract,,5,N/A,19,6/20/2022,,,5,Yes
+EMP-2018-0570,Charlie,McCoy,thirty,1994,55000,Male,Sales,Assistant,4/5/2018,A,96,charlie.mccoy@saltcorp.com,098-765-4321,FULL-TIME,,3,,,,,no,5,Yes
+EMP-2020-0571,Bob,Davis,40,1984,60500,Male,Marketing,Director,1/15/2020,B,80,bob.davis@saltcorp.com,555-555-5555,contract,,4,,,6/20/2022,,yes,1,No
+EMP-2020-0572,Jack,Kelly,50,1974,55000,Male,IT,Analyst,1/15/2020,B,89,jack.kelly@saltcorp.com, ,FULL-TIME,,5,1,,1/15/2023,,no,5,No
+EMP-2020-0573,David,Byrd,35,1989,55000,Male,HR,Analyst,2/20/2020,D,66,david.byrd@saltcorp.com,555-555-5555,Part-Time,,2,N/A,9,6/20/2022,,Yes,3,No
+EMP-2019-0574,Hannah,Long,25,1999,70000,Female,HR,Analyst,3/25/2019,A,93,hannah.long@saltcorp.com,098-765-4321,Contract,,2,,,N/A,,,3,No
+EMP-2020-0575,Ivy,Powers,25,1999,65000,Male,finance,Assistant,2/20/2020,F,46,ivy.powers@saltcorp.com,123-456-7890,Part-Time,,1,,,,20,,3,No
+EMP-2019-0576,Grace,Gutierrez,25,1999,65000,Female,IT,Assistant,3/25/2019,C,72,grace.gutierrez@saltcorp.com,,FULL-TIME,EMP-2018-0086,1,,2,,,No,2,Yes
+EMP-2018-0577,Alice,Rivera,thirty,1994,SIXTY THOUSAND,Male,Finance,Clerk,4/5/2018,F,2,alice.rivera@saltcorp.com, ,contract,,7,,,N/A,,no,1,No
+EMP-2020-0578,Charlie,Andrews,,1997,55000,Female,IT,Analyst,1/15/2020,B,80,charlie.andrews@saltcorp.com,123-456-7890,Full-Time,EMP-2020-0020,4,,0,,,,1,No
+EMP-2019-0579,Ivy,Hanson,40,1984,58600,Female,IT,Clerk,3/25/2019,F,0,ivy.hanson@saltcorp.com,123-456-7890,full-time,EMP-2019-0048,1,,15,8/12/2024,,,2,No
+EMP-2018-0580,Alice,Lee,35,1989,70000,Female,Marketing,Analyst,4/5/2018,B,88,alice.lee@saltcorp.com,555-555-5555,FULL-TIME,,5,6,3,8/12/2024,42,No,3,No
+EMP-2020-0581,Ivy,Sharma,50,1974,70000,Female,finance,Clerk,1/15/2020,B,89,ivy.sharma@saltcorp.com,098-765-4321,Full-Time,,8,,0,,,Yes,5,Yes
+EMP-2019-0582,Hannah,Gray,35,1989,65000,Female,Marketing,Clerk,3/25/2019,B,88,hannah.gray@saltcorp.com,555-555-5555,FULL-TIME,,3,,11,,,,1,No
+EMP-2020-0583,Alice,Hudson,50,1974,55000,Female,IT,Director,2/20/2020,B,88,alice.hudson@saltcorp.com,098-765-4321,full-time,EMP-2020-0037,6,4,,,23,,1,No
+EMP-2020-0584,Frank,Perez,thirty,1994,SIXTY THOUSAND,Male,hr,Clerk,2/20/2020,B,88,frank.perez@saltcorp.com,555-555-5555,Part-Time,,7,1,,,25,No,3,Yes
+EMP-2020-0585,Eve,Barnett,25,1999,55000,Female,IT,Assistant,2/20/2020,D,63,eve.barnett@saltcorp.com,123-456-7890,Part-Time,EMP-2018-0014,4,,,10/1/2021,,YES,3,No
+EMP-2018-0586,Frank,Sanchez,thirty,1994,50000,Male,marketing,Clerk,4/5/2018,F,17,frank.sanchez@saltcorp.com,,FULL-TIME,,5,,,3/5/2023,,YES,3,No
+EMP-2020-0587,Jack,Walsh,,1990,55000,Male,Finance,Analyst,2/20/2020,D,66,jack.walsh@saltcorp.com,098-765-4321,full-time,,3,N/A,,,,Yes,1,Yes
+EMP-2019-0588,Eve,Hoffman,,1989,50000,Female,Finance,Clerk,12/1/2019,D,64,eve.hoffman@saltcorp.com, ,Contract,,8,N/A,7,,46,,2,Yes
+EMP-2020-0589,Frank,Lucas,50,1974,50000,Male,Marketing,Manager,1/15/2020,A,91,frank.lucas@saltcorp.com, ,Contract,,2,2,,8/12/2024,75,yes,5,No
+EMP-2018-0590,Eve,Stevens,40,1984,SIXTY THOUSAND,Male,finance,Analyst,4/5/2018,A,96,eve.stevens@saltcorp.com,123-456-7890,FULL-TIME,,7,,18,3/5/2023,45,yes,1,No
+EMP-2020-0591,Eve,Lucas,40,1984,61500,Male,Sales,Manager,2/20/2020,A,90,eve.lucas@saltcorp.com,555-555-5555,FULL-TIME,,6,,9,,,Yes,2,No
+EMP-2020-0592,David,Hanson,50,1974,65000,Male,hr,Analyst,1/15/2020,C,79,david.hanson@saltcorp.com,555-555-5555,FULL-TIME,,1,2,,,,No,1,Yes
+EMP-2019-0593,Charlie,Martin,,1993,55000,Male,hr,Assistant,3/25/2019,A,98,charlie.martin@saltcorp.com,123-456-7890,Part-Time,,4,,,,77,,4,Yes
+EMP-2020-0594,Charlie,Aguilar,,1983,50000,Male,HR,Assistant,2/20/2020,F,59,charlie.aguilar@saltcorp.com, ,Part-Time,,3,,,,,no,4,No
+EMP-2020-0595,David,Medina,,1990,55000,Male,Finance,Assistant,1/15/2020,D,69,david.medina@saltcorp.com, ,Full-Time,,3,,19,N/A,,yes,3,No
+EMP-2019-0596,Ivy,Kumar,thirty,1994,59500,Female,Finance,Manager,12/1/2019,F,13,ivy.kumar@saltcorp.com,555-555-5555,contract,,8,,11,,,no,2,Yes
+EMP-2019-0597,Bob,Gutierrez,,1963,65000,Female,IT,Director,3/25/2019,A,99,bob.gutierrez@saltcorp.com,098-765-4321,Part-Time,,3,N/A,,N/A,25,No,4,No
+EMP-2019-0598,Ivy,Desai,35,1989,59300,Female,it,Analyst,12/1/2019,C,73,ivy.desai@saltcorp.com,,full-time,,3,,,1/15/2023,,,1,Yes
+EMP-2020-0599,Alice,Powers,25,1999,65000,Female,hr,Assistant,1/15/2020,C,75,alice.powers@saltcorp.com,098-765-4321,Contract,,3,3,4,3/5/2023,,yes,2,Yes
+EMP-2019-0600,Alice,Anderson,,1985,70000,Male,Sales,Analyst,12/1/2019,D,65,alice.anderson@saltcorp.com, ,Contract,,8,N/A,,6/20/2022,57,,2,No
+EMP-2020-0601,Eve,Carter,50,1974,65000,Male,it,Manager,1/15/2020,F,21,eve.carter@saltcorp.com,098-765-4321,FULL-TIME,,6,,,,12,No,5,No
+EMP-2020-0602,Frank,Sanchez,25,1999,SIXTY THOUSAND,Male,IT,Director,1/15/2020,B,89,frank.sanchez@saltcorp.com,,Full-Time,,1,N/A,,N/A,55,No,3,No
+EMP-2019-0603,Frank,Powers,thirty,1994,59500,Female,Finance,Manager,12/1/2019,F,31,frank.powers@saltcorp.com,098-765-4321,FULL-TIME,EMP-2018-0076,4,,,6/20/2022,,,4,No
+EMP-2020-0604,Charlie,Clark,50,1974,50000,Male,Sales,Analyst,1/15/2020,A,93,charlie.clark@saltcorp.com,098-765-4321,Contract,EMP-2020-0051,8,,,3/5/2023,,No,2,No
+EMP-2020-0605,Grace,Hanson,25,1999,70000,Female,HR,Director,2/20/2020,B,89,grace.hanson@saltcorp.com,098-765-4321,Contract,,4,,,1/15/2023,76,Yes,1,Yes
+EMP-2020-0606,Ivy,Singh,50,1974,SIXTY THOUSAND,Female,IT,Director,1/15/2020,C,73,ivy.singh@saltcorp.com,098-765-4321,contract,,2,,,,33,,5,No
+EMP-2018-0607,Jack,Walsh,thirty,1994,55000,Female,Sales,Manager,4/5/2018,D,62,jack.walsh@saltcorp.com,123-456-7890,part-time,,5,10,,,,yes,2,Yes
+EMP-2020-0608,Hannah,Long,35,1989,58300,Female,Sales,Assistant,1/15/2020,D,61,hannah.long@saltcorp.com, ,full-time,,6,11,,8/12/2024,54,YES,2,Yes
+EMP-2018-0609,Frank,Ramirez,thirty,1994,50000,Male,hr,Analyst,4/5/2018,C,77,frank.ramirez@saltcorp.com,,contract,EMP-2019-0030,4,N/A,,,42,Yes,1,Yes
+EMP-2020-0610,Hannah,Ross,thirty,1994,65000,Female,sales,Clerk,1/15/2020,A,94,hannah.ross@saltcorp.com, ,FULL-TIME,,1,,,,,Yes,2,No
+EMP-2020-0611,Eve,Cooper,50,1974,50000,Female,Sales,Clerk,1/15/2020,C,78,eve.cooper@saltcorp.com,123-456-7890,part-time,,4,,17,3/5/2023,,Yes,5,No
+EMP-2019-0612,Hannah,Powell,40,1984,55000,Female,Sales,Manager,12/1/2019,A,96,hannah.powell@saltcorp.com,123-456-7890,Contract,,6,,,10/1/2021,10,Yes,4,No
+EMP-2020-0613,Jack,Dixon,,1993,70000,Female,IT,Analyst,2/20/2020,B,81,jack.dixon@saltcorp.com,123-456-7890,Full-Time,,7,,12,3/5/2023,79,Yes,1,Yes
+EMP-2020-0614,David,Murphy,,1985,70000,Female,HR,Analyst,2/20/2020,C,70,david.murphy@saltcorp.com,123-456-7890,Full-Time,,8,,,8/12/2024,,Yes,4,Yes
+EMP-2019-0615,Jack,Sullivan,35,1989,61500,Female,Sales,Manager,3/25/2019,A,96,jack.sullivan@saltcorp.com,098-765-4321,Contract,EMP-2020-0038,8,,,10/1/2021,,Yes,4,No
+EMP-2019-0616,Hannah,Hughes,35,1989,70000,Female,Sales,Analyst,12/1/2019,B,82,hannah.hughes@saltcorp.com, ,Part-Time,EMP-2018-0035,1,N/A,10,,,No,5,No
+EMP-2019-0617,Jack,O'Connor,,1990,59800,Male,IT,Assistant,12/1/2019,C,74,jack.o'connor@saltcorp.com,555-555-5555,part-time,,1,,9,,,Yes,3,No
+EMP-2020-0618,Bob,Olson,40,1984,59000,Female,HR,Manager,2/20/2020,D,64,bob.olson@saltcorp.com,,Contract,EMP-2019-0014,6,15,,8/12/2024,,yes,2,No
+EMP-2019-0619,Eve,Parker,,1991,58500,Male,Finance,Assistant,12/1/2019,C,71,eve.parker@saltcorp.com,123-456-7890,Full-Time,,2,N/A,,,,No,2,No
+EMP-2020-0620,Ivy,Sharma,40,1984,65000,Female,it,Analyst,2/20/2020,F,12,ivy.sharma@saltcorp.com, ,Full-Time,EMP-2018-0017,5,,,,,No,3,No
+EMP-2019-0621,David,Kim,35,1989,SIXTY THOUSAND,Female,hr,Manager,12/1/2019,C,72,david.kim@saltcorp.com,123-456-7890,part-time,,5,,,,41,no,2,No
+EMP-2020-0622,Frank,Gonzalez,25,1999,60000,Male,sales,Analyst,1/15/2020,F,51,frank.gonzalez@saltcorp.com,123-456-7890,full-time,EMP-2018-0004,3,N/A,,,,,1,Yes
+EMP-2020-0623,Alice,Navarro,50,1974,59000,Female,hr,Manager,2/20/2020,B,87,alice.navarro@saltcorp.com,123-456-7890,Contract,,7,,6,1/15/2023,10,No,3,Yes
+EMP-2020-0624,Ivy,Byrd,35,1989,SIXTY THOUSAND,Female,hr,Analyst,2/20/2020,C,72,ivy.byrd@saltcorp.com,123-456-7890,contract,,7,2,,,,,1,No
+EMP-2018-0625,Alice,Lee,35,1989,50000,Female,HR,Assistant,4/5/2018,B,83,alice.lee@saltcorp.com,123-456-7890,FULL-TIME,,6,,,,,,3,No
+EMP-2019-0626,Eve,Turner,thirty,1994,58500,Female,Finance,Assistant,12/1/2019,B,85,eve.turner@saltcorp.com,,Contract,,2,6,4,10/1/2021,,Yes,5,Yes
+EMP-2019-0627,David,Gomez,thirty,1994,65000,Female,hr,Analyst,12/1/2019,A,93,david.gomez@saltcorp.com, ,full-time,,5,N/A,4,N/A,,Yes,1,No
+EMP-2020-0628,Charlie,Vega,thirty,1994,70000,Female,finance,Manager,2/20/2020,B,85,charlie.vega@saltcorp.com,123-456-7890,part-time,,7,14,6,,,Yes,3,No
+EMP-2020-0629,Frank,Perez,50,1974,70000,Male,Sales,Clerk,1/15/2020,B,88,frank.perez@saltcorp.com,123-456-7890,part-time,,4,2,,1/15/2023,,yes,2,Yes
+EMP-2020-0630,Bob,Miller,thirty,1994,55000,Male,Finance,Assistant,1/15/2020,C,77,bob.miller@saltcorp.com,123-456-7890,Full-Time,,7,,13,N/A,8,Yes,3,No
+EMP-2020-0631,Charlie,Ward,40,1984,55000,Female,Sales,Assistant,1/15/2020,C,77,charlie.ward@saltcorp.com,123-456-7890,full-time,EMP-2019-0062,6,N/A,,N/A,,Yes,1,Yes
+EMP-2019-0632,Eve,Cooper,,1991,70000,Female,Sales,Clerk,12/1/2019,D,62,eve.cooper@saltcorp.com,098-765-4321,part-time,,6,N/A,,6/20/2022,46,No,5,No
+EMP-2018-0633,Ivy,Reddy,25,1999,70000,Female,finance,Analyst,4/5/2018,A,96,ivy.reddy@saltcorp.com,098-765-4321,Part-Time,,8,N/A,7,,,No,1,Yes
+EMP-2020-0634,Bob,Miller,35,1989,65000,Male,it,Manager,2/20/2020,B,89,bob.miller@saltcorp.com,555-555-5555,Contract,,8,,,,67,,4,No
+EMP-2019-0635,Jack,Harrison,40,1984,SIXTY THOUSAND,Male,marketing,Analyst,3/25/2019,A,96,jack.harrison@saltcorp.com,123-456-7890,Full-Time,,1,,15,,41,YES,2,Yes
+EMP-2018-0636,Hannah,Gray,25,1999,55000,Male,hr,Director,4/5/2018,F,49,hannah.gray@saltcorp.com,555-555-5555,contract,,3,9,,,5,YES,5,Yes
+EMP-2019-0637,Bob,Miller,40,1984,SIXTY THOUSAND,Male,marketing,Assistant,3/25/2019,B,85,bob.miller@saltcorp.com,,full-time,,8,N/A,3,3/5/2023,,YES,5,Yes
+EMP-2018-0638,Eve,Aguilar,40,1984,65000,Female,hr,Director,4/5/2018,A,99,eve.aguilar@saltcorp.com,555-555-5555,Full-Time,,3,,,,,yes,3,No
+EMP-2020-0639,Grace,Mason,35,1989,70000,Male,HR,Assistant,1/15/2020,D,63,grace.mason@saltcorp.com, ,part-time,,4,,,,,No,3,No
+EMP-2019-0640,Hannah,Bell,,1998,58300,Male,sales,Assistant,12/1/2019,D,69,hannah.bell@saltcorp.com,098-765-4321,FULL-TIME,,2,,6,,,,1,Yes
+EMP-2019-0641,Alice,Olson,thirty,1994,SIXTY THOUSAND,Male,HR,Director,3/25/2019,B,85,alice.olson@saltcorp.com,098-765-4321,part-time,,5,3,3,,,yes,2,Yes
+EMP-2018-0642,Frank,Medina,50,1974,70000,Male,HR,Director,4/5/2018,F,22,frank.medina@saltcorp.com,123-456-7890,contract,,4,,,,,,3,No
+EMP-2019-0643,Alice,Thompson,,1989,70000,Female,Finance,Analyst,12/1/2019,D,64,alice.thompson@saltcorp.com,123-456-7890,contract,EMP-2019-0047,3,,,N/A,,,1,Yes
+EMP-2019-0644,Bob,Matthews,50,1974,50000,Male,marketing,Director,3/25/2019,D,65,bob.matthews@saltcorp.com,,contract,,3,6,,,40,YES,3,No
+EMP-2020-0645,Alice,Dominguez,35,1989,SIXTY THOUSAND,Female,Finance,Analyst,2/20/2020,F,30,alice.dominguez@saltcorp.com,,contract,,3,,,6/20/2022,,,3,No
+EMP-2018-0646,Eve,Bell,35,1989,60400,Female,HR,Analyst,4/5/2018,A,95,eve.bell@saltcorp.com, ,contract,,6,,,,63,,3,No
+EMP-2020-0647,Jack,O'Neill,35,1989,SIXTY THOUSAND,Male,Sales,Analyst,2/20/2020,D,64,jack.o'neill@saltcorp.com,123-456-7890,Part-Time,,2,N/A,,,,No,3,No
+EMP-2020-0648,Ivy,Desai,25,1999,70000,Female,Finance,Assistant,1/15/2020,C,75,ivy.desai@saltcorp.com,123-456-7890,Contract,EMP-2019-0089,4,,,,,yes,5,No
+EMP-2020-0649,Frank,Figueroa,50,1974,58500,Male,Finance,Assistant,2/20/2020,D,62,frank.figueroa@saltcorp.com,,full-time,,7,,11,,,yes,3,No
+EMP-2020-0650,Alice,Rogers,,1966,65000,Female,IT,Director,2/20/2020,A,92,alice.rogers@saltcorp.com,,Full-Time,,6,,3,,65,YES,4,Yes
+EMP-2018-0651,Alice,Anderson,,1986,50000,Female,hr,Assistant,4/5/2018,A,93,alice.anderson@saltcorp.com,,contract,,2,,16,,,,2,No
+EMP-2020-0652,Bob,Bell,40,1984,70000,Female,sales,Director,1/15/2020,B,86,bob.bell@saltcorp.com,098-765-4321,Contract,,8,,,3/5/2023,77,Yes,5,No
+EMP-2020-0653,Ivy,Jordan,40,1984,55000,Female,Finance,Assistant,2/20/2020,C,77,ivy.jordan@saltcorp.com,555-555-5555,part-time,,8,,,10/1/2021,,Yes,2,No
+EMP-2019-0654,Charlie,Moore,40,1984,55000,Male,Finance,Manager,12/1/2019,A,96,charlie.moore@saltcorp.com,555-555-5555,Contract,,8,,12,,55,No,5,Yes
+EMP-2019-0655,Alice,Hanson,35,1989,50000,Female,Sales,Manager,3/25/2019,F,11,alice.hanson@saltcorp.com,123-456-7890,contract,EMP-2018-0014,4,,12,,60,,3,Yes
+EMP-2020-0656,Eve,Reed,,1976,65000,Female,HR,Director,2/20/2020,C,73,eve.reed@saltcorp.com,098-765-4321,FULL-TIME,,3,,,,6,Yes,4,No
+EMP-2020-0657,Grace,Zhou,50,1974,70000,Female,it,Assistant,1/15/2020,C,78,grace.zhou@saltcorp.com,,Full-Time,,7,N/A,18,1/15/2023,,,3,Yes
+EMP-2020-0658,Frank,Lopez,35,1989,SIXTY THOUSAND,Male,Finance,Assistant,2/20/2020,F,7,frank.lopez@saltcorp.com,123-456-7890,contract,EMP-2019-0056,1,,,,,No,5,No
+EMP-2019-0659,Alice,Ward,25,1999,50000,Female,it,Analyst,3/25/2019,D,69,alice.ward@saltcorp.com,098-765-4321,Contract,,4,,,,,,5,No
+EMP-2020-0660,Eve,Mitchell,40,1984,65000,Male,marketing,Clerk,1/15/2020,F,5,eve.mitchell@saltcorp.com, ,part-time,,1,N/A,,,,Yes,2,No
+EMP-2018-0661,Eve,Wells,35,1989,SIXTY THOUSAND,Male,HR,Director,4/5/2018,F,15,eve.wells@saltcorp.com,098-765-4321,Contract,,3,10,,1/15/2023,,Yes,1,Yes
+EMP-2020-0662,Frank,Le,35,1989,55000,Female,Marketing,Clerk,1/15/2020,D,65,frank.le@saltcorp.com,123-456-7890,contract,,3,,8,,,Yes,4,Yes
+EMP-2018-0663,Charlie,Moore,25,1999,55000,Male,Marketing,Clerk,4/5/2018,D,66,charlie.moore@saltcorp.com,555-555-5555,full-time,,3,,,8/12/2024,,Yes,3,No
+EMP-2020-0664,Eve,Parker,thirty,1994,SIXTY THOUSAND,Male,marketing,Director,1/15/2020,D,66,eve.parker@saltcorp.com,,Contract,EMP-2019-0011,1,,,,62,YES,4,Yes
+EMP-2019-0665,Grace,Aguilar,,1996,50000,Female,HR,Assistant,3/25/2019,D,68,grace.aguilar@saltcorp.com, ,full-time,,3,N/A,,8/12/2024,,no,1,No
+EMP-2019-0666,Eve,Young,50,1974,55000,Female,HR,Director,3/25/2019,D,62,eve.young@saltcorp.com,098-765-4321,contract,,1,N/A,,1/15/2023,,No,4,No
+EMP-2020-0667,Eve,Parker,thirty,1994,70000,Female,Sales,Clerk,1/15/2020,F,0,eve.parker@saltcorp.com,123-456-7890,Contract,,3,10,,,67,Yes,5,No
+EMP-2020-0668,Eve,Reed,40,1984,59800,Female,it,Assistant,2/20/2020,B,82,eve.reed@saltcorp.com,123-456-7890,part-time,EMP-2019-0041,5,,,,52,Yes,2,Yes
+EMP-2019-0669,Jack,O'Neill,35,1989,SIXTY THOUSAND,Male,IT,Manager,3/25/2019,B,87,jack.o'neill@saltcorp.com,,Part-Time,EMP-2020-0015,3,N/A,11,,,No,4,No
+EMP-2018-0670,Jack,Mason,25,1999,SIXTY THOUSAND,Male,Sales,Director,4/5/2018,A,97,jack.mason@saltcorp.com,123-456-7890,Part-Time,,7,11,,,,Yes,1,No
+EMP-2018-0671,Charlie,White,25,1999,55000,Female,Sales,Director,4/5/2018,B,83,charlie.white@saltcorp.com,123-456-7890,full-time,,1,,,,,,2,Yes
+EMP-2019-0672,Alice,Santos,,1997,50000,Female,Marketing,Assistant,12/1/2019,B,88,alice.santos@saltcorp.com,,contract,,5,,,,,YES,5,No
+EMP-2018-0673,Eve,Sims,thirty,1994,70000,Female,Sales,Manager,4/5/2018,F,32,eve.sims@saltcorp.com, ,full-time,,2,,1,N/A,,,4,Yes
+EMP-2019-0674,Ivy,Patel,,1976,50000,Female,Finance,Manager,12/1/2019,D,64,ivy.patel@saltcorp.com,555-555-5555,contract,,4,N/A,,,74,yes,2,No
+EMP-2020-0675,Alice,Thompson,35,1989,65000,Female,IT,Assistant,1/15/2020,D,60,alice.thompson@saltcorp.com,555-555-5555,contract,,8,,,,,No,4,No
+EMP-2020-0676,Charlie,Figueroa,,1984,65000,Female,Sales,Analyst,1/15/2020,F,6,charlie.figueroa@saltcorp.com,098-765-4321,Part-Time,,8,N/A,,6/20/2022,,No,4,No
+EMP-2020-0677,David,Walsh,50,1974,60300,Male,Finance,Director,1/15/2020,B,83,david.walsh@saltcorp.com, ,part-time,EMP-2019-0050,8,,3,1/15/2023,64,No,4,Yes
+EMP-2020-0678,Alice,Chen,25,1999,55000,Female,Finance,Director,2/20/2020,F,55,alice.chen@saltcorp.com,098-765-4321,part-time,,3,,,,,no,2,No
+EMP-2020-0679,Alice,Sims,25,1999,55000,Female,finance,Clerk,2/20/2020,A,91,alice.sims@saltcorp.com,555-555-5555,Contract,EMP-2018-0074,4,12,,,,No,2,Yes
+EMP-2019-0680,Hannah,Gray,40,1984,55000,Female,finance,Assistant,12/1/2019,D,62,hannah.gray@saltcorp.com,,full-time,,7,N/A,,,,yes,2,No
+EMP-2018-0681,Bob,Gibson,40,1984,58600,Male,Marketing,Clerk,4/5/2018,C,73,bob.gibson@saltcorp.com,123-456-7890,part-time,,3,,6,10/1/2021,,YES,2,Yes
+EMP-2018-0682,Hannah,Medina,35,1989,65000,Female,finance,Clerk,4/5/2018,A,95,hannah.medina@saltcorp.com,555-555-5555,FULL-TIME,,3,,,6/20/2022,,,4,No
+EMP-2020-0683,Grace,Gomez,50,1974,50000,Female,marketing,Manager,1/15/2020,A,92,grace.gomez@saltcorp.com, ,Full-Time,,5,,2,1/15/2023,,no,4,No
+EMP-2019-0684,Jack,Young,thirty,1994,60500,Female,marketing,Director,3/25/2019,F,48,jack.young@saltcorp.com,555-555-5555,Contract,,3,,,8/12/2024,,Yes,5,No
+EMP-2020-0685,Jack,Dominguez,,1999,61300,Female,finance,Clerk,2/20/2020,B,80,jack.dominguez@saltcorp.com, ,Contract,,6,,,,58,Yes,1,No
+EMP-2020-0686,Bob,Garcia,35,1989,50000,Male,IT,Manager,2/20/2020,D,65,bob.garcia@saltcorp.com, ,Part-Time,,8,,5,1/15/2023,,Yes,5,No
+EMP-2020-0687,Frank,Mason,40,1984,55000,Male,Finance,Assistant,1/15/2020,C,77,frank.mason@saltcorp.com, ,full-time,,2,15,,,,Yes,1,Yes
+EMP-2020-0688,Frank,Flores,,1993,70000,Female,finance,Clerk,2/20/2020,A,100,frank.flores@saltcorp.com,098-765-4321,FULL-TIME,EMP-2019-0015,4,N/A,14,,,YES,3,Yes
+EMP-2020-0689,Charlie,Byrd,40,1984,50000,Male,finance,Director,1/15/2020,C,76,charlie.byrd@saltcorp.com,,part-time,,7,7,16,,47,yes,3,No
+EMP-2019-0690,Bob,Johnson,,2000,65000,Male,IT,Clerk,12/1/2019,B,85,bob.johnson@saltcorp.com,555-555-5555,part-time,,7,N/A,12,,75,No,4,Yes
+EMP-2018-0691,Alice,Bishop,thirty,1994,SIXTY THOUSAND,Male,HR,Assistant,4/5/2018,B,80,alice.bishop@saltcorp.com,,contract,,3,,0,1/15/2023,,Yes,2,No
+EMP-2019-0692,Frank,Sanchez,35,1989,SIXTY THOUSAND,Male,HR,Clerk,3/25/2019,C,71,frank.sanchez@saltcorp.com,123-456-7890,Contract,,2,N/A,,10/1/2021,,,2,Yes
+EMP-2018-0693,Eve,Turner,,1970,60500,Male,Marketing,Director,4/5/2018,D,67,eve.turner@saltcorp.com,555-555-5555,full-time,EMP-2019-0018,1,N/A,,,,Yes,5,No
+EMP-2018-0694,Ivy,Desai,50,1974,SIXTY THOUSAND,Male,Marketing,Manager,4/5/2018,B,84,ivy.desai@saltcorp.com,,full-time,EMP-2019-0080,4,,,N/A,,,4,Yes
+EMP-2019-0695,Alice,Thompson,25,1999,70000,Male,IT,Director,12/1/2019,C,77,alice.thompson@saltcorp.com,,full-time,,7,,,3/5/2023,,Yes,1,Yes
+EMP-2020-0696,Grace,Andrews,50,1974,55000,Female,Sales,Manager,2/20/2020,A,100,grace.andrews@saltcorp.com,123-456-7890,contract,,3,,15,,,No,2,Yes
+EMP-2019-0697,Eve,Turner,50,1974,65000,Male,HR,Analyst,3/25/2019,C,71,eve.turner@saltcorp.com, ,Part-Time,,2,,,1/15/2023,,no,4,No
+EMP-2020-0698,Eve,Dominguez,25,1999,70000,Male,Marketing,Director,2/20/2020,C,76,eve.dominguez@saltcorp.com,555-555-5555,part-time,,3,,,,,no,2,Yes
+EMP-2018-0699,Bob,Knight,50,1974,65000,Male,HR,Director,4/5/2018,F,5,bob.knight@saltcorp.com,555-555-5555,full-time,,8,,8,N/A,,No,5,No
+EMP-2020-0700,Charlie,Rogers,,1989,65000,Male,IT,Assistant,1/15/2020,B,85,charlie.rogers@saltcorp.com,123-456-7890,FULL-TIME,EMP-2020-0004,1,11,,6/20/2022,,,1,Yes
+EMP-2018-0701,Grace,Pearson,,1991,55000,Male,IT,Clerk,4/5/2018,D,66,grace.pearson@saltcorp.com, ,FULL-TIME,,2,,13,N/A,,,5,Yes
+EMP-2020-0702,Frank,Gonzalez,,1987,61500,Male,Sales,Manager,2/20/2020,D,61,frank.gonzalez@saltcorp.com,555-555-5555,contract,,2,,,6/20/2022,31,Yes,1,No
+EMP-2018-0703,Bob,Miller,25,1999,SIXTY THOUSAND,Male,Sales,Manager,4/5/2018,F,4,bob.miller@saltcorp.com,555-555-5555,Part-Time,,8,,,6/20/2022,,Yes,4,No
+EMP-2020-0704,Frank,Gonzalez,50,1974,55000,Male,it,Assistant,1/15/2020,D,68,frank.gonzalez@saltcorp.com,555-555-5555,contract,,3,,7,1/15/2023,,,2,No
+EMP-2019-0705,Bob,Medina,25,1999,70000,Female,marketing,Assistant,12/1/2019,C,70,bob.medina@saltcorp.com, ,Full-Time,EMP-2019-0070,1,11,,,28,yes,5,Yes
+EMP-2020-0706,Bob,McCoy,,1990,58800,Male,HR,Clerk,2/20/2020,F,4,bob.mccoy@saltcorp.com,123-456-7890,Contract,EMP-2019-0070,7,,,,,yes,4,No
+EMP-2018-0707,Bob,Brown,50,1974,70000,Male,Finance,Clerk,4/5/2018,A,93,bob.brown@saltcorp.com,555-555-5555,part-time,,7,,9,,,No,3,No
+EMP-2020-0708,Charlie,White,50,1974,63000,Male,Sales,Director,2/20/2020,B,85,charlie.white@saltcorp.com,,contract,EMP-2020-0097,6,,3,3/5/2023,48,Yes,3,No
+EMP-2019-0709,Bob,Garrett,40,1984,70000,Male,finance,Analyst,12/1/2019,B,82,bob.garrett@saltcorp.com, ,contract,,1,5,,3/5/2023,59,YES,3,Yes
+EMP-2018-0710,David,Ross,40,1984,55000,Female,marketing,Clerk,4/5/2018,B,89,david.ross@saltcorp.com,098-765-4321,part-time,EMP-2018-0057,7,,,,10,Yes,3,No
+EMP-2018-0711,Ivy,Shah,thirty,1994,58300,Female,Sales,Assistant,4/5/2018,C,76,ivy.shah@saltcorp.com,123-456-7890,Contract,,4,,,,,No,3,No
+EMP-2020-0712,Frank,Flores,35,1989,61300,Female,Finance,Clerk,2/20/2020,A,97,frank.flores@saltcorp.com,,Full-Time,,8,N/A,9,,,No,5,No
+EMP-2020-0713,Alice,Chen,40,1984,65000,Female,Marketing,Manager,2/20/2020,F,27,alice.chen@saltcorp.com,555-555-5555,FULL-TIME,EMP-2018-0079,7,2,,,,YES,5,Yes
+EMP-2020-0714,Hannah,Walker,25,1999,65000,Female,HR,Analyst,1/15/2020,F,41,hannah.walker@saltcorp.com,098-765-4321,FULL-TIME,,6,,,10/1/2021,,,5,No
+EMP-2019-0715,Grace,Olson,40,1984,50000,Female,Marketing,Director,12/1/2019,B,83,grace.olson@saltcorp.com,123-456-7890,Part-Time,,2,,,,17,No,1,Yes
+EMP-2020-0716,Jack,Medina,thirty,1994,70000,Female,sales,Manager,1/15/2020,A,99,jack.medina@saltcorp.com, ,contract,,7,,,3/5/2023,,,2,Yes
+EMP-2018-0717,Charlie,Burns,50,1974,65000,Female,it,Manager,4/5/2018,A,98,charlie.burns@saltcorp.com,098-765-4321,Contract,EMP-2020-0087,3,,12,3/5/2023,49,,4,Yes
+EMP-2020-0718,Alice,Thompson,thirty,1994,50000,Male,HR,Analyst,2/20/2020,A,96,alice.thompson@saltcorp.com,098-765-4321,Part-Time,,5,9,15,8/12/2024,16,Yes,4,No
+EMP-2018-0719,Eve,Gomez,50,1974,65000,Female,Finance,Director,4/5/2018,D,67,eve.gomez@saltcorp.com,,FULL-TIME,,8,,8,N/A,,YES,5,No
+EMP-2018-0720,David,Williamson,50,1974,70000,Female,sales,Assistant,4/5/2018,D,60,david.williamson@saltcorp.com,123-456-7890,Part-Time,EMP-2018-0032,4,4,5,N/A,,YES,4,Yes
+EMP-2019-0721,Jack,Figueroa,35,1989,60100,Female,it,Director,3/25/2019,B,82,jack.figueroa@saltcorp.com,,Part-Time,,2,,13,,,yes,2,Yes
+EMP-2019-0722,Hannah,Hughes,40,1984,SIXTY THOUSAND,Female,Marketing,Clerk,3/25/2019,A,95,hannah.hughes@saltcorp.com,,Full-Time,,5,N/A,,N/A,,,5,Yes
+EMP-2018-0723,Alice,Anderson,25,1999,70000,Male,IT,Manager,4/5/2018,A,91,alice.anderson@saltcorp.com,555-555-5555,Full-Time,,7,3,7,,35,,3,No
+EMP-2020-0724,Jack,Burns,25,1999,55000,Male,Sales,Clerk,2/20/2020,F,50,jack.burns@saltcorp.com, ,Part-Time,,5,N/A,17,,75,,4,No
+EMP-2018-0725,Alice,Wells,,1997,65000,Female,Sales,Assistant,4/5/2018,F,49,alice.wells@saltcorp.com,098-765-4321,full-time,,4,3,7,,57,no,5,Yes
+EMP-2019-0726,David,Armstrong,50,1974,65000,Female,IT,Clerk,3/25/2019,B,86,david.armstrong@saltcorp.com,123-456-7890,part-time,,1,,,3/5/2023,,,2,No
+EMP-2020-0727,Hannah,Le,25,1999,60500,Female,Marketing,Director,2/20/2020,A,98,hannah.le@saltcorp.com, ,FULL-TIME,,1,N/A,7,,69,no,3,No
+EMP-2018-0728,Eve,Knight,35,1989,55000,Female,it,Clerk,4/5/2018,B,84,eve.knight@saltcorp.com, ,FULL-TIME,,2,8,11,8/12/2024,,No,4,Yes
+EMP-2019-0729,Bob,Brown,50,1974,58300,Female,sales,Assistant,12/1/2019,F,25,bob.brown@saltcorp.com,123-456-7890,Full-Time,,1,0,,8/12/2024,,no,3,No
+EMP-2019-0730,Frank,Flores,35,1989,55000,Female,Sales,Assistant,12/1/2019,F,46,frank.flores@saltcorp.com, ,full-time,,7,,,3/5/2023,,,1,Yes
+EMP-2018-0731,Eve,Mason,25,1999,SIXTY THOUSAND,Female,Finance,Assistant,4/5/2018,D,61,eve.mason@saltcorp.com,555-555-5555,full-time,,4,,,N/A,,No,1,Yes
+EMP-2020-0732,Bob,Miller,25,1999,65000,Female,Finance,Director,2/20/2020,B,81,bob.miller@saltcorp.com, ,contract,,6,,17,6/20/2022,,No,4,No
+EMP-2018-0733,Charlie,Jackson,,1990,65000,Male,HR,Assistant,4/5/2018,B,84,charlie.jackson@saltcorp.com,555-555-5555,part-time,,7,0,,10/1/2021,,YES,4,Yes
+EMP-2018-0734,Ivy,Gupta,25,1999,SIXTY THOUSAND,Female,sales,Manager,4/5/2018,A,92,ivy.gupta@saltcorp.com,098-765-4321,Part-Time,,6,,4,N/A,,no,5,No
+EMP-2019-0735,Grace,Zhou,50,1974,50000,Male,Finance,Assistant,3/25/2019,A,98,grace.zhou@saltcorp.com,098-765-4321,contract,EMP-2019-0003,2,7,13,,,yes,5,No
+EMP-2019-0736,Grace,Knight,50,1974,58600,Male,IT,Clerk,12/1/2019,D,60,grace.knight@saltcorp.com,,contract,,3,,2,1/15/2023,,No,1,Yes
+EMP-2019-0737,Frank,Dixon,50,1974,SIXTY THOUSAND,Male,Marketing,Clerk,3/25/2019,C,78,frank.dixon@saltcorp.com,555-555-5555,full-time,,7,,,6/20/2022,27,yes,4,No
+EMP-2019-0738,Hannah,Powell,,1989,58600,Male,it,Clerk,3/25/2019,C,77,hannah.powell@saltcorp.com,098-765-4321,full-time,,5,,,,48,No,4,No
+EMP-2018-0739,David,Ward,,1977,70000,Male,Marketing,Director,4/5/2018,C,77,david.ward@saltcorp.com, ,full-time,,5,0,11,,61,YES,3,Yes
+EMP-2019-0740,Hannah,Lucas,25,1999,65000,Male,Finance,Clerk,3/25/2019,B,82,hannah.lucas@saltcorp.com,123-456-7890,Part-Time,,7,,18,,21,yes,1,No
+EMP-2019-0741,David,Sullivan,thirty,1994,60900,Female,HR,Director,12/1/2019,B,81,david.sullivan@saltcorp.com,123-456-7890,Part-Time,,6,,,,51,,3,No
+EMP-2019-0742,Hannah,Brooks,thirty,1994,55000,Male,IT,Director,3/25/2019,F,30,hannah.brooks@saltcorp.com,555-555-5555,contract,,5,,15,,,YES,4,No
+EMP-2019-0743,Ivy,Davidson,,1984,59800,Female,IT,Assistant,12/1/2019,B,86,ivy.davidson@saltcorp.com,,contract,,7,N/A,14,,,No,1,Yes
+EMP-2019-0744,Charlie,Harris,25,1999,70000,Female,IT,Manager,3/25/2019,B,88,charlie.harris@saltcorp.com, ,Full-Time,EMP-2018-0001,4,,4,N/A,18,YES,2,Yes
+EMP-2019-0745,Charlie,Schmidt,thirty,1994,65000,Female,marketing,Assistant,12/1/2019,B,86,charlie.schmidt@saltcorp.com,555-555-5555,FULL-TIME,EMP-2018-0076,7,,,1/15/2023,60,yes,4,Yes
+EMP-2019-0746,Bob,Rodriguez,25,1999,SIXTY THOUSAND,Female,Finance,Assistant,3/25/2019,D,61,bob.rodriguez@saltcorp.com,123-456-7890,FULL-TIME,EMP-2019-0002,8,,,N/A,,Yes,2,Yes
+EMP-2019-0747,Jack,Sullivan,25,1999,70000,Male,IT,Director,3/25/2019,B,80,jack.sullivan@saltcorp.com,555-555-5555,FULL-TIME,,3,N/A,,,,no,1,Yes
+EMP-2020-0748,Charlie,Clark,25,1999,65000,Male,IT,Director,2/20/2020,A,98,charlie.clark@saltcorp.com, ,Full-Time,,6,10,,,,No,5,No
+EMP-2019-0749,Charlie,Bishop,40,1984,58800,Female,HR,Clerk,12/1/2019,A,97,charlie.bishop@saltcorp.com,098-765-4321,FULL-TIME,,8,N/A,16,3/5/2023,,yes,3,Yes
+EMP-2019-0750,Eve,Bell,50,1974,50000,Male,HR,Clerk,12/1/2019,F,12,eve.bell@saltcorp.com, ,full-time,,5,,,,,Yes,2,No
+EMP-2019-0751,Eve,Carter,25,1999,50000,Female,Finance,Assistant,12/1/2019,D,69,eve.carter@saltcorp.com,098-765-4321,Part-Time,,5,,6,,79,,3,Yes
+EMP-2020-0752,Bob,Byrd,40,1984,55000,Male,Finance,Analyst,1/15/2020,A,97,bob.byrd@saltcorp.com,098-765-4321,Part-Time,EMP-2020-0073,6,1,5,,,No,3,Yes
+EMP-2019-0753,Jack,Aguilar,,1985,65000,Male,Sales,Analyst,3/25/2019,D,62,jack.aguilar@saltcorp.com,098-765-4321,FULL-TIME,,7,N/A,,3/5/2023,22,no,4,No
+EMP-2019-0754,Frank,Ramirez,thirty,1994,50000,Male,HR,Clerk,12/1/2019,D,68,,555-555-5555,contract,EMP-2020-0096,3,N/A,20,,70,No,4,Yes
+EMP-2020-0755,Eve,Carter,50,1974,SIXTY THOUSAND,Female,Sales,Analyst,1/15/2020,F,48,eve.carter@saltcorp.com,123-456-7890,part-time,,2,,,,39,YES,5,No
+EMP-2020-0756,Frank,Torres,thirty,1994,65000,Male,Marketing,Clerk,2/20/2020,D,61,frank.torres@saltcorp.com,555-555-5555,full-time,EMP-2019-0028,4,,20,,,YES,2,Yes
+EMP-2019-0757,Alice,Anderson,50,1974,SIXTY THOUSAND,Male,Sales,Director,12/1/2019,B,83,alice.anderson@saltcorp.com,123-456-7890,Full-Time,,8,N/A,3,8/12/2024,,No,5,No
+EMP-2019-0758,Eve,Rogers,thirty,1994,SIXTY THOUSAND,Female,IT,Assistant,12/1/2019,D,60,eve.rogers@saltcorp.com, ,part-time,,3,,,,,,3,Yes
+EMP-2020-0759,Ivy,Gupta,50,1974,50000,Female,sales,Manager,1/15/2020,F,29,ivy.gupta@saltcorp.com,,Part-Time,EMP-2019-0041,2,N/A,17,1/15/2023,66,Yes,2,No
+EMP-2019-0760,Jack,Murphy,thirty,1994,65000,Male,Finance,Assistant,3/25/2019,F,8,jack.murphy@saltcorp.com, ,FULL-TIME,EMP-2020-0011,4,N/A,,10/1/2021,27,No,1,No
+EMP-2020-0761,Bob,Davis,thirty,1994,58600,Male,Marketing,Clerk,2/20/2020,F,36,bob.davis@saltcorp.com,555-555-5555,Full-Time,,7,2,,,,YES,4,No
+EMP-2019-0762,Alice,Baker,thirty,1994,70000,Female,IT,Clerk,12/1/2019,A,90,alice.baker@saltcorp.com,555-555-5555,full-time,,6,12,18,,,No,3,No
+EMP-2019-0763,Jack,Ross,thirty,1994,50000,Female,Sales,Assistant,3/25/2019,B,85,jack.ross@saltcorp.com,123-456-7890,Part-Time,,1,,15,,,yes,4,Yes
+EMP-2020-0764,Ivy,Desai,,1994,50000,Female,marketing,Clerk,2/20/2020,A,97,ivy.desai@saltcorp.com,555-555-5555,FULL-TIME,EMP-2020-0066,3,,,,,Yes,3,No
+EMP-2018-0765,Jack,Le,25,1999,60300,Male,Marketing,Analyst,4/5/2018,C,71,jack.le@saltcorp.com,098-765-4321,full-time,EMP-2019-0083,7,,,10/1/2021,,Yes,3,No
+EMP-2018-0766,Ivy,Aguilar,35,1989,65000,Male,IT,Analyst,4/5/2018,B,87,ivy.aguilar@saltcorp.com,555-555-5555,contract,,1,12,,,,YES,3,No
+EMP-2020-0767,Ivy,Singh,40,1984,65000,Female,Sales,Clerk,2/20/2020,D,63,ivy.singh@saltcorp.com,123-456-7890,part-time,,2,N/A,,,,Yes,1,No
+EMP-2020-0768,Frank,Matthews,35,1989,SIXTY THOUSAND,Male,Marketing,Clerk,1/15/2020,F,5,frank.matthews@saltcorp.com,123-456-7890,part-time,,3,N/A,,6/20/2022,55,yes,4,Yes
+EMP-2020-0769,Hannah,Hughes,35,1989,60300,Female,marketing,Analyst,2/20/2020,C,79,hannah.hughes@saltcorp.com,098-765-4321,part-time,,8,N/A,10,10/1/2021,21,No,4,No
+EMP-2020-0770,Alice,Lee,50,1974,58800,Female,HR,Clerk,2/20/2020,B,82,alice.lee@saltcorp.com,123-456-7890,Contract,,7,N/A,,,,no,3,No
+EMP-2020-0771,Jack,O'Neill,25,1999,65000,Male,Marketing,Clerk,1/15/2020,A,96,jack.o'neill@saltcorp.com,,FULL-TIME,,2,N/A,16,10/1/2021,41,Yes,2,Yes
+EMP-2020-0772,David,Kim,50,1974,SIXTY THOUSAND,Male,hr,Assistant,1/15/2020,F,35,david.kim@saltcorp.com, ,full-time,EMP-2018-0076,2,4,12,10/1/2021,,Yes,2,Yes
+EMP-2019-0773,Alice,Anderson,25,1999,50000,Female,sales,Manager,3/25/2019,A,98,alice.anderson@saltcorp.com,555-555-5555,part-time,EMP-2018-0006,5,1,4,10/1/2021,8,,5,No
+EMP-2019-0774,Hannah,Foster,25,1999,55000,Female,Sales,Analyst,3/25/2019,B,81,hannah.foster@saltcorp.com,,FULL-TIME,,4,,,6/20/2022,,yes,4,No
+EMP-2020-0775,Alice,Martinez,thirty,1994,70000,Female,Sales,Assistant,1/15/2020,B,82,alice.martinez@saltcorp.com,555-555-5555,contract,,6,,,3/5/2023,,YES,4,Yes
+EMP-2018-0776,Charlie,Lucas,,1978,50000,Male,finance,Manager,4/5/2018,C,79,,,part-time,,2,3,,3/5/2023,,no,1,No
+EMP-2018-0777,David,Cohen,thirty,1994,65000,Male,Sales,Clerk,4/5/2018,D,63,david.cohen@saltcorp.com,555-555-5555,full-time,,1,N/A,,,,Yes,1,No
+EMP-2020-0778,Hannah,Perry,,1988,70000,Female,Marketing,Clerk,2/20/2020,A,100,hannah.perry@saltcorp.com,098-765-4321,FULL-TIME,,7,N/A,,10/1/2021,,No,5,No
+EMP-2019-0779,Frank,Hoffman,50,1974,55000,Male,IT,Assistant,12/1/2019,C,70,frank.hoffman@saltcorp.com,123-456-7890,part-time,,7,10,1,N/A,,,4,No
+EMP-2020-0780,Jack,Jordan,,1994,55000,Male,hr,Clerk,2/20/2020,F,31,jack.jordan@saltcorp.com,123-456-7890,full-time,,5,5,19,,,No,1,Yes
+EMP-2020-0781,Grace,Bell,50,1974,SIXTY THOUSAND,Female,Finance,Director,2/20/2020,D,62,grace.bell@saltcorp.com,098-765-4321,Part-Time,,1,13,,,,YES,2,Yes
+EMP-2019-0782,Hannah,Williamson,35,1989,70000,Female,Sales,Assistant,12/1/2019,C,74,hannah.williamson@saltcorp.com,,contract,EMP-2018-0008,3,N/A,15,,,No,2,No
+EMP-2020-0783,Bob,Smith,35,1989,SIXTY THOUSAND,Male,Sales,Manager,1/15/2020,A,92,bob.smith@saltcorp.com, ,FULL-TIME,,8,1,9,,,YES,5,No
+EMP-2018-0784,Jack,Ryan,,1991,50000,Male,IT,Assistant,4/5/2018,B,84,jack.ryan@saltcorp.com,,full-time,,8,,,,,YES,1,Yes
+EMP-2020-0785,Hannah,Long,,1997,59300,Male,it,Analyst,2/20/2020,F,17,hannah.long@saltcorp.com,123-456-7890,full-time,EMP-2020-0023,1,,,,,,2,No
+EMP-2019-0786,Charlie,Jordan,50,1974,58500,Male,Finance,Assistant,12/1/2019,A,96,charlie.jordan@saltcorp.com, ,Contract,EMP-2018-0090,4,,,,,,2,No
+EMP-2019-0787,Grace,Yang,thirty,1994,58800,Male,HR,Clerk,3/25/2019,D,60,grace.yang@saltcorp.com,555-555-5555,FULL-TIME,,5,N/A,5,10/1/2021,,,4,No
+EMP-2020-0788,Charlie,Gomez,50,1974,70000,Male,sales,Clerk,2/20/2020,D,67,charlie.gomez@saltcorp.com, ,Part-Time,EMP-2020-0034,4,N/A,8,10/1/2021,,Yes,1,No
+EMP-2018-0789,Grace,Figueroa,thirty,1994,60300,Male,Finance,Director,4/5/2018,B,88,grace.figueroa@saltcorp.com,,FULL-TIME,,1,5,3,,,no,5,No
+EMP-2020-0790,Bob,Rodriguez,35,1989,50000,Male,Marketing,Director,1/15/2020,B,80,bob.rodriguez@saltcorp.com,098-765-4321,contract,EMP-2018-0099,4,N/A,12,,,No,2,Yes
+EMP-2020-0791,Jack,Andrews,25,1999,SIXTY THOUSAND,Male,Marketing,Director,2/20/2020,F,33,jack.andrews@saltcorp.com,555-555-5555,Contract,,3,,,,,Yes,5,No
+EMP-2020-0792,Frank,Flores,,1988,70000,Male,Finance,Manager,2/20/2020,F,6,frank.flores@saltcorp.com,,FULL-TIME,,1,0,,,28,no,1,Yes
+EMP-2019-0793,Charlie,Santos,thirty,1994,SIXTY THOUSAND,Male,Sales,Director,12/1/2019,B,83,charlie.santos@saltcorp.com,555-555-5555,FULL-TIME,,6,,,,,,2,No
+EMP-2019-0794,Charlie,Knight,50,1974,70000,Female,Finance,Manager,3/25/2019,B,83,charlie.knight@saltcorp.com, ,part-time,,4,,16,,,,4,No
+EMP-2019-0795,Ivy,Kumar,35,1989,SIXTY THOUSAND,Male,sales,Director,3/25/2019,D,69,ivy.kumar@saltcorp.com,123-456-7890,full-time,,1,N/A,1,1/15/2023,,,2,Yes
+EMP-2020-0796,Grace,West,thirty,1994,55000,Male,IT,Manager,1/15/2020,B,89,grace.west@saltcorp.com,,contract,,3,,7,10/1/2021,20,yes,3,No
+EMP-2018-0797,Eve,Carter,50,1974,SIXTY THOUSAND,Female,Finance,Assistant,4/5/2018,C,79,eve.carter@saltcorp.com,098-765-4321,Part-Time,EMP-2018-0032,2,,9,,,YES,3,No
+EMP-2020-0798,Jack,Sullivan,,1992,58300,Male,Sales,Assistant,1/15/2020,A,97,jack.sullivan@saltcorp.com, ,Contract,EMP-2019-0020,5,9,,,,Yes,4,No
+EMP-2020-0799,Grace,Le,,1991,55000,Male,Finance,Clerk,2/20/2020,B,81,grace.le@saltcorp.com,,full-time,,7,,,1/15/2023,37,yes,2,Yes
+EMP-2020-0800,Ivy,Sharma,40,1984,SIXTY THOUSAND,Female,Finance,Manager,2/20/2020,F,0,,098-765-4321,Full-Time,,6,9,17,,,,2,Yes
+EMP-2019-0801,Alice,Pearson,25,1999,70000,Male,sales,Analyst,3/25/2019,C,73,alice.pearson@saltcorp.com,,contract,,7,3,3,,,Yes,1,No
+EMP-2018-0802,Grace,Vega,40,1984,70000,Male,sales,Clerk,4/5/2018,F,9,grace.vega@saltcorp.com, ,Contract,,7,N/A,,,59,Yes,4,No
+EMP-2019-0803,Frank,Sanchez,35,1989,70000,Female,HR,Assistant,12/1/2019,C,71,frank.sanchez@saltcorp.com,,Part-Time,,4,15,,,54,Yes,4,No
+EMP-2018-0804,Jack,Sullivan,thirty,1994,65000,Male,Finance,Manager,4/5/2018,B,81,jack.sullivan@saltcorp.com,555-555-5555,Contract,,1,,,3/5/2023,20,YES,1,Yes
+EMP-2020-0805,Ivy,Desai,35,1989,50000,Male,Marketing,Director,2/20/2020,A,91,ivy.desai@saltcorp.com, ,Contract,EMP-2020-0007,2,,,8/12/2024,13,Yes,5,No
+EMP-2019-0806,Alice,Medina,50,1974,70000,Female,finance,Analyst,12/1/2019,F,11,alice.medina@saltcorp.com,,Contract,,2,15,4,,39,YES,5,No
+EMP-2018-0807,David,Ross,,1984,55000,Male,Finance,Assistant,4/5/2018,C,75,david.ross@saltcorp.com,123-456-7890,part-time,,5,,6,10/1/2021,,no,4,No
+EMP-2018-0808,Ivy,Thomas,40,1984,70000,Female,Sales,Clerk,4/5/2018,D,64,ivy.thomas@saltcorp.com,,Full-Time,EMP-2020-0059,6,,,8/12/2024,,no,2,Yes
+EMP-2019-0809,David,Powers,40,1984,65000,Female,Finance,Manager,12/1/2019,B,82,david.powers@saltcorp.com,555-555-5555,Part-Time,,6,N/A,,N/A,77,no,2,Yes
+EMP-2020-0810,Jack,Gibson,40,1984,60800,Male,Finance,Analyst,2/20/2020,A,99,jack.gibson@saltcorp.com,098-765-4321,Part-Time,,5,,13,,41,no,2,Yes
+EMP-2018-0811,Charlie,Clark,35,1989,55000,Male,Marketing,Manager,4/5/2018,B,85,charlie.clark@saltcorp.com,098-765-4321,Part-Time,EMP-2019-0099,4,,0,,,Yes,5,No
+EMP-2019-0812,Ivy,Desai,,1973,65000,Female,Sales,Director,12/1/2019,D,62,ivy.desai@saltcorp.com,098-765-4321,full-time,EMP-2020-0098,4,1,20,,,no,3,No
+EMP-2020-0813,Bob,Harrison,thirty,1994,61300,Male,finance,Clerk,2/20/2020,A,91,bob.harrison@saltcorp.com,123-456-7890,contract,EMP-2019-0004,8,7,8,,35,,5,No
+EMP-2019-0814,David,Harrison,50,1974,55000,Male,IT,Manager,12/1/2019,D,67,david.harrison@saltcorp.com,555-555-5555,Part-Time,EMP-2020-0089,7,,,6/20/2022,,YES,2,Yes
+EMP-2019-0815,Frank,Perez,thirty,1994,SIXTY THOUSAND,Female,HR,Assistant,12/1/2019,B,83,frank.perez@saltcorp.com, ,contract,,1,,8,6/20/2022,,Yes,3,No
+EMP-2018-0816,Bob,Garcia,35,1989,50000,Male,marketing,Clerk,4/5/2018,C,70,bob.garcia@saltcorp.com,098-765-4321,Part-Time,,5,N/A,,,,No,1,Yes
+EMP-2020-0817,Hannah,Rivera,50,1974,50000,Male,Finance,Assistant,2/20/2020,B,86,hannah.rivera@saltcorp.com,555-555-5555,Full-Time,,3,,13,1/15/2023,7,No,2,Yes
+EMP-2018-0818,Hannah,Andrews,40,1984,65000,Female,it,Manager,4/5/2018,B,85,hannah.andrews@saltcorp.com,,full-time,,7,N/A,,10/1/2021,39,no,4,Yes
+EMP-2020-0819,Alice,Davidson,25,1999,61300,Female,Finance,Clerk,1/15/2020,B,89,alice.davidson@saltcorp.com,123-456-7890,full-time,,2,,,,,yes,4,Yes
+EMP-2020-0820,Charlie,Bennett,35,1989,50000,Male,Finance,Assistant,1/15/2020,F,20,charlie.bennett@saltcorp.com,555-555-5555,Contract,,2,N/A,,,,No,4,No
+EMP-2020-0821,Jack,O'Neill,35,1989,63000,Male,Sales,Director,2/20/2020,D,65,jack.o'neill@saltcorp.com,555-555-5555,part-time,,5,5,,,,No,4,No
+EMP-2019-0822,Ivy,Gupta,,1981,63000,Female,Sales,Director,12/1/2019,D,68,ivy.gupta@saltcorp.com, ,full-time,EMP-2018-0065,6,N/A,,1/15/2023,,No,2,No
+EMP-2018-0823,Eve,Graham,thirty,1994,65000,Female,Sales,Manager,4/5/2018,D,69,eve.graham@saltcorp.com,555-555-5555,full-time,,2,,,8/12/2024,57,,4,No
+EMP-2018-0824,Frank,Thomas,35,1989,65000,Female,IT,Clerk,4/5/2018,F,38,frank.thomas@saltcorp.com, ,Full-Time,EMP-2019-0085,5,,,,54,,5,Yes
+EMP-2020-0825,David,Ross,35,1989,65000,Female,Finance,Analyst,2/20/2020,C,70,david.ross@saltcorp.com,123-456-7890,Part-Time,,5,13,3,N/A,31,,3,No
+EMP-2020-0826,Jack,Murphy,40,1984,50000,Male,HR,Clerk,2/20/2020,B,83,jack.murphy@saltcorp.com,123-456-7890,FULL-TIME,,8,N/A,,N/A,,No,1,No
+EMP-2020-0827,Bob,Brown,40,1984,65000,Male,marketing,Director,1/15/2020,C,74,bob.brown@saltcorp.com,,full-time,EMP-2018-0010,7,,20,,54,,1,Yes
+EMP-2019-0828,Hannah,Garrett,50,1974,50000,Female,Sales,Assistant,3/25/2019,F,35,hannah.garrett@saltcorp.com, ,full-time,EMP-2020-0014,8,,,,52,Yes,4,No
+EMP-2020-0829,Frank,Ross,25,1999,65000,Male,Sales,Analyst,2/20/2020,D,65,frank.ross@saltcorp.com, ,FULL-TIME,,4,,,,26,no,5,No
+EMP-2019-0830,Eve,Olson,,1978,70000,Male,Finance,Manager,3/25/2019,B,81,eve.olson@saltcorp.com,098-765-4321,part-time,EMP-2020-0046,6,,,10/1/2021,50,no,2,No
+EMP-2020-0831,Ivy,Shah,25,1999,60800,Female,Finance,Analyst,2/20/2020,A,93,ivy.shah@saltcorp.com,098-765-4321,contract,EMP-2019-0034,8,,,,34,No,3,No
+EMP-2019-0832,Alice,Schmidt,50,1974,65000,Male,IT,Manager,12/1/2019,A,100,alice.schmidt@saltcorp.com,,Full-Time,,8,N/A,,,,no,5,No
+EMP-2019-0833,Eve,Weber,40,1984,55000,Female,IT,Analyst,12/1/2019,C,76,eve.weber@saltcorp.com,123-456-7890,FULL-TIME,,1,3,9,,13,,4,Yes
+EMP-2020-0834,Frank,McCoy,thirty,1994,61500,Female,Sales,Manager,1/15/2020,D,68,frank.mccoy@saltcorp.com,098-765-4321,FULL-TIME,,8,N/A,14,1/15/2023,51,no,1,Yes
+EMP-2020-0835,Eve,Reed,40,1984,59500,Female,Finance,Manager,1/15/2020,A,92,eve.reed@saltcorp.com,555-555-5555,part-time,,2,N/A,17,8/12/2024,62,yes,5,No
+EMP-2019-0836,Frank,Gonzalez,,1985,65000,Female,HR,Analyst,3/25/2019,C,74,frank.gonzalez@saltcorp.com,123-456-7890,full-time,,5,,,N/A,,No,3,No
+EMP-2020-0837,Frank,Johnston,40,1984,SIXTY THOUSAND,Male,Marketing,Analyst,2/20/2020,F,3,frank.johnston@saltcorp.com,555-555-5555,full-time,,2,4,,N/A,,Yes,1,No
+EMP-2018-0838,Grace,Williamson,,1978,65000,Female,finance,Manager,4/5/2018,C,71,, ,Full-Time,EMP-2020-0032,7,,9,6/20/2022,,no,4,No
+EMP-2020-0839,David,Murphy,,1965,60300,Female,Finance,Director,1/15/2020,C,79,david.murphy@saltcorp.com,123-456-7890,Contract,EMP-2018-0016,4,N/A,19,,,Yes,3,No
+EMP-2018-0840,Hannah,Powell,,1985,55000,Male,IT,Analyst,4/5/2018,C,78,hannah.powell@saltcorp.com,,Contract,EMP-2018-0017,4,,,1/15/2023,,No,3,Yes
+EMP-2018-0841,Grace,Wu,50,1974,58600,Male,Marketing,Clerk,4/5/2018,B,87,grace.wu@saltcorp.com, ,FULL-TIME,,6,,0,,,Yes,2,Yes
+EMP-2020-0842,Ivy,Ross,,1990,55000,Female,Sales,Assistant,2/20/2020,C,76,ivy.ross@saltcorp.com, ,full-time,,7,N/A,19,,,No,3,No
+EMP-2019-0843,Grace,Huang,,1985,50000,Female,Finance,Manager,3/25/2019,C,79,grace.huang@saltcorp.com,555-555-5555,FULL-TIME,EMP-2020-0034,6,1,16,,,No,1,Yes
+EMP-2020-0844,Charlie,Clark,thirty,1994,70000,Male,Sales,Manager,2/20/2020,B,87,charlie.clark@saltcorp.com, ,FULL-TIME,,1,N/A,,,,,2,No
+EMP-2020-0845,Charlie,Harris,25,1999,58500,Male,Finance,Assistant,1/15/2020,B,82,charlie.harris@saltcorp.com,098-765-4321,full-time,,5,,,,44,,5,No
+EMP-2018-0846,Hannah,Gibson,35,1989,65000,Male,Sales,Director,4/5/2018,F,53,hannah.gibson@saltcorp.com,123-456-7890,part-time,EMP-2019-0007,4,,6,8/12/2024,,Yes,5,No
+EMP-2020-0847,Eve,Stevens,25,1999,50000,Female,Marketing,Assistant,2/20/2020,D,61,eve.stevens@saltcorp.com,098-765-4321,contract,,5,3,,,,No,2,Yes
+EMP-2020-0848,David,Kim,,1990,70000,Female,IT,Analyst,2/20/2020,A,96,david.kim@saltcorp.com,555-555-5555,contract,,2,N/A,13,N/A,30,No,2,No
+EMP-2020-0849,Hannah,Foster,thirty,1994,65000,Female,Marketing,Assistant,2/20/2020,A,94,hannah.foster@saltcorp.com,555-555-5555,part-time,EMP-2020-0055,7,,,1/15/2023,,,4,No
+EMP-2020-0850,Frank,Garrett,40,1984,SIXTY THOUSAND,Male,HR,Manager,1/15/2020,C,78,frank.garrett@saltcorp.com,123-456-7890,FULL-TIME,,6,,9,,27,,2,Yes
+EMP-2019-0851,Bob,Rogers,thirty,1994,65000,Male,IT,Assistant,3/25/2019,F,37,bob.rogers@saltcorp.com, ,part-time,,2,,0,,,No,2,Yes
+EMP-2020-0852,David,Jordan,,1994,55000,Male,marketing,Clerk,2/20/2020,C,71,david.jordan@saltcorp.com,,Part-Time,,3,,,,,,3,Yes
+EMP-2020-0853,David,O'Brien,thirty,1994,55000,Female,hr,Analyst,1/15/2020,A,91,david.o'brien@saltcorp.com,555-555-5555,full-time,EMP-2020-0062,8,,,6/20/2022,28,,4,No
+EMP-2018-0854,Frank,Lopez,thirty,1994,SIXTY THOUSAND,Female,Finance,Assistant,4/5/2018,B,84,frank.lopez@saltcorp.com,123-456-7890,Part-Time,,6,N/A,6,10/1/2021,26,Yes,1,Yes
+EMP-2019-0855,Frank,Olson,,1979,50000,Male,Finance,Manager,12/1/2019,D,62,frank.olson@saltcorp.com,,Contract,,6,N/A,,,,Yes,3,Yes
+EMP-2020-0856,Alice,Lee,50,1974,70000,Male,Sales,Analyst,1/15/2020,F,43,alice.lee@saltcorp.com, ,full-time,,4,,,,,yes,5,No
+EMP-2019-0857,Hannah,Mason,thirty,1994,65000,Female,IT,Manager,12/1/2019,B,80,hannah.mason@saltcorp.com,555-555-5555,full-time,,5,,20,8/12/2024,,no,4,Yes
+EMP-2020-0858,Frank,Jordan,35,1989,55000,Female,Finance,Director,2/20/2020,D,64,frank.jordan@saltcorp.com,123-456-7890,Full-Time,,3,,,N/A,63,Yes,2,No
+EMP-2020-0859,Charlie,Graham,35,1989,50000,Female,it,Clerk,2/20/2020,F,19,charlie.graham@saltcorp.com,123-456-7890,full-time,,4,,,,,Yes,1,Yes
+EMP-2020-0860,Ivy,Patel,thirty,1994,SIXTY THOUSAND,Male,Finance,Director,1/15/2020,F,8,ivy.patel@saltcorp.com,123-456-7890,Contract,EMP-2019-0035,8,,3,N/A,13,No,4,No
+EMP-2019-0861,Bob,Wilson,50,1974,63000,Female,Sales,Clerk,12/1/2019,A,94,bob.wilson@saltcorp.com,555-555-5555,contract,EMP-2020-0029,4,,,,63,Yes,1,Yes
+EMP-2020-0862,Hannah,Young,40,1984,55000,Female,Marketing,Assistant,2/20/2020,B,89,hannah.young@saltcorp.com,,contract,,4,1,,10/1/2021,,No,3,Yes
+EMP-2018-0863,Jack,Oliver,,1991,SIXTY THOUSAND,Male,Sales,Analyst,4/5/2018,F,55,jack.oliver@saltcorp.com,123-456-7890,FULL-TIME,,4,,10,,56,No,2,Yes
+EMP-2019-0864,Charlie,Matthews,35,1989,65000,Male,HR,Assistant,3/25/2019,F,4,charlie.matthews@saltcorp.com, ,full-time,EMP-2020-0030,5,,,,,,1,Yes
+EMP-2019-0865,Eve,Davidson,40,1984,70000,Female,finance,Clerk,3/25/2019,D,62,eve.davidson@saltcorp.com,123-456-7890,contract,,4,,2,,,yes,4,No
+EMP-2020-0866,Frank,Ward,thirty,1994,55000,Male,HR,Clerk,2/20/2020,A,98,frank.ward@saltcorp.com,,Part-Time,EMP-2020-0008,4,N/A,,6/20/2022,,,4,Yes
+EMP-2019-0867,Jack,Ryan,40,1984,55000,Female,hr,Clerk,12/1/2019,C,73,jack.ryan@saltcorp.com,555-555-5555,FULL-TIME,EMP-2019-0046,4,,,8/12/2024,26,Yes,4,No
+EMP-2020-0868,Frank,Weber,25,1999,65000,Male,IT,Manager,2/20/2020,A,90,frank.weber@saltcorp.com,123-456-7890,full-time,,4,,,1/15/2023,9,no,3,Yes
+EMP-2019-0869,David,O'Brien,35,1989,60800,Female,finance,Analyst,12/1/2019,C,76,david.o'brien@saltcorp.com,123-456-7890,Part-Time,,6,N/A,,8/12/2024,52,No,1,Yes
+EMP-2018-0870,Charlie,Armstrong,thirty,1994,50000,Male,HR,Assistant,4/5/2018,B,83,charlie.armstrong@saltcorp.com, ,part-time,EMP-2020-0073,3,13,20,,53,Yes,4,No
+EMP-2019-0871,David,Walker,,1992,70000,Male,Marketing,Assistant,12/1/2019,B,82,david.walker@saltcorp.com, ,part-time,,2,N/A,19,,45,,1,No
+EMP-2020-0872,Alice,Gibson,50,1974,55000,Male,HR,Director,2/20/2020,F,47,alice.gibson@saltcorp.com,123-456-7890,Full-Time,EMP-2019-0005,2,2,8,,32,,5,No
+EMP-2018-0873,David,McCoy,thirty,1994,70000,Female,marketing,Clerk,4/5/2018,B,84,david.mccoy@saltcorp.com,123-456-7890,full-time,EMP-2020-0029,2,,6,,,YES,4,No
+EMP-2020-0874,Alice,Johnston,,1993,55000,Female,it,Clerk,1/15/2020,F,41,alice.johnston@saltcorp.com, ,part-time,,8,,0,,,YES,3,No
+EMP-2019-0875,Alice,Riley,50,1974,70000,Female,HR,Clerk,3/25/2019,A,93,alice.riley@saltcorp.com,,part-time,,1,,,8/12/2024,,No,1,No
+EMP-2020-0876,Jack,O'Neill,50,1974,SIXTY THOUSAND,Male,Sales,Assistant,2/20/2020,B,80,jack.o'neill@saltcorp.com,098-765-4321,contract,EMP-2019-0008,1,,10,,,No,2,No
+EMP-2020-0877,Frank,Andrews,thirty,1994,55000,Male,it,Director,2/20/2020,A,92,frank.andrews@saltcorp.com,098-765-4321,Full-Time,EMP-2020-0019,8,,,3/5/2023,,Yes,2,No
+EMP-2020-0878,Eve,Parker,40,1984,70000,Female,Marketing,Manager,2/20/2020,A,99,eve.parker@saltcorp.com,123-456-7890,Full-Time,,6,N/A,0,,64,no,4,No
+EMP-2018-0879,David,Dixon,40,1984,50000,Male,it,Analyst,4/5/2018,B,85,david.dixon@saltcorp.com, ,contract,,6,2,11,N/A,,No,1,Yes
+EMP-2020-0880,Charlie,White,50,1974,SIXTY THOUSAND,Female,HR,Manager,1/15/2020,A,97,charlie.white@saltcorp.com,555-555-5555,full-time,EMP-2019-0042,8,4,,,,Yes,1,Yes
+EMP-2019-0881,Alice,Lee,40,1984,SIXTY THOUSAND,Female,finance,Assistant,12/1/2019,B,81,alice.lee@saltcorp.com,555-555-5555,Part-Time,,5,,,10/1/2021,,Yes,4,No
+EMP-2020-0882,Frank,Harrison,25,1999,50000,Female,finance,Clerk,1/15/2020,B,88,frank.harrison@saltcorp.com,098-765-4321,FULL-TIME,,8,,,1/15/2023,,yes,1,Yes
+EMP-2018-0883,Bob,Johnson,50,1974,70000,Male,marketing,Analyst,4/5/2018,B,81,bob.johnson@saltcorp.com,,full-time,,3,N/A,0,,49,Yes,2,No
+EMP-2020-0884,Hannah,Long,50,1974,65000,Female,Marketing,Assistant,2/20/2020,C,74,hannah.long@saltcorp.com,098-765-4321,Part-Time,EMP-2020-0046,5,,,,,No,3,No
+EMP-2019-0885,Jack,Sullivan,,1983,50000,Male,Finance,Assistant,3/25/2019,A,100,jack.sullivan@saltcorp.com,123-456-7890,Full-Time,,7,,,,,YES,1,No
+EMP-2020-0886,Eve,Mitchell,40,1984,70000,Female,Marketing,Assistant,2/20/2020,D,66,eve.mitchell@saltcorp.com,,Contract,EMP-2019-0017,4,,,,,No,1,No
+EMP-2019-0887,Grace,Wang,50,1974,50000,Female,it,Analyst,12/1/2019,B,82,grace.wang@saltcorp.com,555-555-5555,full-time,,3,,,,50,No,3,No
+EMP-2019-0888,Jack,Navarro,25,1999,50000,Male,Sales,Analyst,3/25/2019,A,94,jack.navarro@saltcorp.com, ,Contract,,1,,9,,,,1,Yes
+EMP-2020-0889,Bob,Lucas,,1977,55000,Female,Sales,Director,2/20/2020,F,21,bob.lucas@saltcorp.com, ,Part-Time,EMP-2020-0005,7,,13,N/A,,YES,1,Yes
+EMP-2019-0890,Hannah,Hanson,thirty,1994,70000,Male,IT,Director,3/25/2019,B,88,hannah.hanson@saltcorp.com,123-456-7890,full-time,,8,,,,,No,5,Yes
+EMP-2020-0891,Bob,Garcia,50,1974,65000,Female,Sales,Manager,1/15/2020,B,82,bob.garcia@saltcorp.com,098-765-4321,Contract,,1,6,8,3/5/2023,,,1,Yes
+EMP-2018-0892,David,Knight,25,1999,55000,Male,HR,Analyst,4/5/2018,D,64,david.knight@saltcorp.com,123-456-7890,Contract,,6,5,,,47,YES,5,No
+EMP-2020-0893,Alice,Aguilar,35,1989,50000,Male,it,Analyst,2/20/2020,C,75,alice.aguilar@saltcorp.com, ,FULL-TIME,,7,,,8/12/2024,,no,4,No
+EMP-2019-0894,Eve,Turner,25,1999,60300,Male,Marketing,Analyst,12/1/2019,C,74,eve.turner@saltcorp.com,555-555-5555,full-time,EMP-2019-0058,3,,,,71,no,2,No
+EMP-2020-0895,Ivy,Kumar,25,1999,50000,Male,it,Director,1/15/2020,B,85,ivy.kumar@saltcorp.com, ,Contract,EMP-2018-0089,8,,,,,No,1,No
+EMP-2020-0896,Alice,Castillo,,1986,50000,Female,Finance,Assistant,2/20/2020,A,97,alice.castillo@saltcorp.com,,FULL-TIME,EMP-2018-0093,2,N/A,,,,,4,No
+EMP-2020-0897,Ivy,Dominguez,thirty,1994,70000,Female,Marketing,Clerk,1/15/2020,F,4,ivy.dominguez@saltcorp.com, ,FULL-TIME,,8,,12,,70,,5,No
+EMP-2019-0898,Hannah,Santos,35,1989,70000,Female,finance,Director,12/1/2019,F,55,hannah.santos@saltcorp.com, ,full-time,,6,,11,,,Yes,4,No
+EMP-2020-0899,Frank,Schmidt,40,1984,55000,Male,Marketing,Analyst,2/20/2020,A,100,frank.schmidt@saltcorp.com,,Contract,,1,,,1/15/2023,47,Yes,2,Yes
+EMP-2019-0900,Grace,Wu,40,1984,65000,Female,Sales,Director,12/1/2019,B,82,grace.wu@saltcorp.com,098-765-4321,FULL-TIME,,1,,,,,yes,4,Yes
+EMP-2019-0901,Charlie,Walker,25,1999,55000,Male,IT,Manager,3/25/2019,F,20,charlie.walker@saltcorp.com, ,Full-Time,,4,,,N/A,,No,5,No
+EMP-2019-0902,Alice,Chen,,1989,SIXTY THOUSAND,Male,hr,Analyst,12/1/2019,C,77,alice.chen@saltcorp.com,123-456-7890,full-time,,7,,,N/A,40,no,4,No
+EMP-2019-0903,Eve,Turner,,1981,50000,Male,Marketing,Manager,3/25/2019,A,92,eve.turner@saltcorp.com, ,Full-Time,EMP-2018-0038,2,,,10/1/2021,10,yes,2,No
+EMP-2020-0904,Bob,Johnson,40,1984,60300,Male,Marketing,Analyst,2/20/2020,D,69,bob.johnson@saltcorp.com,123-456-7890,contract,,6,,,,,yes,4,No
+EMP-2019-0905,Eve,Castillo,35,1989,50000,Female,finance,Director,3/25/2019,B,87,eve.castillo@saltcorp.com,,part-time,,6,,,1/15/2023,29,no,2,No
+EMP-2020-0906,Hannah,Thomas,thirty,1994,50000,Female,Sales,Assistant,2/20/2020,A,96,hannah.thomas@saltcorp.com, ,Full-Time,,5,14,,,,,2,No
+EMP-2020-0907,Ivy,McCoy,35,1989,55000,Male,Finance,Clerk,2/20/2020,F,12,ivy.mccoy@saltcorp.com,,Contract,,3,,,6/20/2022,,yes,3,Yes
+EMP-2018-0908,Bob,Hanson,50,1974,59500,Male,Finance,Manager,4/5/2018,B,80,bob.hanson@saltcorp.com,,Part-Time,,5,,,,,No,2,Yes
+EMP-2020-0909,Charlie,Lewis,50,1974,63000,Male,sales,Director,2/20/2020,C,73,charlie.lewis@saltcorp.com,098-765-4321,contract,EMP-2019-0084,4,N/A,18,,13,no,5,No
+EMP-2019-0910,Charlie,White,thirty,1994,61500,Male,HR,Assistant,3/25/2019,B,84,charlie.white@saltcorp.com, ,Full-Time,EMP-2019-0021,5,,,,,,5,No
+EMP-2018-0911,Alice,Williams,40,1984,55000,Male,Finance,Director,4/5/2018,B,89,alice.williams@saltcorp.com,123-456-7890,FULL-TIME,,8,,15,,26,YES,1,Yes
+EMP-2018-0912,Hannah,Powell,thirty,1994,50000,Male,Finance,Manager,4/5/2018,C,74,hannah.powell@saltcorp.com,123-456-7890,contract,,6,3,8,N/A,,Yes,2,Yes
+EMP-2020-0913,Frank,Perez,,1991,55000,Female,marketing,Clerk,2/20/2020,C,78,frank.perez@saltcorp.com, ,Full-Time,EMP-2019-0039,6,N/A,,10/1/2021,,Yes,5,Yes
+EMP-2019-0914,Hannah,Hansen,50,1974,70000,Female,Sales,Director,12/1/2019,B,82,hannah.hansen@saltcorp.com,098-765-4321,FULL-TIME,,3,,7,,,No,5,No
+EMP-2019-0915,Ivy,Singh,25,1999,70000,Female,IT,Analyst,12/1/2019,C,76,ivy.singh@saltcorp.com,098-765-4321,Full-Time,,8,3,20,,,No,5,No
+EMP-2018-0916,Eve,Bishop,25,1999,55000,Male,HR,Assistant,4/5/2018,A,93,eve.bishop@saltcorp.com,098-765-4321,Part-Time,,7,,,,,No,1,No
+EMP-2020-0917,Charlie,Gibson,40,1984,60900,Male,HR,Director,2/20/2020,C,71,charlie.gibson@saltcorp.com,123-456-7890,Part-Time,EMP-2019-0026,4,,12,8/12/2024,,YES,3,No
+EMP-2019-0918,Eve,Schmidt,,1994,50000,Male,Sales,Assistant,12/1/2019,C,76,,,FULL-TIME,,7,1,2,N/A,,Yes,1,Yes
+EMP-2020-0919,Eve,Andrews,35,1989,55000,Female,Marketing,Analyst,2/20/2020,B,89,eve.andrews@saltcorp.com,098-765-4321,Full-Time,,6,,,,,YES,1,No
+EMP-2020-0920,Eve,Bell,,1992,55000,Female,Marketing,Clerk,2/20/2020,A,100,eve.bell@saltcorp.com,123-456-7890,part-time,,6,,11,10/1/2021,,yes,3,No
+EMP-2018-0921,Charlie,Taylor,25,1999,55000,Male,Sales,Clerk,4/5/2018,D,66,,123-456-7890,Part-Time,EMP-2020-0034,7,4,10,6/20/2022,,,2,Yes
+EMP-2018-0922,Jack,Gutierrez,25,1999,SIXTY THOUSAND,Male,Marketing,Analyst,4/5/2018,D,62,,,Part-Time,,5,,14,3/5/2023,,,3,Yes
+EMP-2020-0923,David,Patel,50,1974,70000,Male,HR,Assistant,1/15/2020,F,42,david.patel@saltcorp.com, ,Part-Time,,8,N/A,,6/20/2022,,No,3,Yes
+EMP-2019-0924,Ivy,Shah,,1968,60900,Female,HR,Director,12/1/2019,C,74,ivy.shah@saltcorp.com, ,full-time,,3,N/A,,10/1/2021,,Yes,4,No
+EMP-2019-0925,Jack,Schmidt,,1997,65000,Female,IT,Analyst,12/1/2019,C,71,jack.schmidt@saltcorp.com,098-765-4321,contract,,3,,7,,,Yes,5,No
+EMP-2019-0926,Ivy,Ward,25,1999,61500,Male,Sales,Manager,12/1/2019,A,99,ivy.ward@saltcorp.com,098-765-4321,Full-Time,,4,N/A,,,,Yes,2,No
+EMP-2019-0927,Bob,Hansen,35,1989,65000,Male,Finance,Assistant,3/25/2019,D,69,,,part-time,,2,,6,,,Yes,4,Yes
+EMP-2020-0928,Hannah,Dixon,40,1984,SIXTY THOUSAND,Male,Finance,Clerk,2/20/2020,F,45,,098-765-4321,Part-Time,,5,,,,,no,5,No
+EMP-2018-0929,Hannah,Aguilar,40,1984,55000,Female,IT,Analyst,4/5/2018,A,96,,,full-time,,4,,,,56,,1,Yes
+EMP-2019-0930,Grace,Ward,,1996,SIXTY THOUSAND,Female,it,Clerk,12/1/2019,C,77,,123-456-7890,contract,,7,5,1,,,No,2,No
+EMP-2020-0931,Hannah,Hudson,40,1984,SIXTY THOUSAND,Female,marketing,Assistant,1/15/2020,D,61,hannah.hudson@saltcorp.com,098-765-4321,Contract,,7,,,8/12/2024,,No,4,No
+EMP-2019-0932,Charlie,White,25,1999,50000,Female,IT,Clerk,12/1/2019,F,49,,123-456-7890,FULL-TIME,,4,,19,,,No,2,No
+EMP-2020-0933,Frank,Gonzalez,25,1999,70000,Male,it,Analyst,2/20/2020,B,81,frank.gonzalez@saltcorp.com,555-555-5555,Contract,,3,,4,,,Yes,3,No
+EMP-2020-0934,Alice,Le,,1992,65000,Male,finance,Assistant,2/20/2020,D,64,,,Part-Time,,3,14,4,,,,4,Yes
+EMP-2018-0935,Grace,Zhou,,1973,55000,Female,Marketing,Manager,4/5/2018,F,54,grace.zhou@saltcorp.com,555-555-5555,part-time,EMP-2019-0023,8,,,,67,No,3,No
+EMP-2019-0936,Alice,Harrison,50,1974,65000,Female,IT,Analyst,3/25/2019,A,94,alice.harrison@saltcorp.com,098-765-4321,part-time,,1,,,,,No,2,No
+EMP-2018-0937,Ivy,Oliver,,1980,60100,Female,IT,Director,4/5/2018,B,81,ivy.oliver@saltcorp.com,123-456-7890,contract,,3,N/A,,,56,yes,1,Yes
+EMP-2019-0938,Alice,Ross,35,1989,65000,Female,Marketing,Analyst,12/1/2019,F,57,alice.ross@saltcorp.com,098-765-4321,contract,EMP-2020-0056,7,15,,,,No,4,No
+EMP-2020-0939,Alice,Lee,40,1984,58300,Male,Sales,Assistant,1/15/2020,F,23,alice.lee@saltcorp.com,555-555-5555,Full-Time,,8,N/A,,,,Yes,2,Yes
+EMP-2018-0940,Grace,Powers,,1992,70000,Female,marketing,Analyst,4/5/2018,C,71,grace.powers@saltcorp.com,098-765-4321,FULL-TIME,,3,4,6,N/A,80,Yes,4,No
+EMP-2019-0941,Bob,Walker,thirty,1994,59500,Male,Finance,Manager,3/25/2019,D,67,, ,FULL-TIME,,6,,,N/A,,no,4,No
+EMP-2018-0942,Eve,Thomas,50,1974,65000,Female,Sales,Manager,4/5/2018,C,71,eve.thomas@saltcorp.com,555-555-5555,Part-Time,,8,1,6,10/1/2021,,Yes,2,Yes
+EMP-2020-0943,Hannah,Hoffman,thirty,1994,65000,Female,HR,Director,2/20/2020,B,82,hannah.hoffman@saltcorp.com,098-765-4321,Contract,,5,6,,1/15/2023,,,1,No
+EMP-2019-0944,Hannah,Powell,25,1999,58600,Male,Marketing,Clerk,12/1/2019,F,11,,123-456-7890,Full-Time,,5,N/A,,,,no,5,Yes
+EMP-2019-0945,Charlie,Moore,40,1984,SIXTY THOUSAND,Male,Finance,Assistant,12/1/2019,C,75,charlie.moore@saltcorp.com,098-765-4321,part-time,,1,,,,51,Yes,3,No
+EMP-2019-0946,Grace,Wu,,1991,70000,Female,sales,Assistant,12/1/2019,D,67,grace.wu@saltcorp.com,123-456-7890,Full-Time,,7,15,,,44,No,2,No
+EMP-2019-0947,Charlie,Taylor,thirty,1994,50000,Male,Marketing,Clerk,12/1/2019,B,87,charlie.taylor@saltcorp.com, ,Contract,,2,,9,,79,No,4,No
+EMP-2019-0948,Frank,Sanchez,40,1984,55000,Male,it,Manager,12/1/2019,A,100,,098-765-4321,part-time,,3,N/A,,,26,No,2,No
+EMP-2019-0949,Frank,Lopez,25,1999,65000,Male,Marketing,Manager,12/1/2019,C,73,frank.lopez@saltcorp.com, ,contract,,1,,12,,,Yes,3,No
+EMP-2020-0950,Charlie,Navarro,35,1989,55000,Male,HR,Analyst,1/15/2020,B,89,charlie.navarro@saltcorp.com,555-555-5555,full-time,,4,N/A,,1/15/2023,,No,4,No
+EMP-2019-0951,Grace,Huang,50,1974,50000,Female,Marketing,Director,3/25/2019,A,93,grace.huang@saltcorp.com,123-456-7890,full-time,,5,,12,,,yes,2,Yes
+EMP-2019-0952,Charlie,White,40,1984,55000,Male,Sales,Director,12/1/2019,C,70,charlie.white@saltcorp.com,555-555-5555,contract,,8,,5,6/20/2022,,,1,Yes
+EMP-2019-0953,Hannah,Perry,40,1984,50000,Male,Sales,Director,3/25/2019,B,88,hannah.perry@saltcorp.com,123-456-7890,Part-Time,,2,,,,17,No,5,Yes
+EMP-2019-0954,Jack,Walsh,35,1989,60300,Male,Marketing,Analyst,12/1/2019,B,81,jack.walsh@saltcorp.com, ,Full-Time,,8,,,,9,Yes,2,No
+EMP-2018-0955,David,Kim,40,1984,SIXTY THOUSAND,Male,Sales,Director,4/5/2018,C,70,david.kim@saltcorp.com,,part-time,,6,3,,3/5/2023,,no,1,Yes
+EMP-2019-0956,Alice,Williams,25,1999,65000,Female,IT,Clerk,12/1/2019,B,86,alice.williams@saltcorp.com,098-765-4321,contract,,5,,,N/A,,No,4,No
+EMP-2020-0957,David,Ross,25,1999,50000,Female,marketing,Analyst,2/20/2020,F,5,david.ross@saltcorp.com, ,FULL-TIME,,6,,12,,,yes,1,No
+EMP-2020-0958,Grace,Zhang,35,1989,55000,Male,IT,Clerk,1/15/2020,C,75,grace.zhang@saltcorp.com,123-456-7890,contract,,6,,,,,no,4,No
+EMP-2018-0959,David,Sullivan,50,1974,65000,Male,IT,Analyst,4/5/2018,B,80,david.sullivan@saltcorp.com,123-456-7890,Part-Time,,5,,20,,,YES,1,Yes
+EMP-2018-0960,Frank,Hudson,,1966,SIXTY THOUSAND,Male,Finance,Director,4/5/2018,A,90,frank.hudson@saltcorp.com,123-456-7890,Full-Time,EMP-2020-0088,6,,,3/5/2023,,Yes,5,No
+EMP-2020-0961,Ivy,Bennett,thirty,1994,58600,Male,Marketing,Clerk,2/20/2020,A,91,ivy.bennett@saltcorp.com,123-456-7890,contract,,1,1,,,,Yes,5,No
+EMP-2019-0962,Alice,Weber,,1996,65000,Female,Sales,Clerk,12/1/2019,F,21,alice.weber@saltcorp.com,098-765-4321,FULL-TIME,,7,12,16,,,Yes,3,No
+EMP-2020-0963,Eve,Hanson,40,1984,50000,Female,IT,Clerk,1/15/2020,C,73,,555-555-5555,Contract,,2,,,,,No,2,No
+EMP-2018-0964,Grace,Wu,thirty,1994,SIXTY THOUSAND,Female,Finance,Analyst,4/5/2018,B,89,grace.wu@saltcorp.com,,FULL-TIME,EMP-2020-0012,6,,,N/A,12,,3,No
+EMP-2020-0965,Alice,Thompson,35,1989,55000,Male,marketing,Assistant,1/15/2020,B,85,alice.thompson@saltcorp.com,098-765-4321,contract,,4,,,,,,3,No
+EMP-2018-0966,David,Bennett,35,1989,SIXTY THOUSAND,Female,marketing,Director,4/5/2018,A,100,david.bennett@saltcorp.com,123-456-7890,part-time,,3,2,,,,yes,3,No
+EMP-2019-0967,Frank,Barnett,50,1974,SIXTY THOUSAND,Male,hr,Clerk,12/1/2019,F,23,frank.barnett@saltcorp.com,098-765-4321,FULL-TIME,,5,,12,8/12/2024,,No,3,Yes
+EMP-2018-0968,Bob,Johnson,thirty,1994,70000,Male,HR,Assistant,4/5/2018,A,91,bob.johnson@saltcorp.com, ,Full-Time,,6,4,8,1/15/2023,,No,3,No
+EMP-2018-0969,Jack,Knight,25,1999,SIXTY THOUSAND,Male,IT,Director,4/5/2018,A,96,jack.knight@saltcorp.com,123-456-7890,FULL-TIME,,6,,,N/A,,,1,Yes
+EMP-2019-0970,Eve,Gibson,thirty,1994,SIXTY THOUSAND,Female,HR,Director,3/25/2019,F,29,eve.gibson@saltcorp.com,,part-time,EMP-2018-0026,8,,9,N/A,,,4,No
+EMP-2019-0971,Jack,Wells,40,1984,65000,Male,it,Clerk,12/1/2019,C,71,jack.wells@saltcorp.com,123-456-7890,FULL-TIME,,8,11,,,,No,4,No
+EMP-2020-0972,Alice,Hoffman,25,1999,55000,Female,sales,Clerk,2/20/2020,B,89,alice.hoffman@saltcorp.com,,Full-Time,,2,,,,29,,3,Yes
+EMP-2020-0973,Frank,Perez,35,1989,65000,Female,IT,Analyst,2/20/2020,C,78,frank.perez@saltcorp.com,,Contract,,7,N/A,5,,,yes,4,Yes
+EMP-2019-0974,Frank,Gonzalez,thirty,1994,65000,Male,HR,Assistant,12/1/2019,D,68,,555-555-5555,part-time,,5,,,6/20/2022,,no,2,No
+EMP-2020-0975,David,Oliver,,1993,50000,Female,Sales,Assistant,2/20/2020,D,68,david.oliver@saltcorp.com,555-555-5555,full-time,,8,13,,,46,,5,No
+EMP-2019-0976,Hannah,Figueroa,50,1974,65000,Female,HR,Clerk,12/1/2019,D,62,hannah.figueroa@saltcorp.com,098-765-4321,contract,,3,,13,,,YES,4,No
+EMP-2020-0977,David,Sullivan,,1969,70000,Male,it,Director,2/20/2020,F,32,david.sullivan@saltcorp.com,098-765-4321,Contract,EMP-2018-0037,3,,,,,YES,3,No
+EMP-2019-0978,Hannah,Perry,50,1974,70000,Female,Finance,Clerk,3/25/2019,A,96,hannah.perry@saltcorp.com,,Full-Time,EMP-2018-0074,6,N/A,,,,Yes,3,No
+EMP-2020-0979,Hannah,Rogers,40,1984,50000,Male,Marketing,Director,2/20/2020,C,74,hannah.rogers@saltcorp.com,123-456-7890,part-time,,7,N/A,,6/20/2022,,No,2,Yes
+EMP-2018-0980,Eve,Reed,,1983,60900,Female,HR,Director,4/5/2018,B,82,eve.reed@saltcorp.com, ,contract,,7,N/A,7,1/15/2023,37,no,4,Yes
+EMP-2019-0981,David,Bell,thirty,1994,55000,Male,it,Clerk,12/1/2019,D,65,, ,Contract,,2,3,,,47,YES,4,No
+EMP-2020-0982,Bob,Williamson,thirty,1994,55000,Female,Sales,Manager,1/15/2020,C,73,bob.williamson@saltcorp.com,123-456-7890,Full-Time,EMP-2018-0083,2,N/A,,N/A,,,5,No
+EMP-2020-0983,Charlie,Hudson,,1991,65000,Female,hr,Assistant,1/15/2020,D,62,charlie.hudson@saltcorp.com,123-456-7890,FULL-TIME,,3,,5,,,Yes,3,No
+EMP-2019-0984,Charlie,White,thirty,1994,65000,Female,HR,Director,12/1/2019,D,65,charlie.white@saltcorp.com,555-555-5555,full-time,,6,,14,,,,3,Yes
+EMP-2019-0985,David,Davidson,40,1984,60500,Female,Marketing,Director,3/25/2019,B,89,david.davidson@saltcorp.com, ,FULL-TIME,,4,9,8,,,,2,No
+EMP-2020-0986,David,Aguilar,25,1999,65000,Female,IT,Manager,2/20/2020,F,33,david.aguilar@saltcorp.com,,full-time,,6,1,,,,no,3,No
+EMP-2019-0987,Jack,Pearson,40,1984,55000,Female,Finance,Analyst,3/25/2019,A,91,jack.pearson@saltcorp.com,098-765-4321,Full-Time,,6,13,16,1/15/2023,18,Yes,4,No
+EMP-2020-0988,Eve,Bell,50,1974,SIXTY THOUSAND,Female,Sales,Manager,1/15/2020,F,48,eve.bell@saltcorp.com,555-555-5555,full-time,,5,,16,1/15/2023,,YES,2,No
+EMP-2019-0989,David,Ross,40,1984,70000,Female,IT,Manager,12/1/2019,C,74,david.ross@saltcorp.com, ,Contract,,5,2,,,,no,1,No
+EMP-2019-0990,Jack,McCoy,50,1974,SIXTY THOUSAND,Female,sales,Director,12/1/2019,F,2,jack.mccoy@saltcorp.com,123-456-7890,contract,EMP-2018-0062,7,,7,,,,5,Yes
+EMP-2019-0991,Hannah,Powell,thirty,1994,SIXTY THOUSAND,Male,HR,Assistant,3/25/2019,C,71,hannah.powell@saltcorp.com, ,FULL-TIME,,5,5,6,,,,2,No
+EMP-2019-0992,Frank,Lopez,25,1999,55000,Male,marketing,Manager,3/25/2019,C,73,frank.lopez@saltcorp.com,,full-time,,8,,20,,,,2,Yes
+EMP-2020-0993,Frank,Ramirez,thirty,1994,SIXTY THOUSAND,Female,Marketing,Analyst,2/20/2020,A,93,frank.ramirez@saltcorp.com,555-555-5555,contract,,6,,,,,yes,2,No
+EMP-2018-0994,Hannah,Harrison,35,1989,61300,Female,Finance,Clerk,4/5/2018,B,86,hannah.harrison@saltcorp.com,123-456-7890,Part-Time,EMP-2020-0098,8,N/A,,N/A,57,No,2,No
+EMP-2018-0995,Grace,Zhang,thirty,1994,50000,Female,Marketing,Manager,4/5/2018,A,90,,,full-time,,7,,10,6/20/2022,,Yes,5,No
+EMP-2020-0996,Jack,West,50,1974,65000,Female,hr,Manager,2/20/2020,F,34,jack.west@saltcorp.com,098-765-4321,Part-Time,,3,,,8/12/2024,,no,1,No
+EMP-2018-0997,Jack,Hansen,thirty,1994,50000,Male,Finance,Analyst,4/5/2018,C,73,jack.hansen@saltcorp.com,555-555-5555,contract,EMP-2018-0093,3,,16,,,no,3,Yes
+EMP-2020-0998,Hannah,Foster,thirty,1994,70000,Male,IT,Assistant,1/15/2020,D,62,hannah.foster@saltcorp.com,,part-time,,1,5,,6/20/2022,38,Yes,4,No
+EMP-2018-0999,Bob,Smith,25,1999,65000,Male,Marketing,Manager,4/5/2018,D,60,bob.smith@saltcorp.com,,contract,,3,,,,,No,1,Yes
+EMP-2020-1000,Ivy,Garrett,thirty,1994,SIXTY THOUSAND,Male,Finance,Manager,2/20/2020,C,74,ivy.garrett@saltcorp.com,123-456-7890,Contract,,4,N/A,,,,Yes,4,No
