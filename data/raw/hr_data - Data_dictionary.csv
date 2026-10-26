@@ -1,0 +1,26 @@
+HR DATASET - COLUMN DICTIONARY,,
+column_name,description,data_type
+employee_id,Unique identifier for each employee,STRING
+first_name,Employee's first name,STRING
+last_name,Employee's family name or surname,STRING
+age,Employee's age in years,INTEGER
+birth_year,Year the employee was born,INTEGER
+salary,Annual salary in USD,FLOAT
+gender,Employee's gender identity,STRING
+department,Company department where employee works,STRING
+position,Employee's job title or role,STRING
+joining_date,Date employee started at the company,DATE
+performance_score,Letter grade performance rating (A–F) A is the best F is the worst,STRING
+performance_score_numeric,Performance rating on 0–100 scale( 0 is the least and 100 is the highest),INTEGER
+email,Employee's work email address,STRING
+phone_number,Employee's contact phone number,STRING
+employment_status,Type of employment (Full-Time/Part-Time/Contract),STRING
+manager_id,Employee ID of direct supervisor,STRING
+years_of_service,Number of years employed at company,INTEGER
+sick_days_taken,Sick days used in current year,INTEGER
+vacation_days_remaining,Unused vacation days available,INTEGER
+last_promotion_date,Date of most recent promotion,DATE
+training_hours,Professional development hours completed,FLOAT
+benefits_enrolled,Whether enrolled in company benefits program,STRING
+attrition,Whether employee left the company or not,STRING
+job_satisfaction,"Job satisfaction rating from 1 to 5(1 – Very dissatisfied , 2 – Dissatisfied , 3 – Neutral , 4 – Satisfied , 5 – Very satisfied)",INTEGER
