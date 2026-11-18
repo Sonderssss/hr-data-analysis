@@ -60,7 +60,7 @@ def clean_hr_data(raw_path):
     df['Salary'] = pd.to_numeric(df['Salary'], errors='coerce').astype('Int64')
 
     df['Salary'] = df['Salary'].fillna(
-                                df.groupby('Department')['Salary'].transform('mean').round().astype('Int64'))
+                                df.groupby(['Department','Position'])['Salary'].transform('mean').round().astype('Int64'))
 
     print("--- Salary Data Validation Check ---")
     print(f"Salary missing values post-conversion: {df['Salary'].isna().sum()} (Expected: 0)\n")
