@@ -106,6 +106,22 @@ def clean_hr_data(raw_path):
     print(f"Joining Date blank count: {df['Joining Date'].isna().sum()} (Expected: 0)")
     print(f"Last Promotion Date blank count: {df['Last Promotion Date'].isna().sum()} (Expected: 641)\n")
 
+    # Creating the Age Band column
+    age_bins = [17, 29, 39, 49, 100]
+    age_labels = ['Under 30', '30-39', '40-49', '50 and Over']
+
+    df['Age Band'] = pd.cut(df['Age'], bins=age_bins ,labels=age_labels)
+
+    # Creating the Salary band column
+    salary_bins = [0, 54999, 59999 , 64999, 100000]
+
+    salary_label = ['Under 55000', '55000 to 59999', '60000 to 64999', '65000 and Over']
+
+    df['Salary Band'] = pd.cut(df['Salary'], bins=salary_bins, labels=salary_label)
+
+    # Confirming if there are any null values left in the salary column
+    print(df['Salary Band'].isna().sum())
+
     return df
 
 if __name__ == "__main__":
