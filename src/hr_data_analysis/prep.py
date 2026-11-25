@@ -39,12 +39,12 @@ def clean_hr_data(raw_path):
     # Fixing the salary column
 
     # Removing any non-numeric characters from the salary column and converting it to a numeric data type
-    df['Salary'] = df['Salary'].replace('SIXTY THOUSAND', 60000)
+    salary = df['Salary'].astype(str).str.strip().replace('SIXTY THOUSAND', 60000)
 
-    df['Salary'] = pd.to_numeric(df['Salary'], errors='coerce').astype('Int64')
+    df['Salary'] = pd.to_numeric(salary, errors='coerce').astype('Float64')
 
     df['Salary'] = df['Salary'].fillna(
-                                df.groupby(['Department','Position'])['Salary'].transform('mean').round().astype('Int64'))
+                                df.groupby(['Department','Position'])['Salary'].transform('mean').round().astype('Float64'))
 
     print("--- Salary Data Validation Check ---")
     print(f"Salary missing values post-conversion: {df['Salary'].isna().sum()} (Expected: 0)\n")
