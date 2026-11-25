@@ -7,35 +7,19 @@ def clean_hr_data(raw_path):
     print(f"Department blanks: {df['Department'].isna().sum()} (Expected: 0)")
     # Department
     department_map = {
-    'Finance':'Finance',
+        'Hr':'HR',
+        'It':'IT',
         'Sales':'Sales',
-        'HR':'HR',
-        'IT':'IT',
-        'Marketing':'Marketing',
-        'marketing':'Marketing',
-        'finance':'Finance',  
-        'it':'IT',
-        'hr':'HR',     
-        'sales':'Sales'
+        'Finance':'Finance', 
+        'Marketing':'Marketing'
     }
 
-    df['Department'] = df['Department'].str.strip().map(department_map)
+    df['Department'] = df['Department'].str.strip().str.title().map(department_map)
 
     ## Employment Status 
     print(f"Employment Status blanks: {df['Employment Status'].isna().sum()} (Expected: 0)")
 
-    employment_status_map = {
-        'Full-Time':'Full-Time',
-        'Part-Time':'Part-Time',
-        'full-time':'Full-Time',
-        'part-time':'Part-Time',
-        'FULL-TIME':'Full-Time',
-        'PART-TIME':'Part-Time',
-        'contract':'Contract',
-        'Contract':'Contract',
-    }
-
-    df['Employment Status'] = df['Employment Status'].str.strip().map(employment_status_map)
+    df['Employment Status'] = df['Employment Status'].str.strip().str().title()
 
     #Age
     #replacing all the string values in the Age column with the numeric values
@@ -80,16 +64,13 @@ def clean_hr_data(raw_path):
     print(f"Benefits Enrolled blanks: {df['Benefits Enrolled'].isna().sum()} (Expected: 210)\n")
 
     benefits_enrolled_map = {
-        'No':'No',
-        'Yes':'Yes',
-        'no':'No',
-        'YES':'Yes',
-        'yes':'Yes',
         'Y':'Yes',
-        'N':'No'
+        'N':'No',
+        'Yes':'Yes',
+        'No':'No'
     }
 
-    df['Benefits Enrolled'] = df['Benefits Enrolled'].str.strip().map(benefits_enrolled_map)
+    df['Benefits Enrolled'] = df['Benefits Enrolled'].str.strip().str.title().map(benefits_enrolled_map)
 
     df['Benefits Enrolled'] = df['Benefits Enrolled'].fillna('')
 
