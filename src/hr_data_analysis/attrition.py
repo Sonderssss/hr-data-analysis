@@ -3,6 +3,8 @@ from scipy.stats import chi2_contingency
 
 df = pd.read_parquet('data/processed/hr_data.parquet')
 
+df['Joining Date'] = df['Joining Date'].dt.year
+
 factor_list = [
     'Department', 'Position', 'Employment Status', 'Gender', 
     'Benefits Enrolled', 'Joining Date', 'Salary Band', 'Performance Score', 
@@ -49,9 +51,9 @@ for factor in factor_list:
 
     row_dict = {
         "Factor": factor,
-        "Highest Group":highest_group,
+        "Highest Group":str(highest_group),
         "Highest Value":highest_value,
-        "Lowest Group":lowest_group,
+        "Lowest Group":str(lowest_group),
         "Lowest Value":lowest_value,
         "Gap":round(gap,2),
         "Smallest Group Size": smalllest_group_size,
@@ -62,4 +64,4 @@ for factor in factor_list:
 
 summary_table = pd.DataFrame(summary_list).sort_values(by="Gap", ascending=False)
 
-summary_table
+summary_table.to_parquet('data/processed/attritions_scoreboard.parquet', index=False)
